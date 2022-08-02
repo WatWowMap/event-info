@@ -6,6 +6,8 @@
     "proto": "CHARACTER_UNSET",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "1": {
@@ -15,6 +17,8 @@
     "proto": "CHARACTER_BLANCHE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "2": {
@@ -24,6 +28,8 @@
     "proto": "CHARACTER_CANDELA",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "3": {
@@ -33,6 +39,8 @@
     "proto": "CHARACTER_SPARK",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "4": {
@@ -42,6 +50,8 @@
     "proto": "CHARACTER_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "5": {
@@ -51,6 +61,7 @@
     "proto": "CHARACTER_GRUNT_FEMALE",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -103,6 +114,8 @@
     "proto": "CHARACTER_BUG_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "7": {
@@ -112,6 +125,7 @@
     "proto": "CHARACTER_BUG_GRUNT_MALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -164,6 +178,8 @@
     "proto": "CHARACTER_DARKNESS_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "9": {
@@ -173,6 +189,8 @@
     "proto": "CHARACTER_DARKNESS_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "10": {
@@ -182,6 +200,7 @@
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -189,9 +208,19 @@
           "id": 509,
           "template": "PURRLOIN_NORMAL",
           "form": 1931
+        },
+        {
+          "id": 19,
+          "template": "RATTATA_ALOLA",
+          "form": 46
         }
       ],
       "second": [
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
+        },
         {
           "id": 434,
           "template": "STUNKY_NORMAL",
@@ -203,6 +232,11 @@
           "id": 332,
           "template": "CACTURNE_NORMAL",
           "form": 613
+        },
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
         },
         {
           "id": 430,
@@ -219,6 +253,8 @@
     "proto": "CHARACTER_DARK_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "12": {
@@ -227,7 +263,8 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DRAGON_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -235,6 +272,11 @@
           "id": 147,
           "template": "DRATINI_NORMAL",
           "form": 190
+        },
+        {
+          "id": 103,
+          "template": "EXEGGUTOR_ALOLA",
+          "form": 78
         }
       ],
       "second": [
@@ -242,6 +284,11 @@
           "id": 330,
           "template": "FLYGON_NORMAL",
           "form": 752
+        },
+        {
+          "id": 103,
+          "template": "EXEGGUTOR_ALOLA",
+          "form": 78
         }
       ],
       "third": [
@@ -270,6 +317,8 @@
     "proto": "CHARACTER_DRAGON_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "14": {
@@ -279,6 +328,7 @@
     "proto": "CHARACTER_FAIRY_GRUNT_FEMALE",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -331,6 +381,8 @@
     "proto": "CHARACTER_FAIRY_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "16": {
@@ -340,6 +392,7 @@
     "proto": "CHARACTER_FIGHTING_GRUNT_FEMALE",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -392,6 +445,8 @@
     "proto": "CHARACTER_FIGHTING_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "18": {
@@ -401,6 +456,7 @@
     "proto": "CHARACTER_FIRE_GRUNT_FEMALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -453,6 +509,8 @@
     "proto": "CHARACTER_FIRE_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "20": {
@@ -462,6 +520,7 @@
     "proto": "CHARACTER_FLYING_GRUNT_FEMALE",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -519,6 +578,8 @@
     "proto": "CHARACTER_FLYING_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "22": {
@@ -528,6 +589,8 @@
     "proto": "CHARACTER_GRASS_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "23": {
@@ -537,6 +600,7 @@
     "proto": "CHARACTER_GRASS_GRUNT_MALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -584,6 +648,8 @@
     "proto": "CHARACTER_GROUND_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "25": {
@@ -593,6 +659,7 @@
     "proto": "CHARACTER_GROUND_GRUNT_MALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -644,10 +711,16 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ICE_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
+        {
+          "id": 27,
+          "template": "SANDSHREW_ALOLA",
+          "form": 52
+        },
         {
           "id": 220,
           "template": "SWINUB_NORMAL",
@@ -655,6 +728,11 @@
         }
       ],
       "second": [
+        {
+          "id": 28,
+          "template": "SANDSLASH_ALOLA",
+          "form": 54
+        },
         {
           "id": 459,
           "template": "SNOVER_NORMAL",
@@ -687,6 +765,8 @@
     "proto": "CHARACTER_ICE_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "28": {
@@ -696,6 +776,8 @@
     "proto": "CHARACTER_METAL_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "29": {
@@ -705,6 +787,8 @@
     "proto": "CHARACTER_METAL_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "30": {
@@ -714,6 +798,8 @@
     "proto": "CHARACTER_NORMAL_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "31": {
@@ -723,6 +809,7 @@
     "proto": "CHARACTER_NORMAL_GRUNT_MALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -785,6 +872,7 @@
     "proto": "CHARACTER_POISON_GRUNT_FEMALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -837,6 +925,8 @@
     "proto": "CHARACTER_POISON_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "34": {
@@ -846,6 +936,8 @@
     "proto": "CHARACTER_PSYCHIC_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "35": {
@@ -855,6 +947,7 @@
     "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -907,6 +1000,8 @@
     "proto": "CHARACTER_ROCK_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "37": {
@@ -916,6 +1011,7 @@
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -973,6 +1069,7 @@
     "proto": "CHARACTER_WATER_GRUNT_FEMALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1020,6 +1117,7 @@
     "proto": "CHARACTER_WATER_GRUNT_MALE",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1056,6 +1154,8 @@
     "proto": "CHARACTER_PLAYER_TEAM_LEADER",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "41": {
@@ -1065,6 +1165,7 @@
     "proto": "CHARACTER_EXECUTIVE_CLIFF",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1117,6 +1218,7 @@
     "proto": "CHARACTER_EXECUTIVE_ARLO",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1169,6 +1271,7 @@
     "proto": "CHARACTER_EXECUTIVE_SIERRA",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1221,6 +1324,7 @@
     "proto": "CHARACTER_GIOVANNI",
     "active": true,
     "secondReward": false,
+    "firstReward": false,
     "thirdReward": true,
     "encounters": {
       "first": [
@@ -1263,6 +1367,8 @@
     "proto": "CHARACTER_DECOY_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "46": {
@@ -1272,6 +1378,7 @@
     "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1314,6 +1421,8 @@
     "proto": "CHARACTER_GHOST_GRUNT_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "48": {
@@ -1323,6 +1432,7 @@
     "proto": "CHARACTER_GHOST_GRUNT_MALE",
     "active": true,
     "secondReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1380,6 +1490,7 @@
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
     "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
@@ -1432,6 +1543,8 @@
     "proto": "CHARACTER_ELECTRIC_GRUNT_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "53": {
@@ -1441,6 +1554,8 @@
     "proto": "CHARACTER_GRUNTB_FEMALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "54": {
@@ -1450,6 +1565,8 @@
     "proto": "CHARACTER_GRUNTB_MALE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "500": {
@@ -1459,6 +1576,8 @@
     "proto": "CHARACTER_EVENT_NPC_0",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "501": {
@@ -1468,6 +1587,8 @@
     "proto": "CHARACTER_EVENT_NPC_1",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "502": {
@@ -1477,6 +1598,8 @@
     "proto": "CHARACTER_EVENT_NPC_2",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "503": {
@@ -1486,6 +1609,8 @@
     "proto": "CHARACTER_EVENT_NPC_3",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "504": {
@@ -1495,6 +1620,8 @@
     "proto": "CHARACTER_EVENT_NPC_4",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "505": {
@@ -1504,6 +1631,8 @@
     "proto": "CHARACTER_EVENT_NPC_5",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "506": {
@@ -1513,6 +1642,8 @@
     "proto": "CHARACTER_EVENT_NPC_6",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "507": {
@@ -1522,6 +1653,8 @@
     "proto": "CHARACTER_EVENT_NPC_7",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "508": {
@@ -1531,6 +1664,8 @@
     "proto": "CHARACTER_EVENT_NPC_8",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "509": {
@@ -1540,6 +1675,8 @@
     "proto": "CHARACTER_EVENT_NPC_9",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "510": {
@@ -1549,6 +1686,8 @@
     "proto": "CHARACTER_EVENT_NPC_10",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "511": {
@@ -1558,6 +1697,8 @@
     "proto": "CHARACTER_EVENT_NPC_BLANCHE",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "512": {
@@ -1567,6 +1708,8 @@
     "proto": "CHARACTER_EVENT_NPC_CANDELA",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "513": {
@@ -1576,6 +1719,8 @@
     "proto": "CHARACTER_EVENT_NPC_SPARK",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "514": {
@@ -1585,6 +1730,8 @@
     "proto": "CHARACTER_EVENT_NPC_11",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "515": {
@@ -1594,6 +1741,8 @@
     "proto": "CHARACTER_EVENT_NPC_12",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "516": {
@@ -1603,6 +1752,8 @@
     "proto": "CHARACTER_EVENT_NPC_13",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "517": {
@@ -1612,6 +1763,8 @@
     "proto": "CHARACTER_EVENT_NPC_14",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "518": {
@@ -1621,6 +1774,8 @@
     "proto": "CHARACTER_EVENT_NPC_15",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "519": {
@@ -1630,6 +1785,8 @@
     "proto": "CHARACTER_EVENT_NPC_16",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "520": {
@@ -1639,6 +1796,8 @@
     "proto": "CHARACTER_EVENT_NPC_17",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "521": {
@@ -1648,6 +1807,8 @@
     "proto": "CHARACTER_EVENT_NPC_18",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "522": {
@@ -1657,6 +1818,8 @@
     "proto": "CHARACTER_EVENT_NPC_19",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   },
   "523": {
@@ -1666,6 +1829,8 @@
     "proto": "CHARACTER_EVENT_NPC_20",
     "active": false,
     "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
     "encounters": {}
   }
 }

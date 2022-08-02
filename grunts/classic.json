@@ -246,9 +246,19 @@
             "id": 509,
             "template": "PURRLOIN_NORMAL",
             "form": 1931
+          },
+          {
+            "id": 19,
+            "template": "RATTATA_ALOLA",
+            "form": 46
           }
         ],
         [
+          {
+            "id": 20,
+            "template": "RATICATE_ALOLA",
+            "form": 48
+          },
           {
             "id": 434,
             "template": "STUNKY_NORMAL",
@@ -260,6 +270,11 @@
             "id": 332,
             "template": "CACTURNE_NORMAL",
             "form": 613
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_ALOLA",
+            "form": 48
           },
           {
             "id": 430,
@@ -299,7 +314,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -307,6 +323,11 @@
             "id": 147,
             "template": "DRATINI_NORMAL",
             "form": 190
+          },
+          {
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
           }
         ],
         [
@@ -314,6 +335,11 @@
             "id": 330,
             "template": "FLYGON_NORMAL",
             "form": 752
+          },
+          {
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
           }
         ],
         [
@@ -824,10 +850,16 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
+          {
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
+          },
           {
             "id": 220,
             "template": "SWINUB_NORMAL",
@@ -835,6 +867,11 @@
           }
         ],
         [
+          {
+            "id": 28,
+            "template": "SANDSLASH_ALOLA",
+            "form": 54
+          },
           {
             "id": 459,
             "template": "SNOVER_NORMAL",
