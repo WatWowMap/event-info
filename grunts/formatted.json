@@ -894,14 +894,14 @@
       ],
       "second": [
         {
-          "id": 30,
-          "template": "NIDORINA_NORMAL",
-          "form": 779
-        },
-        {
           "id": 33,
           "template": "NIDORINO_NORMAL",
           "form": 785
+        },
+        {
+          "id": 30,
+          "template": "NIDORINA_NORMAL",
+          "form": 779
         }
       ],
       "third": [
