@@ -530,14 +530,14 @@
           "form": 855
         },
         {
-          "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
-        },
-        {
           "id": 580,
           "template": "DUCKLETT_NORMAL",
           "form": 2138
+        },
+        {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
         }
       ],
       "second": [
