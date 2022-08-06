@@ -500,14 +500,14 @@
             "form": 812
           },
           {
-            "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
-          },
-          {
             "id": 107,
             "template": "HITMONCHAN_NORMAL",
             "form": 277
+          },
+          {
+            "id": 106,
+            "template": "HITMONLEE_NORMAL",
+            "form": 713
           }
         ]
       ]
@@ -629,14 +629,14 @@
             "form": 855
           },
           {
-            "id": 580,
-            "template": "DUCKLETT_NORMAL",
-            "form": 2138
-          },
-          {
             "id": 396,
             "template": "STARLY_NORMAL",
             "form": 1658
+          },
+          {
+            "id": 580,
+            "template": "DUCKLETT_NORMAL",
+            "form": 2138
           }
         ],
         [
@@ -818,14 +818,14 @@
         ],
         [
           {
-            "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
-          },
-          {
             "id": 323,
             "template": "CAMERUPT_NORMAL",
             "form": 1520
+          },
+          {
+            "id": 76,
+            "template": "GOLEM_NORMAL",
+            "form": 71
           },
           {
             "id": 450,
