@@ -471,14 +471,14 @@
       "team": [
         [
           {
-            "id": 296,
-            "template": "MAKUHITA_NORMAL",
-            "form": 1451
-          },
-          {
             "id": 66,
             "template": "MACHOP_NORMAL",
             "form": 809
+          },
+          {
+            "id": 296,
+            "template": "MAKUHITA_NORMAL",
+            "form": 1451
           }
         ],
         [
@@ -818,6 +818,11 @@
         ],
         [
           {
+            "id": 76,
+            "template": "GOLEM_NORMAL",
+            "form": 71
+          },
+          {
             "id": 323,
             "template": "CAMERUPT_NORMAL",
             "form": 1520
@@ -826,11 +831,6 @@
             "id": 450,
             "template": "HIPPOWDON_NORMAL",
             "form": 891
-          },
-          {
-            "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
           }
         ]
       ]
@@ -1629,14 +1629,14 @@
         ],
         [
           {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
-          },
-          {
             "id": 70,
             "template": "WEEPINBELL_NORMAL",
             "form": 667
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_NORMAL",
+            "form": 47
           }
         ],
         [
@@ -1722,14 +1722,14 @@
             "form": 923
           },
           {
-            "id": 477,
-            "template": "DUSKNOIR_NORMAL",
-            "form": 920
-          },
-          {
             "id": 354,
             "template": "BANETTE_NORMAL",
             "form": 911
+          },
+          {
+            "id": 477,
+            "template": "DUSKNOIR_NORMAL",
+            "form": 920
           }
         ]
       ]
