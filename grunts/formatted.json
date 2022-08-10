@@ -688,14 +688,14 @@
       ],
       "third": [
         {
-          "id": 76,
-          "template": "GOLEM_NORMAL",
-          "form": 71
-        },
-        {
           "id": 323,
           "template": "CAMERUPT_NORMAL",
           "form": 1520
+        },
+        {
+          "id": 76,
+          "template": "GOLEM_NORMAL",
+          "form": 71
         },
         {
           "id": 450,
@@ -1471,14 +1471,14 @@
           "form": 923
         },
         {
-          "id": 354,
-          "template": "BANETTE_NORMAL",
-          "form": 911
-        },
-        {
           "id": 477,
           "template": "DUSKNOIR_NORMAL",
           "form": 920
+        },
+        {
+          "id": 354,
+          "template": "BANETTE_NORMAL",
+          "form": 911
         }
       ]
     }
