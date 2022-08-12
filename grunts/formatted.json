@@ -426,14 +426,14 @@
           "form": 812
         },
         {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
           "id": 106,
           "template": "HITMONLEE_NORMAL",
           "form": 713
+        },
+        {
+          "id": 107,
+          "template": "HITMONCHAN_NORMAL",
+          "form": 277
         }
       ]
     }
@@ -894,14 +894,14 @@
       ],
       "second": [
         {
-          "id": 33,
-          "template": "NIDORINO_NORMAL",
-          "form": 785
-        },
-        {
           "id": 30,
           "template": "NIDORINA_NORMAL",
           "form": 779
+        },
+        {
+          "id": 33,
+          "template": "NIDORINO_NORMAL",
+          "form": 785
         }
       ],
       "third": [
