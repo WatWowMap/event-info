@@ -159,14 +159,14 @@
           "form": 898
         },
         {
-          "id": 205,
-          "template": "FORRETRESS_NORMAL",
-          "form": 1247
-        },
-        {
           "id": 212,
           "template": "SCIZOR_NORMAL",
           "form": 250
+        },
+        {
+          "id": 205,
+          "template": "FORRETRESS_NORMAL",
+          "form": 1247
         }
       ]
     }
@@ -426,14 +426,14 @@
           "form": 812
         },
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ]
     }
@@ -542,14 +542,14 @@
       ],
       "second": [
         {
-          "id": 42,
-          "template": "GOLBAT_NORMAL",
-          "form": 160
-        },
-        {
           "id": 397,
           "template": "STARAVIA_NORMAL",
           "form": 1661
+        },
+        {
+          "id": 42,
+          "template": "GOLBAT_NORMAL",
+          "form": 160
         }
       ],
       "third": [
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        },
-        {
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 332,
+          "template": "CACTURNE_NORMAL",
+          "form": 613
         },
         {
           "id": 154,
@@ -693,14 +693,14 @@
           "form": 1520
         },
         {
-          "id": 76,
-          "template": "GOLEM_NORMAL",
-          "form": 71
-        },
-        {
           "id": 450,
           "template": "HIPPOWDON_NORMAL",
           "form": 891
+        },
+        {
+          "id": 76,
+          "template": "GOLEM_NORMAL",
+          "form": 71
         }
       ]
     }
@@ -952,14 +952,14 @@
     "encounters": {
       "first": [
         {
-          "id": 63,
-          "template": "ABRA_NORMAL",
-          "form": 304
-        },
-        {
           "id": 203,
           "template": "GIRAFARIG_NORMAL",
           "form": 1241
+        },
+        {
+          "id": 63,
+          "template": "ABRA_NORMAL",
+          "form": 304
         }
       ],
       "second": [
