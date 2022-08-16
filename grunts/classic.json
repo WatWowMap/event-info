@@ -1137,14 +1137,14 @@
       "team": [
         [
           {
-            "id": 203,
-            "template": "GIRAFARIG_NORMAL",
-            "form": 1241
-          },
-          {
             "id": 63,
             "template": "ABRA_NORMAL",
             "form": 304
+          },
+          {
+            "id": 203,
+            "template": "GIRAFARIG_NORMAL",
+            "form": 1241
           }
         ],
         [
@@ -1778,14 +1778,14 @@
         ],
         [
           {
-            "id": 125,
-            "template": "ELECTABUZZ_NORMAL",
-            "form": 640
-          },
-          {
             "id": 181,
             "template": "AMPHAROS_NORMAL",
             "form": 652
+          },
+          {
+            "id": 125,
+            "template": "ELECTABUZZ_NORMAL",
+            "form": 640
           },
           {
             "id": 405,
