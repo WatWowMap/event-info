@@ -530,26 +530,26 @@
           "form": 855
         },
         {
-          "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
-        },
-        {
           "id": 580,
           "template": "DUCKLETT_NORMAL",
           "form": 2138
+        },
+        {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
         }
       ],
       "second": [
         {
-          "id": 397,
-          "template": "STARAVIA_NORMAL",
-          "form": 1661
-        },
-        {
           "id": 42,
           "template": "GOLBAT_NORMAL",
           "form": 160
+        },
+        {
+          "id": 397,
+          "template": "STARAVIA_NORMAL",
+          "form": 1661
         }
       ],
       "third": [
@@ -1390,14 +1390,14 @@
       ],
       "second": [
         {
-          "id": 70,
-          "template": "WEEPINBELL_NORMAL",
-          "form": 667
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 70,
+          "template": "WEEPINBELL_NORMAL",
+          "form": 667
         }
       ],
       "third": [
@@ -1442,14 +1442,14 @@
           "form": 923
         },
         {
-          "id": 200,
-          "template": "MISDREAVUS_NORMAL",
-          "form": 719
-        },
-        {
           "id": 355,
           "template": "DUSKULL_NORMAL",
           "form": 914
+        },
+        {
+          "id": 200,
+          "template": "MISDREAVUS_NORMAL",
+          "form": 719
         }
       ],
       "second": [
