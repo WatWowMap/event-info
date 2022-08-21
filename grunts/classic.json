@@ -272,14 +272,14 @@
             "form": 613
           },
           {
-            "id": 20,
-            "template": "RATICATE_ALOLA",
-            "form": 48
-          },
-          {
             "id": 430,
             "template": "HONCHKROW_NORMAL",
             "form": 858
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_ALOLA",
+            "form": 48
           }
         ]
       ]
@@ -624,14 +624,14 @@
       "team": [
         [
           {
-            "id": 198,
-            "template": "MURKROW_NORMAL",
-            "form": 855
-          },
-          {
             "id": 580,
             "template": "DUCKLETT_NORMAL",
             "form": 2138
+          },
+          {
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
           },
           {
             "id": 396,
