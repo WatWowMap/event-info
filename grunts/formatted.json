@@ -1283,14 +1283,14 @@
       ],
       "second": [
         {
-          "id": 131,
-          "template": "LAPRAS_NORMAL",
-          "form": 322
-        },
-        {
           "id": 257,
           "template": "BLAZIKEN_NORMAL",
           "form": 1364
+        },
+        {
+          "id": 131,
+          "template": "LAPRAS_NORMAL",
+          "form": 322
         },
         {
           "id": 9,
