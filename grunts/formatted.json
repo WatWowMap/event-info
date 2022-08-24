@@ -234,14 +234,14 @@
           "form": 613
         },
         {
-          "id": 430,
-          "template": "HONCHKROW_NORMAL",
-          "form": 858
-        },
-        {
           "id": 20,
           "template": "RATICATE_ALOLA",
           "form": 48
+        },
+        {
+          "id": 430,
+          "template": "HONCHKROW_NORMAL",
+          "form": 858
         }
       ]
     }
@@ -542,14 +542,14 @@
       ],
       "second": [
         {
-          "id": 397,
-          "template": "STARAVIA_NORMAL",
-          "form": 1661
-        },
-        {
           "id": 42,
           "template": "GOLBAT_NORMAL",
           "form": 160
+        },
+        {
+          "id": 397,
+          "template": "STARAVIA_NORMAL",
+          "form": 1661
         }
       ],
       "third": [
