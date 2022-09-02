@@ -159,14 +159,14 @@
           "form": 898
         },
         {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
           "id": 205,
           "template": "FORRETRESS_NORMAL",
           "form": 1247
+        },
+        {
+          "id": 212,
+          "template": "SCIZOR_NORMAL",
+          "form": 250
         }
       ]
     }
@@ -234,14 +234,14 @@
           "form": 613
         },
         {
-          "id": 20,
-          "template": "RATICATE_ALOLA",
-          "form": 48
-        },
-        {
           "id": 430,
           "template": "HONCHKROW_NORMAL",
           "form": 858
+        },
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
         }
       ]
     }
@@ -397,14 +397,14 @@
     "encounters": {
       "first": [
         {
-          "id": 66,
-          "template": "MACHOP_NORMAL",
-          "form": 809
-        },
-        {
           "id": 296,
           "template": "MAKUHITA_NORMAL",
           "form": 1451
+        },
+        {
+          "id": 66,
+          "template": "MACHOP_NORMAL",
+          "form": 809
         }
       ],
       "second": [
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 591,
-          "template": "AMOONGUSS_NORMAL",
-          "form": 2165
-        },
-        {
           "id": 332,
           "template": "CACTURNE_NORMAL",
           "form": 613
+        },
+        {
+          "id": 591,
+          "template": "AMOONGUSS_NORMAL",
+          "form": 2165
         },
         {
           "id": 154,
@@ -853,14 +853,14 @@
           "form": 47
         },
         {
-          "id": 217,
-          "template": "URSARING_NORMAL",
-          "form": 1268
-        },
-        {
           "id": 400,
           "template": "BIBAREL_NORMAL",
           "form": 1670
+        },
+        {
+          "id": 217,
+          "template": "URSARING_NORMAL",
+          "form": 1268
         }
       ]
     }
@@ -906,14 +906,14 @@
       ],
       "third": [
         {
-          "id": 110,
-          "template": "WEEZING_NORMAL",
-          "form": 706
-        },
-        {
           "id": 89,
           "template": "MUK_NORMAL",
           "form": 75
+        },
+        {
+          "id": 110,
+          "template": "WEEZING_NORMAL",
+          "form": 706
         }
       ]
     }
@@ -1182,14 +1182,14 @@
           "form": 169
         },
         {
-          "id": 169,
-          "template": "CROBAT_NORMAL",
-          "form": 202
-        },
-        {
           "id": 139,
           "template": "OMASTAR_NORMAL",
           "form": 743
+        },
+        {
+          "id": 169,
+          "template": "CROBAT_NORMAL",
+          "form": 202
         }
       ],
       "third": [
@@ -1235,14 +1235,14 @@
           "form": 761
         },
         {
-          "id": 303,
-          "template": "MAWILE_NORMAL",
-          "form": 833
-        },
-        {
           "id": 6,
           "template": "CHARIZARD_NORMAL",
           "form": 178
+        },
+        {
+          "id": 303,
+          "template": "MAWILE_NORMAL",
+          "form": 833
         }
       ],
       "third": [
@@ -1288,14 +1288,14 @@
           "form": 1364
         },
         {
-          "id": 131,
-          "template": "LAPRAS_NORMAL",
-          "form": 322
-        },
-        {
           "id": 9,
           "template": "BLASTOISE_NORMAL",
           "form": 187
+        },
+        {
+          "id": 131,
+          "template": "LAPRAS_NORMAL",
+          "form": 322
         }
       ],
       "third": [
