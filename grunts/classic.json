@@ -185,14 +185,14 @@
             "form": 898
           },
           {
-            "id": 205,
-            "template": "FORRETRESS_NORMAL",
-            "form": 1247
-          },
-          {
             "id": 212,
             "template": "SCIZOR_NORMAL",
             "form": 250
+          },
+          {
+            "id": 205,
+            "template": "FORRETRESS_NORMAL",
+            "form": 1247
           }
         ]
       ]
@@ -483,14 +483,14 @@
         ],
         [
           {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
-          },
-          {
             "id": 106,
             "template": "HITMONLEE_NORMAL",
             "form": 713
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN_NORMAL",
+            "form": 277
           }
         ],
         [
@@ -818,14 +818,14 @@
         ],
         [
           {
-            "id": 450,
-            "template": "HIPPOWDON_NORMAL",
-            "form": 891
-          },
-          {
             "id": 323,
             "template": "CAMERUPT_NORMAL",
             "form": 1520
+          },
+          {
+            "id": 450,
+            "template": "HIPPOWDON_NORMAL",
+            "form": 891
           },
           {
             "id": 76,
@@ -1778,14 +1778,14 @@
         ],
         [
           {
-            "id": 125,
-            "template": "ELECTABUZZ_NORMAL",
-            "form": 640
-          },
-          {
             "id": 181,
             "template": "AMPHAROS_NORMAL",
             "form": 652
+          },
+          {
+            "id": 125,
+            "template": "ELECTABUZZ_NORMAL",
+            "form": 640
           },
           {
             "id": 405,
