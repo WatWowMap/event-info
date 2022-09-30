@@ -853,14 +853,14 @@
           "form": 47
         },
         {
-          "id": 400,
-          "template": "BIBAREL_NORMAL",
-          "form": 1670
-        },
-        {
           "id": 217,
           "template": "URSARING_NORMAL",
           "form": 1268
+        },
+        {
+          "id": 400,
+          "template": "BIBAREL_NORMAL",
+          "form": 1670
         }
       ]
     }
@@ -1230,6 +1230,11 @@
       ],
       "second": [
         {
+          "id": 373,
+          "template": "SALAMENCE_NORMAL",
+          "form": 761
+        },
+        {
           "id": 303,
           "template": "MAWILE_NORMAL",
           "form": 833
@@ -1238,11 +1243,6 @@
           "id": 6,
           "template": "CHARIZARD_NORMAL",
           "form": 178
-        },
-        {
-          "id": 373,
-          "template": "SALAMENCE_NORMAL",
-          "form": 761
         }
       ],
       "third": [
@@ -1336,14 +1336,14 @@
       ],
       "second": [
         {
-          "id": 34,
-          "template": "NIDOKING_NORMAL",
-          "form": 788
-        },
-        {
           "id": 68,
           "template": "MACHAMP_NORMAL",
           "form": 815
+        },
+        {
+          "id": 34,
+          "template": "NIDOKING_NORMAL",
+          "form": 788
         },
         {
           "id": 464,
