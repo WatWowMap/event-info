@@ -853,14 +853,14 @@
           "form": 47
         },
         {
-          "id": 400,
-          "template": "BIBAREL_NORMAL",
-          "form": 1670
-        },
-        {
           "id": 217,
           "template": "URSARING_NORMAL",
           "form": 1268
+        },
+        {
+          "id": 400,
+          "template": "BIBAREL_NORMAL",
+          "form": 1670
         }
       ]
     }
@@ -1235,14 +1235,14 @@
           "form": 833
         },
         {
-          "id": 373,
-          "template": "SALAMENCE_NORMAL",
-          "form": 761
-        },
-        {
           "id": 6,
           "template": "CHARIZARD_NORMAL",
           "form": 178
+        },
+        {
+          "id": 373,
+          "template": "SALAMENCE_NORMAL",
+          "form": 761
         }
       ],
       "third": [
@@ -1519,14 +1519,14 @@
       ],
       "third": [
         {
-          "id": 125,
-          "template": "ELECTABUZZ_NORMAL",
-          "form": 640
-        },
-        {
           "id": 181,
           "template": "AMPHAROS_NORMAL",
           "form": 652
+        },
+        {
+          "id": 125,
+          "template": "ELECTABUZZ_NORMAL",
+          "form": 640
         },
         {
           "id": 405,
