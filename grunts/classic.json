@@ -471,14 +471,14 @@
       "team": [
         [
           {
-            "id": 66,
-            "template": "MACHOP_NORMAL",
-            "form": 809
-          },
-          {
             "id": 296,
             "template": "MAKUHITA_NORMAL",
             "form": 1451
+          },
+          {
+            "id": 66,
+            "template": "MACHOP_NORMAL",
+            "form": 809
           }
         ],
         [
@@ -629,14 +629,14 @@
             "form": 2138
           },
           {
-            "id": 396,
-            "template": "STARLY_NORMAL",
-            "form": 1658
-          },
-          {
             "id": 198,
             "template": "MURKROW_NORMAL",
             "form": 855
+          },
+          {
+            "id": 396,
+            "template": "STARLY_NORMAL",
+            "form": 1658
           }
         ],
         [
@@ -1073,14 +1073,14 @@
         ],
         [
           {
-            "id": 89,
-            "template": "MUK_NORMAL",
-            "form": 75
-          },
-          {
             "id": 110,
             "template": "WEEZING_NORMAL",
             "form": 706
+          },
+          {
+            "id": 89,
+            "template": "MUK_NORMAL",
+            "form": 75
           }
         ]
       ]
