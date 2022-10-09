@@ -185,14 +185,14 @@
             "form": 250
           },
           {
-            "id": 205,
-            "template": "FORRETRESS_NORMAL",
-            "form": 1247
-          },
-          {
             "id": 127,
             "template": "PINSIR_NORMAL",
             "form": 898
+          },
+          {
+            "id": 205,
+            "template": "FORRETRESS_NORMAL",
+            "form": 1247
           }
         ]
       ]
@@ -741,14 +741,14 @@
         ],
         [
           {
-            "id": 332,
-            "template": "CACTURNE_NORMAL",
-            "form": 613
-          },
-          {
             "id": 591,
             "template": "AMOONGUSS_NORMAL",
             "form": 2165
+          },
+          {
+            "id": 332,
+            "template": "CACTURNE_NORMAL",
+            "form": 613
           },
           {
             "id": 154,
@@ -1402,14 +1402,14 @@
             "form": 169
           },
           {
-            "id": 139,
-            "template": "OMASTAR_NORMAL",
-            "form": 743
-          },
-          {
             "id": 169,
             "template": "CROBAT_NORMAL",
             "form": 202
+          },
+          {
+            "id": 139,
+            "template": "OMASTAR_NORMAL",
+            "form": 743
           }
         ],
         [
@@ -1516,14 +1516,14 @@
             "form": 1364
           },
           {
-            "id": 9,
-            "template": "BLASTOISE_NORMAL",
-            "form": 187
-          },
-          {
             "id": 131,
             "template": "LAPRAS_NORMAL",
             "form": 322
+          },
+          {
+            "id": 9,
+            "template": "BLASTOISE_NORMAL",
+            "form": 187
           }
         ],
         [
@@ -1568,14 +1568,14 @@
         ],
         [
           {
-            "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
-          },
-          {
             "id": 34,
             "template": "NIDOKING_NORMAL",
             "form": 788
+          },
+          {
+            "id": 68,
+            "template": "MACHAMP_NORMAL",
+            "form": 815
           },
           {
             "id": 464,
