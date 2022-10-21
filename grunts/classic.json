@@ -483,14 +483,14 @@
         ],
         [
           {
-            "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
-          },
-          {
             "id": 107,
             "template": "HITMONCHAN_NORMAL",
             "form": 277
+          },
+          {
+            "id": 106,
+            "template": "HITMONLEE_NORMAL",
+            "form": 713
           }
         ],
         [
@@ -741,14 +741,14 @@
         ],
         [
           {
-            "id": 332,
-            "template": "CACTURNE_NORMAL",
-            "form": 613
-          },
-          {
             "id": 591,
             "template": "AMOONGUSS_NORMAL",
             "form": 2165
+          },
+          {
+            "id": 332,
+            "template": "CACTURNE_NORMAL",
+            "form": 613
           },
           {
             "id": 154,
