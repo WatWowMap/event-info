@@ -498,7 +498,7 @@
     }
   },
   "20": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_FLYING_GRUNT_FEMALE",
       "gender": 2,
@@ -509,8 +509,20 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 177,
+            "template": "NATU_NORMAL",
+            "form": 1190
+          }
+        ],
+        [],
+        []
+      ]
     }
   },
   "21": {
@@ -1281,6 +1293,11 @@
             "id": 464,
             "template": "RHYPERIOR_NORMAL",
             "form": 852
+          },
+          {
+            "id": 208,
+            "template": "STEELIX_NORMAL",
+            "form": 905
           }
         ],
         [

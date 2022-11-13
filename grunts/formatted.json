@@ -412,11 +412,21 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_FLYING_GRUNT_FEMALE",
-    "active": false,
+    "active": true,
     "secondReward": false,
-    "firstReward": false,
-    "thirdRewards": false,
-    "encounters": {}
+    "firstReward": true,
+    "thirdReward": false,
+    "encounters": {
+      "first": [
+        {
+          "id": 177,
+          "template": "NATU_NORMAL",
+          "form": 1190
+        }
+      ],
+      "second": [],
+      "third": []
+    }
   },
   "21": {
     "type": "Flying",
@@ -1061,6 +1071,11 @@
           "id": 464,
           "template": "RHYPERIOR_NORMAL",
           "form": 852
+        },
+        {
+          "id": 208,
+          "template": "STEELIX_NORMAL",
+          "form": 905
         }
       ],
       "third": [
