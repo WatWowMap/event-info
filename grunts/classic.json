@@ -677,6 +677,11 @@
             "id": 27,
             "template": "SANDSHREW_ALOLA",
             "form": 52
+          },
+          {
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
           }
         ],
         [
@@ -1130,6 +1135,11 @@
             "id": 169,
             "template": "CROBAT_NORMAL",
             "form": 202
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           }
         ],
         [
@@ -1142,6 +1152,11 @@
             "id": 142,
             "template": "AERODACTYL_NORMAL",
             "form": 1110
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT_NORMAL",
+            "form": 1520
           }
         ]
       ]
@@ -1261,7 +1276,13 @@
             "form": 65
           }
         ],
-        [],
+        [
+          {
+            "id": 464,
+            "template": "RHYPERIOR_NORMAL",
+            "form": 852
+          }
+        ],
         [
           {
             "id": 150,
