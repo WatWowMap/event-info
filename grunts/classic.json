@@ -158,6 +158,11 @@
             "id": 13,
             "template": "WEEDLE_NORMAL",
             "form": 616
+          },
+          {
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
           }
         ],
         [
@@ -165,6 +170,11 @@
             "id": 15,
             "template": "BEEDRILL_NORMAL",
             "form": 622
+          },
+          {
+            "id": 451,
+            "template": "SKORUPI_NORMAL",
+            "form": 1796
           }
         ],
         [
@@ -172,6 +182,11 @@
             "id": 205,
             "template": "FORRETRESS_NORMAL",
             "form": 1247
+          },
+          {
+            "id": 212,
+            "template": "SCIZOR_NORMAL",
+            "form": 250
           }
         ]
       ]
@@ -345,6 +360,11 @@
             "id": 209,
             "template": "SNUBBULL_NORMAL",
             "form": 1253
+          },
+          {
+            "id": 280,
+            "template": "RALTS_NORMAL",
+            "form": 292
           }
         ],
         [
@@ -420,6 +440,11 @@
             "id": 68,
             "template": "MACHAMP_NORMAL",
             "form": 815
+          },
+          {
+            "id": 106,
+            "template": "HITMONLEE_NORMAL",
+            "form": 713
           }
         ]
       ]
@@ -462,6 +487,11 @@
             "id": 155,
             "template": "CYNDAQUIL_NORMAL",
             "form": 1127
+          },
+          {
+            "id": 322,
+            "template": "NUMEL_NORMAL",
+            "form": 1517
           }
         ],
         [
@@ -520,8 +550,20 @@
             "form": 1190
           }
         ],
-        [],
-        []
+        [
+          {
+            "id": 397,
+            "template": "STARAVIA_NORMAL",
+            "form": 1661
+          }
+        ],
+        [
+          {
+            "id": 149,
+            "template": "DRAGONITE_NORMAL",
+            "form": 196
+          }
+        ]
       ]
     }
   },
@@ -578,6 +620,11 @@
             "id": 331,
             "template": "CACNEA_NORMAL",
             "form": 610
+          },
+          {
+            "id": 152,
+            "template": "CHIKORITA_NORMAL",
+            "form": 1118
           }
         ],
         [
@@ -857,6 +904,11 @@
             "id": 32,
             "template": "NIDORAN_NORMAL",
             "form": 776
+          },
+          {
+            "id": 41,
+            "template": "ZUBAT_NORMAL",
+            "form": 157
           }
         ],
         [
@@ -871,6 +923,11 @@
             "id": 110,
             "template": "WEEZING_NORMAL",
             "form": 706
+          },
+          {
+            "id": 89,
+            "template": "MUK_NORMAL",
+            "form": 75
           }
         ]
       ]
@@ -943,6 +1000,11 @@
             "id": 375,
             "template": "METANG_NORMAL",
             "form": 767
+          },
+          {
+            "id": 65,
+            "template": "ALAKAZAM_NORMAL",
+            "form": 310
           }
         ]
       ]
@@ -1040,6 +1102,11 @@
             "id": 320,
             "template": "WAILMER_NORMAL",
             "form": 1511
+          },
+          {
+            "id": 158,
+            "template": "TOTODILE_NORMAL",
+            "form": 1136
           }
         ],
         [
@@ -1199,6 +1266,11 @@
             "id": 373,
             "template": "SALAMENCE_NORMAL",
             "form": 761
+          },
+          {
+            "id": 398,
+            "template": "STARAPTOR_NORMAL",
+            "form": 1664
           }
         ],
         [
@@ -1298,6 +1370,11 @@
             "id": 208,
             "template": "STEELIX_NORMAL",
             "form": 905
+          },
+          {
+            "id": 31,
+            "template": "NIDOQUEEN_NORMAL",
+            "form": 782
           }
         ],
         [
