@@ -142,14 +142,14 @@
       ],
       "second": [
         {
-          "id": 15,
-          "template": "BEEDRILL_NORMAL",
-          "form": 622
-        },
-        {
           "id": 451,
           "template": "SKORUPI_NORMAL",
           "form": 1796
+        },
+        {
+          "id": 15,
+          "template": "BEEDRILL_NORMAL",
+          "form": 622
         }
       ],
       "third": [
@@ -215,9 +215,19 @@
           "id": 434,
           "template": "STUNKY_NORMAL",
           "form": 791
+        },
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
         }
       ],
       "third": [
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
+        },
         {
           "id": 430,
           "template": "HONCHKROW_NORMAL",
@@ -309,9 +319,19 @@
       ],
       "second": [
         {
+          "id": 210,
+          "template": "GRANBULL_NORMAL",
+          "form": 1256
+        },
+        {
           "id": 281,
           "template": "KIRLIA_NORMAL",
           "form": 295
+        },
+        {
+          "id": 209,
+          "template": "SNUBBULL_NORMAL",
+          "form": 1253
         }
       ],
       "third": [
@@ -319,6 +339,11 @@
           "id": 281,
           "template": "KIRLIA_NORMAL",
           "form": 295
+        },
+        {
+          "id": 210,
+          "template": "GRANBULL_NORMAL",
+          "form": 1256
         }
       ]
     }
@@ -353,14 +378,14 @@
       ],
       "second": [
         {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
           "id": 106,
           "template": "HITMONLEE_NORMAL",
           "form": 713
+        },
+        {
+          "id": 107,
+          "template": "HITMONCHAN_NORMAL",
+          "form": 277
         }
       ],
       "third": [
@@ -400,14 +425,14 @@
     "encounters": {
       "first": [
         {
-          "id": 155,
-          "template": "CYNDAQUIL_NORMAL",
-          "form": 1127
-        },
-        {
           "id": 322,
           "template": "NUMEL_NORMAL",
           "form": 1517
+        },
+        {
+          "id": 155,
+          "template": "CYNDAQUIL_NORMAL",
+          "form": 1127
         }
       ],
       "second": [
@@ -422,6 +447,11 @@
           "id": 323,
           "template": "CAMERUPT_NORMAL",
           "form": 1520
+        },
+        {
+          "id": 38,
+          "template": "NINETALES_NORMAL",
+          "form": 57
         }
       ]
     }
@@ -449,6 +479,16 @@
     "encounters": {
       "first": [
         {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
+        },
+        {
+          "id": 580,
+          "template": "DUCKLETT_NORMAL",
+          "form": 2138
+        },
+        {
           "id": 177,
           "template": "NATU_NORMAL",
           "form": 1190
@@ -459,6 +499,11 @@
           "id": 397,
           "template": "STARAVIA_NORMAL",
           "form": 1661
+        },
+        {
+          "id": 42,
+          "template": "GOLBAT_NORMAL",
+          "form": 160
         }
       ],
       "third": [
@@ -466,6 +511,16 @@
           "id": 149,
           "template": "DRAGONITE_NORMAL",
           "form": 196
+        },
+        {
+          "id": 169,
+          "template": "CROBAT_NORMAL",
+          "form": 202
+        },
+        {
+          "id": 130,
+          "template": "GYARADOS_NORMAL",
+          "form": 256
         }
       ]
     }
@@ -504,14 +559,14 @@
     "encounters": {
       "first": [
         {
-          "id": 331,
-          "template": "CACNEA_NORMAL",
-          "form": 610
-        },
-        {
           "id": 152,
           "template": "CHIKORITA_NORMAL",
           "form": 1118
+        },
+        {
+          "id": 331,
+          "template": "CACNEA_NORMAL",
+          "form": 610
         }
       ],
       "second": [
@@ -526,6 +581,16 @@
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
+        },
+        {
+          "id": 332,
+          "template": "CACTURNE_NORMAL",
+          "form": 613
         }
       ]
     }
@@ -565,17 +630,22 @@
       ],
       "second": [
         {
-          "id": 449,
-          "template": "HIPPOPOTAS_NORMAL",
-          "form": 888
-        },
-        {
           "id": 50,
           "template": "DIGLETT_ALOLA",
           "form": 60
+        },
+        {
+          "id": 449,
+          "template": "HIPPOPOTAS_NORMAL",
+          "form": 888
         }
       ],
       "third": [
+        {
+          "id": 450,
+          "template": "HIPPOWDON_NORMAL",
+          "form": 891
+        },
         {
           "id": 95,
           "template": "ONIX_NORMAL",
@@ -693,6 +763,11 @@
     "encounters": {
       "first": [
         {
+          "id": 293,
+          "template": "WHISMUR_NORMAL",
+          "form": 1442
+        },
+        {
           "id": 19,
           "template": "RATTATA_NORMAL",
           "form": 45
@@ -705,26 +780,26 @@
       ],
       "second": [
         {
-          "id": 294,
-          "template": "LOUDRED_NORMAL",
-          "form": 1445
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 294,
+          "template": "LOUDRED_NORMAL",
+          "form": 1445
         }
       ],
       "third": [
         {
-          "id": 217,
-          "template": "URSARING_NORMAL",
-          "form": 1268
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 217,
+          "template": "URSARING_NORMAL",
+          "form": 1268
         }
       ]
     }
@@ -760,14 +835,14 @@
       ],
       "third": [
         {
-          "id": 110,
-          "template": "WEEZING_NORMAL",
-          "form": 706
-        },
-        {
           "id": 89,
           "template": "MUK_NORMAL",
           "form": 75
+        },
+        {
+          "id": 110,
+          "template": "WEEZING_NORMAL",
+          "form": 706
         }
       ]
     }
@@ -816,6 +891,11 @@
           "id": 280,
           "template": "RALTS_NORMAL",
           "form": 292
+        },
+        {
+          "id": 203,
+          "template": "GIRAFARIG_NORMAL",
+          "form": 1241
         }
       ],
       "third": [
@@ -823,6 +903,11 @@
           "id": 375,
           "template": "METANG_NORMAL",
           "form": 767
+        },
+        {
+          "id": 97,
+          "template": "HYPNO_NORMAL",
+          "form": 217
         },
         {
           "id": 65,
@@ -879,14 +964,14 @@
       ],
       "third": [
         {
-          "id": 76,
-          "template": "GOLEM_NORMAL",
-          "form": 71
-        },
-        {
           "id": 95,
           "template": "ONIX_NORMAL",
           "form": 902
+        },
+        {
+          "id": 76,
+          "template": "GOLEM_NORMAL",
+          "form": 71
         }
       ]
     }
@@ -925,6 +1010,11 @@
           "id": 160,
           "template": "FERALIGATR_NORMAL",
           "form": 1142
+        },
+        {
+          "id": 321,
+          "template": "WAILORD_NORMAL",
+          "form": 1514
         }
       ]
     }
@@ -996,9 +1086,9 @@
       ],
       "second": [
         {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
+          "id": 591,
+          "template": "AMOONGUSS_NORMAL",
+          "form": 2165
         },
         {
           "id": 169,
@@ -1006,9 +1096,9 @@
           "form": 202
         },
         {
-          "id": 591,
-          "template": "AMOONGUSS_NORMAL",
-          "form": 2165
+          "id": 127,
+          "template": "PINSIR_NORMAL",
+          "form": 898
         }
       ],
       "third": [
@@ -1052,6 +1142,11 @@
           "id": 373,
           "template": "SALAMENCE_NORMAL",
           "form": 761
+        },
+        {
+          "id": 6,
+          "template": "CHARIZARD_NORMAL",
+          "form": 178
         },
         {
           "id": 398,
@@ -1105,6 +1200,11 @@
           "id": 330,
           "template": "FLYGON_NORMAL",
           "form": 752
+        },
+        {
+          "id": 332,
+          "template": "CACTURNE_NORMAL",
+          "form": 613
         }
       ],
       "third": [
@@ -1117,6 +1217,11 @@
           "id": 143,
           "template": "SNORLAX_NORMAL",
           "form": 199
+        },
+        {
+          "id": 346,
+          "template": "CRADILY_NORMAL",
+          "form": 1571
         }
       ]
     }
@@ -1289,6 +1394,11 @@
           "id": 100,
           "template": "VOLTORB_NORMAL",
           "form": 1047
+        },
+        {
+          "id": 125,
+          "template": "ELECTABUZZ_NORMAL",
+          "form": 640
         }
       ],
       "third": [
