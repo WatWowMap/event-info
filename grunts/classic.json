@@ -334,6 +334,11 @@
             "id": 330,
             "template": "FLYGON_NORMAL",
             "form": 752
+          },
+          {
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
           }
         ],
         [
@@ -471,14 +476,14 @@
             "form": 1451
           },
           {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
-          },
-          {
             "id": 106,
             "template": "HITMONLEE_NORMAL",
             "form": 713
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN_NORMAL",
+            "form": 277
           }
         ],
         [
@@ -500,14 +505,14 @@
             "form": 815
           },
           {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
-          },
-          {
             "id": 106,
             "template": "HITMONLEE_NORMAL",
             "form": 713
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN_NORMAL",
+            "form": 277
           }
         ]
       ]
@@ -858,21 +863,21 @@
         ],
         [
           {
-            "id": 28,
-            "template": "SANDSLASH_ALOLA",
-            "form": 54
-          },
-          {
             "id": 459,
             "template": "SNOVER_NORMAL",
             "form": 932
+          },
+          {
+            "id": 28,
+            "template": "SANDSLASH_ALOLA",
+            "form": 54
           }
         ],
         [
           {
-            "id": 91,
-            "template": "CLOYSTER_NORMAL",
-            "form": 879
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
           },
           {
             "id": 460,
@@ -880,9 +885,9 @@
             "form": 935
           },
           {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 91,
+            "template": "CLOYSTER_NORMAL",
+            "form": 879
           }
         ]
       ]
@@ -965,9 +970,9 @@
       "team": [
         [
           {
-            "id": 293,
-            "template": "WHISMUR_NORMAL",
-            "form": 1442
+            "id": 19,
+            "template": "RATTATA_NORMAL",
+            "form": 45
           },
           {
             "id": 504,
@@ -975,9 +980,9 @@
             "form": 1916
           },
           {
-            "id": 19,
-            "template": "RATTATA_NORMAL",
-            "form": 45
+            "id": 293,
+            "template": "WHISMUR_NORMAL",
+            "form": 1442
           }
         ],
         [
@@ -1363,9 +1368,9 @@
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
+            "id": 127,
+            "template": "PINSIR_NORMAL",
+            "form": 898
           },
           {
             "id": 169,
@@ -1373,9 +1378,9 @@
             "form": 202
           },
           {
-            "id": 127,
-            "template": "PINSIR_NORMAL",
-            "form": 898
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           }
         ],
         [
