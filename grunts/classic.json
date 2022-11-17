@@ -168,14 +168,14 @@
         ],
         [
           {
-            "id": 451,
-            "template": "SKORUPI_NORMAL",
-            "form": 1796
-          },
-          {
             "id": 15,
             "template": "BEEDRILL_NORMAL",
             "form": 622
+          },
+          {
+            "id": 451,
+            "template": "SKORUPI_NORMAL",
+            "form": 1796
           }
         ],
         [
@@ -407,9 +407,9 @@
         ],
         [
           {
-            "id": 210,
-            "template": "GRANBULL_NORMAL",
-            "form": 1256
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
           },
           {
             "id": 209,
@@ -417,9 +417,9 @@
             "form": 1253
           },
           {
-            "id": 281,
-            "template": "KIRLIA_NORMAL",
-            "form": 295
+            "id": 210,
+            "template": "GRANBULL_NORMAL",
+            "form": 1256
           }
         ],
         [
@@ -987,9 +987,9 @@
         ],
         [
           {
-            "id": 399,
-            "template": "BIDOOF_NORMAL",
-            "form": 1667
+            "id": 294,
+            "template": "LOUDRED_NORMAL",
+            "form": 1445
           },
           {
             "id": 20,
@@ -997,9 +997,9 @@
             "form": 47
           },
           {
-            "id": 294,
-            "template": "LOUDRED_NORMAL",
-            "form": 1445
+            "id": 399,
+            "template": "BIDOOF_NORMAL",
+            "form": 1667
           }
         ],
         [
@@ -1012,6 +1012,11 @@
             "id": 20,
             "template": "RATICATE_NORMAL",
             "form": 47
+          },
+          {
+            "id": 400,
+            "template": "BIBAREL_NORMAL",
+            "form": 1670
           }
         ]
       ]
