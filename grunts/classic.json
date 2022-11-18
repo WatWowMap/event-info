@@ -818,16 +818,6 @@
             "id": 450,
             "template": "HIPPOWDON_NORMAL",
             "form": 891
-          },
-          {
-            "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
-          },
-          {
-            "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
           }
         ]
       ]
