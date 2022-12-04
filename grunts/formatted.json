@@ -124,7 +124,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_BUG_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -199,7 +199,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -525,14 +525,14 @@
     "encounters": {
       "first": [
         {
-          "id": 580,
-          "template": "DUCKLETT_NORMAL",
-          "form": 2138
-        },
-        {
           "id": 396,
           "template": "STARLY_NORMAL",
           "form": 1658
+        },
+        {
+          "id": 580,
+          "template": "DUCKLETT_NORMAL",
+          "form": 2138
         },
         {
           "id": 177,
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
         },
         {
           "id": 332,
@@ -798,7 +798,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_NORMAL_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -838,14 +838,14 @@
       ],
       "third": [
         {
-          "id": 20,
-          "template": "RATICATE_NORMAL",
-          "form": 47
-        },
-        {
           "id": 217,
           "template": "URSARING_NORMAL",
           "form": 1268
+        },
+        {
+          "id": 20,
+          "template": "RATICATE_NORMAL",
+          "form": 47
         },
         {
           "id": 400,
@@ -861,7 +861,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_POISON_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -936,7 +936,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -995,7 +995,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1449,7 +1449,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
