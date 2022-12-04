@@ -739,14 +739,14 @@
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
-          },
-          {
             "id": 154,
             "template": "MEGANIUM_NORMAL",
             "form": 1124
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           },
           {
             "id": 332,
@@ -1363,14 +1363,14 @@
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
-          },
-          {
             "id": 127,
             "template": "PINSIR_NORMAL",
             "form": 898
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           },
           {
             "id": 169,
