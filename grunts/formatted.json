@@ -542,14 +542,14 @@
       ],
       "second": [
         {
-          "id": 397,
-          "template": "STARAVIA_NORMAL",
-          "form": 1661
-        },
-        {
           "id": 42,
           "template": "GOLBAT_NORMAL",
           "form": 160
+        },
+        {
+          "id": 397,
+          "template": "STARAVIA_NORMAL",
+          "form": 1661
         }
       ],
       "third": [
@@ -1147,14 +1147,14 @@
       ],
       "second": [
         {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 127,
+          "template": "PINSIR_NORMAL",
+          "form": 898
         },
         {
           "id": 169,
@@ -1426,14 +1426,14 @@
       ],
       "third": [
         {
-          "id": 354,
-          "template": "BANETTE_NORMAL",
-          "form": 911
-        },
-        {
           "id": 477,
           "template": "DUSKNOIR_NORMAL",
           "form": 920
+        },
+        {
+          "id": 354,
+          "template": "BANETTE_NORMAL",
+          "form": 911
         },
         {
           "id": 623,
@@ -1479,14 +1479,14 @@
       ],
       "third": [
         {
-          "id": 181,
-          "template": "AMPHAROS_NORMAL",
-          "form": 652
-        },
-        {
           "id": 405,
           "template": "LUXRAY_NORMAL",
           "form": 1685
+        },
+        {
+          "id": 181,
+          "template": "AMPHAROS_NORMAL",
+          "form": 652
         },
         {
           "id": 125,
