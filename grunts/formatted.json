@@ -59,53 +59,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        }
-      ],
-      "second": [
-        {
-          "id": 282,
-          "template": "GARDEVOIR_NORMAL",
-          "form": 298
-        },
-        {
-          "id": 62,
-          "template": "POLIWRATH_NORMAL",
-          "form": 241
-        },
-        {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        }
-      ],
-      "third": [
-        {
-          "id": 130,
-          "template": "GYARADOS_NORMAL",
-          "form": 256
-        },
-        {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "6": {
     "type": "Bug",
@@ -123,53 +81,11 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_BUG_GRUNT_MALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 13,
-          "template": "WEEDLE_NORMAL",
-          "form": 616
-        },
-        {
-          "id": 213,
-          "template": "SHUCKLE_NORMAL",
-          "form": 827
-        }
-      ],
-      "second": [
-        {
-          "id": 451,
-          "template": "SKORUPI_NORMAL",
-          "form": 1796
-        },
-        {
-          "id": 15,
-          "template": "BEEDRILL_NORMAL",
-          "form": 622
-        }
-      ],
-      "third": [
-        {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
-          "id": 205,
-          "template": "FORRETRESS_NORMAL",
-          "form": 1247
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "8": {
     "type": "Darkness",
@@ -198,53 +114,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 509,
-          "template": "PURRLOIN_NORMAL",
-          "form": 1931
-        },
-        {
-          "id": 19,
-          "template": "RATTATA_ALOLA",
-          "form": 46
-        }
-      ],
-      "second": [
-        {
-          "id": 434,
-          "template": "STUNKY_NORMAL",
-          "form": 791
-        },
-        {
-          "id": 20,
-          "template": "RATICATE_ALOLA",
-          "form": 48
-        }
-      ],
-      "third": [
-        {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        },
-        {
-          "id": 430,
-          "template": "HONCHKROW_NORMAL",
-          "form": 858
-        },
-        {
-          "id": 20,
-          "template": "RATICATE_ALOLA",
-          "form": 48
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "11": {
     "type": "Dark",
@@ -262,53 +136,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_DRAGON_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 147,
-          "template": "DRATINI_NORMAL",
-          "form": 190
-        },
-        {
-          "id": 103,
-          "template": "EXEGGUTOR_ALOLA",
-          "form": 78
-        }
-      ],
-      "second": [
-        {
-          "id": 330,
-          "template": "FLYGON_NORMAL",
-          "form": 752
-        },
-        {
-          "id": 103,
-          "template": "EXEGGUTOR_ALOLA",
-          "form": 78
-        }
-      ],
-      "third": [
-        {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        },
-        {
-          "id": 148,
-          "template": "DRAGONAIR_NORMAL",
-          "form": 193
-        },
-        {
-          "id": 330,
-          "template": "FLYGON_NORMAL",
-          "form": 752
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "13": {
     "type": "Dragon",
@@ -326,53 +158,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_FAIRY_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 209,
-          "template": "SNUBBULL_NORMAL",
-          "form": 1253
-        },
-        {
-          "id": 280,
-          "template": "RALTS_NORMAL",
-          "form": 292
-        }
-      ],
-      "second": [
-        {
-          "id": 209,
-          "template": "SNUBBULL_NORMAL",
-          "form": 1253
-        },
-        {
-          "id": 281,
-          "template": "KIRLIA_NORMAL",
-          "form": 295
-        },
-        {
-          "id": 210,
-          "template": "GRANBULL_NORMAL",
-          "form": 1256
-        }
-      ],
-      "third": [
-        {
-          "id": 210,
-          "template": "GRANBULL_NORMAL",
-          "form": 1256
-        },
-        {
-          "id": 281,
-          "template": "KIRLIA_NORMAL",
-          "form": 295
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "15": {
     "type": "Fairy",
@@ -390,58 +180,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_FIGHTING_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 296,
-          "template": "MAKUHITA_NORMAL",
-          "form": 1451
-        },
-        {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        }
-      ],
-      "second": [
-        {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        }
-      ],
-      "third": [
-        {
-          "id": 68,
-          "template": "MACHAMP_NORMAL",
-          "form": 815
-        },
-        {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "17": {
     "type": "Fighting",
@@ -459,48 +202,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_FIRE_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 322,
-          "template": "NUMEL_NORMAL",
-          "form": 1517
-        },
-        {
-          "id": 155,
-          "template": "CYNDAQUIL_NORMAL",
-          "form": 1127
-        }
-      ],
-      "second": [
-        {
-          "id": 156,
-          "template": "QUILAVA_NORMAL",
-          "form": 1130
-        }
-      ],
-      "third": [
-        {
-          "id": 157,
-          "template": "TYPHLOSION_NORMAL",
-          "form": 1133
-        },
-        {
-          "id": 323,
-          "template": "CAMERUPT_NORMAL",
-          "form": 1520
-        },
-        {
-          "id": 38,
-          "template": "NINETALES_NORMAL",
-          "form": 57
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "19": {
     "type": "Fire",
@@ -518,58 +224,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_FLYING_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
-        },
-        {
-          "id": 580,
-          "template": "DUCKLETT_NORMAL",
-          "form": 2138
-        },
-        {
-          "id": 177,
-          "template": "NATU_NORMAL",
-          "form": 1190
-        }
-      ],
-      "second": [
-        {
-          "id": 42,
-          "template": "GOLBAT_NORMAL",
-          "form": 160
-        },
-        {
-          "id": 397,
-          "template": "STARAVIA_NORMAL",
-          "form": 1661
-        }
-      ],
-      "third": [
-        {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        },
-        {
-          "id": 169,
-          "template": "CROBAT_NORMAL",
-          "form": 202
-        },
-        {
-          "id": 130,
-          "template": "GYARADOS_NORMAL",
-          "form": 256
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "21": {
     "type": "Flying",
@@ -598,48 +257,11 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_GRASS_GRUNT_MALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 331,
-          "template": "CACNEA_NORMAL",
-          "form": 610
-        },
-        {
-          "id": 152,
-          "template": "CHIKORITA_NORMAL",
-          "form": 1118
-        }
-      ],
-      "second": [
-        {
-          "id": 153,
-          "template": "BAYLEEF_NORMAL",
-          "form": 1121
-        }
-      ],
-      "third": [
-        {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
-          "id": 591,
-          "template": "AMOONGUSS_NORMAL",
-          "form": 2165
-        },
-        {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "24": {
     "type": "Ground",
@@ -657,96 +279,22 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_GROUND_GRUNT_MALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 50,
-          "template": "DIGLETT_ALOLA",
-          "form": 60
-        },
-        {
-          "id": 449,
-          "template": "HIPPOPOTAS_NORMAL",
-          "form": 888
-        }
-      ],
-      "second": [
-        {
-          "id": 50,
-          "template": "DIGLETT_ALOLA",
-          "form": 60
-        },
-        {
-          "id": 449,
-          "template": "HIPPOPOTAS_NORMAL",
-          "form": 888
-        }
-      ],
-      "third": [
-        {
-          "id": 450,
-          "template": "HIPPOWDON_NORMAL",
-          "form": 891
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "26": {
     "type": "Ice",
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_ICE_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 27,
-          "template": "SANDSHREW_ALOLA",
-          "form": 52
-        },
-        {
-          "id": 220,
-          "template": "SWINUB_NORMAL",
-          "form": 1277
-        }
-      ],
-      "second": [
-        {
-          "id": 28,
-          "template": "SANDSLASH_ALOLA",
-          "form": 54
-        },
-        {
-          "id": 459,
-          "template": "SNOVER_NORMAL",
-          "form": 932
-        }
-      ],
-      "third": [
-        {
-          "id": 91,
-          "template": "CLOYSTER_NORMAL",
-          "form": 879
-        },
-        {
-          "id": 460,
-          "template": "ABOMASNOW_NORMAL",
-          "form": 935
-        },
-        {
-          "id": 131,
-          "template": "LAPRAS_NORMAL",
-          "form": 322
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "27": {
     "type": "Ice",
@@ -797,116 +345,22 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_NORMAL_GRUNT_MALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 19,
-          "template": "RATTATA_NORMAL",
-          "form": 45
-        },
-        {
-          "id": 293,
-          "template": "WHISMUR_NORMAL",
-          "form": 1442
-        },
-        {
-          "id": 504,
-          "template": "PATRAT_NORMAL",
-          "form": 1916
-        }
-      ],
-      "second": [
-        {
-          "id": 20,
-          "template": "RATICATE_NORMAL",
-          "form": 47
-        },
-        {
-          "id": 399,
-          "template": "BIDOOF_NORMAL",
-          "form": 1667
-        },
-        {
-          "id": 294,
-          "template": "LOUDRED_NORMAL",
-          "form": 1445
-        }
-      ],
-      "third": [
-        {
-          "id": 217,
-          "template": "URSARING_NORMAL",
-          "form": 1268
-        },
-        {
-          "id": 20,
-          "template": "RATICATE_NORMAL",
-          "form": 47
-        },
-        {
-          "id": 400,
-          "template": "BIBAREL_NORMAL",
-          "form": 1670
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "32": {
     "type": "Poison",
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_POISON_GRUNT_FEMALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 32,
-          "template": "NIDORAN_NORMAL",
-          "form": 776
-        },
-        {
-          "id": 41,
-          "template": "ZUBAT_NORMAL",
-          "form": 157
-        },
-        {
-          "id": 590,
-          "template": "FOONGUS_NORMAL",
-          "form": 2162
-        }
-      ],
-      "second": [
-        {
-          "id": 30,
-          "template": "NIDORINA_NORMAL",
-          "form": 779
-        },
-        {
-          "id": 33,
-          "template": "NIDORINO_NORMAL",
-          "form": 785
-        }
-      ],
-      "third": [
-        {
-          "id": 110,
-          "template": "WEEZING_NORMAL",
-          "form": 706
-        },
-        {
-          "id": 89,
-          "template": "MUK_NORMAL",
-          "form": 75
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "33": {
     "type": "Poison",
@@ -935,48 +389,11 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 177,
-          "template": "NATU_NORMAL",
-          "form": 1190
-        }
-      ],
-      "second": [
-        {
-          "id": 203,
-          "template": "GIRAFARIG_NORMAL",
-          "form": 1241
-        },
-        {
-          "id": 280,
-          "template": "RALTS_NORMAL",
-          "form": 292
-        }
-      ],
-      "third": [
-        {
-          "id": 65,
-          "template": "ALAKAZAM_NORMAL",
-          "form": 310
-        },
-        {
-          "id": 375,
-          "template": "METANG_NORMAL",
-          "form": 767
-        },
-        {
-          "id": 97,
-          "template": "HYPNO_NORMAL",
-          "form": 217
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "36": {
     "type": "Rock",
@@ -994,129 +411,33 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 95,
-          "template": "ONIX_NORMAL",
-          "form": 902
-        },
-        {
-          "id": 185,
-          "template": "SUDOWOODO_NORMAL",
-          "form": 1202
-        }
-      ],
-      "second": [
-        {
-          "id": 345,
-          "template": "LILEEP_NORMAL",
-          "form": 1568
-        },
-        {
-          "id": 347,
-          "template": "ANORITH_NORMAL",
-          "form": 1574
-        }
-      ],
-      "third": [
-        {
-          "id": 95,
-          "template": "ONIX_NORMAL",
-          "form": 902
-        },
-        {
-          "id": 76,
-          "template": "GOLEM_NORMAL",
-          "form": 71
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "38": {
     "type": "Water",
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_WATER_GRUNT_FEMALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 320,
-          "template": "WAILMER_NORMAL",
-          "form": 1511
-        },
-        {
-          "id": 158,
-          "template": "TOTODILE_NORMAL",
-          "form": 1136
-        }
-      ],
-      "second": [
-        {
-          "id": 159,
-          "template": "CROCONAW_NORMAL",
-          "form": 1139
-        }
-      ],
-      "third": [
-        {
-          "id": 160,
-          "template": "FERALIGATR_NORMAL",
-          "form": 1142
-        },
-        {
-          "id": 321,
-          "template": "WAILORD_NORMAL",
-          "form": 1514
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "39": {
     "type": "Water",
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_WATER_GRUNT_MALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 129,
-          "template": "MAGIKARP_NORMAL",
-          "form": 253
-        }
-      ],
-      "second": [
-        {
-          "id": 129,
-          "template": "MAGIKARP_NORMAL",
-          "form": 253
-        }
-      ],
-      "third": [
-        {
-          "id": 129,
-          "template": "MAGIKARP_NORMAL",
-          "form": 253
-        },
-        {
-          "id": 130,
-          "template": "GYARADOS_NORMAL",
-          "form": 256
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "40": {
     "type": "Player Team Leader",
@@ -1133,202 +454,44 @@
     "gender": 0,
     "grunt": "Executive",
     "proto": "CHARACTER_EXECUTIVE_CLIFF",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 66,
-          "template": "MACHOP_NORMAL",
-          "form": 809
-        }
-      ],
-      "second": [
-        {
-          "id": 591,
-          "template": "AMOONGUSS_NORMAL",
-          "form": 2165
-        },
-        {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
-          "id": 169,
-          "template": "CROBAT_NORMAL",
-          "form": 202
-        }
-      ],
-      "third": [
-        {
-          "id": 248,
-          "template": "TYRANITAR_NORMAL",
-          "form": 319
-        },
-        {
-          "id": 142,
-          "template": "AERODACTYL_NORMAL",
-          "form": 1110
-        },
-        {
-          "id": 323,
-          "template": "CAMERUPT_NORMAL",
-          "form": 1520
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "42": {
     "type": "Arlo",
     "gender": 0,
     "grunt": "Executive",
     "proto": "CHARACTER_EXECUTIVE_ARLO",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 303,
-          "template": "MAWILE_NORMAL",
-          "form": 833
-        }
-      ],
-      "second": [
-        {
-          "id": 373,
-          "template": "SALAMENCE_NORMAL",
-          "form": 761
-        },
-        {
-          "id": 398,
-          "template": "STARAPTOR_NORMAL",
-          "form": 1664
-        },
-        {
-          "id": 6,
-          "template": "CHARIZARD_NORMAL",
-          "form": 178
-        }
-      ],
-      "third": [
-        {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        },
-        {
-          "id": 210,
-          "template": "GRANBULL_NORMAL",
-          "form": 1256
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "43": {
     "type": "Sierra",
     "gender": 0,
     "grunt": "Executive",
     "proto": "CHARACTER_EXECUTIVE_SIERRA",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 302,
-          "template": "SABLEYE_NORMAL",
-          "form": 923
-        }
-      ],
-      "second": [
-        {
-          "id": 330,
-          "template": "FLYGON_NORMAL",
-          "form": 752
-        },
-        {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        },
-        {
-          "id": 430,
-          "template": "HONCHKROW_NORMAL",
-          "form": 858
-        }
-      ],
-      "third": [
-        {
-          "id": 229,
-          "template": "HOUNDOOM_NORMAL",
-          "form": 232
-        },
-        {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
-          "id": 346,
-          "template": "CRADILY_NORMAL",
-          "form": 1571
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "44": {
     "type": "Giovanni",
     "gender": 0,
     "grunt": "Giovanni",
     "proto": "CHARACTER_GIOVANNI",
-    "active": true,
+    "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdReward": true,
-    "encounters": {
-      "first": [
-        {
-          "id": 53,
-          "template": "PERSIAN_NORMAL",
-          "form": 65
-        }
-      ],
-      "second": [
-        {
-          "id": 31,
-          "template": "NIDOQUEEN_NORMAL",
-          "form": 782
-        },
-        {
-          "id": 464,
-          "template": "RHYPERIOR_NORMAL",
-          "form": 852
-        },
-        {
-          "id": 208,
-          "template": "STEELIX_NORMAL",
-          "form": 905
-        }
-      ],
-      "third": [
-        {
-          "id": 150,
-          "template": "MEWTWO_NORMAL",
-          "form": 135
-        }
-      ]
-    }
+    "thirdRewards": false,
+    "encounters": {}
   },
   "45": {
     "type": "Decoy",
@@ -1346,43 +509,11 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 69,
-          "template": "BELLSPROUT_NORMAL",
-          "form": 664
-        }
-      ],
-      "second": [
-        {
-          "id": 20,
-          "template": "RATICATE_NORMAL",
-          "form": 47
-        },
-        {
-          "id": 70,
-          "template": "WEEPINBELL_NORMAL",
-          "form": 667
-        }
-      ],
-      "third": [
-        {
-          "id": 20,
-          "template": "RATICATE_NORMAL",
-          "form": 47
-        },
-        {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "47": {
     "type": "Ghost",
@@ -1400,101 +531,22 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_GHOST_GRUNT_MALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 622,
-          "template": "GOLETT_NORMAL",
-          "form": 2258
-        }
-      ],
-      "second": [
-        {
-          "id": 354,
-          "template": "BANETTE_NORMAL",
-          "form": 911
-        },
-        {
-          "id": 356,
-          "template": "DUSCLOPS_NORMAL",
-          "form": 917
-        }
-      ],
-      "third": [
-        {
-          "id": 477,
-          "template": "DUSKNOIR_NORMAL",
-          "form": 920
-        },
-        {
-          "id": 354,
-          "template": "BANETTE_NORMAL",
-          "form": 911
-        },
-        {
-          "id": 623,
-          "template": "GOLURK_NORMAL",
-          "form": 2261
-        }
-      ]
-    }
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "49": {
     "type": "Electric",
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
-    "thirdReward": false,
-    "encounters": {
-      "first": [
-        {
-          "id": 179,
-          "template": "MAREEP_NORMAL",
-          "form": 646
-        },
-        {
-          "id": 403,
-          "template": "SHINX_NORMAL",
-          "form": 1679
-        }
-      ],
-      "second": [
-        {
-          "id": 125,
-          "template": "ELECTABUZZ_NORMAL",
-          "form": 640
-        },
-        {
-          "id": 100,
-          "template": "VOLTORB_NORMAL",
-          "form": 1047
-        }
-      ],
-      "third": [
-        {
-          "id": 405,
-          "template": "LUXRAY_NORMAL",
-          "form": 1685
-        },
-        {
-          "id": 181,
-          "template": "AMPHAROS_NORMAL",
-          "form": 652
-        },
-        {
-          "id": 125,
-          "template": "ELECTABUZZ_NORMAL",
-          "form": 640
-        }
-      ]
-    }
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
+    "thirdRewards": false,
+    "encounters": {}
   },
   "50": {
     "type": "Electric",
