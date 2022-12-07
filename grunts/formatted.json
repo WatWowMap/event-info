@@ -95,14 +95,14 @@
           "form": 256
         },
         {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        },
-        {
           "id": 143,
           "template": "SNORLAX_NORMAL",
           "form": 199
+        },
+        {
+          "id": 149,
+          "template": "DRAGONITE_NORMAL",
+          "form": 196
         }
       ]
     }
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 591,
-          "template": "AMOONGUSS_NORMAL",
-          "form": 2165
-        },
-        {
           "id": 154,
           "template": "MEGANIUM_NORMAL",
           "form": 1124
+        },
+        {
+          "id": 591,
+          "template": "AMOONGUSS_NORMAL",
+          "form": 2165
         },
         {
           "id": 332,
