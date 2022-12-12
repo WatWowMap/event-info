@@ -1710,14 +1710,14 @@
       "team": [
         [
           {
-            "id": 403,
-            "template": "SHINX_NORMAL",
-            "form": 1679
-          },
-          {
             "id": 179,
             "template": "MAREEP_NORMAL",
             "form": 646
+          },
+          {
+            "id": 403,
+            "template": "SHINX_NORMAL",
+            "form": 1679
           }
         ],
         [
@@ -1734,14 +1734,14 @@
         ],
         [
           {
-            "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652
-          },
-          {
             "id": 405,
             "template": "LUXRAY_NORMAL",
             "form": 1685
+          },
+          {
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652
           },
           {
             "id": 125,
