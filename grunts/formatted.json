@@ -530,14 +530,14 @@
           "form": 1658
         },
         {
-          "id": 177,
-          "template": "NATU_NORMAL",
-          "form": 1190
-        },
-        {
           "id": 580,
           "template": "DUCKLETT_NORMAL",
           "form": 2138
+        },
+        {
+          "id": 177,
+          "template": "NATU_NORMAL",
+          "form": 1190
         }
       ],
       "second": [
@@ -1455,14 +1455,14 @@
     "encounters": {
       "first": [
         {
-          "id": 179,
-          "template": "MAREEP_NORMAL",
-          "form": 646
-        },
-        {
           "id": 403,
           "template": "SHINX_NORMAL",
           "form": 1679
+        },
+        {
+          "id": 179,
+          "template": "MAREEP_NORMAL",
+          "form": 646
         }
       ],
       "second": [
@@ -1479,14 +1479,14 @@
       ],
       "third": [
         {
-          "id": 405,
-          "template": "LUXRAY_NORMAL",
-          "form": 1685
-        },
-        {
           "id": 181,
           "template": "AMPHAROS_NORMAL",
           "form": 652
+        },
+        {
+          "id": 405,
+          "template": "LUXRAY_NORMAL",
+          "form": 1685
         },
         {
           "id": 125,
