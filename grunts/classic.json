@@ -108,14 +108,14 @@
             "form": 256
           },
           {
-            "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
-          },
-          {
             "id": 143,
             "template": "SNORLAX_NORMAL",
             "form": 199
+          },
+          {
+            "id": 149,
+            "template": "DRAGONITE_NORMAL",
+            "form": 196
           }
         ]
       ]
@@ -243,14 +243,14 @@
       "team": [
         [
           {
-            "id": 509,
-            "template": "PURRLOIN_NORMAL",
-            "form": 1931
-          },
-          {
             "id": 19,
             "template": "RATTATA_ALOLA",
             "form": 46
+          },
+          {
+            "id": 509,
+            "template": "PURRLOIN_NORMAL",
+            "form": 1931
           }
         ],
         [
@@ -576,14 +576,14 @@
             "form": 1133
           },
           {
-            "id": 323,
-            "template": "CAMERUPT_NORMAL",
-            "form": 1520
-          },
-          {
             "id": 38,
             "template": "NINETALES_NORMAL",
             "form": 57
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT_NORMAL",
+            "form": 1520
           }
         ]
       ]
@@ -739,14 +739,14 @@
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
-          },
-          {
             "id": 154,
             "template": "MEGANIUM_NORMAL",
             "form": 1124
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           },
           {
             "id": 332,
@@ -1363,11 +1363,6 @@
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
-          },
-          {
             "id": 127,
             "template": "PINSIR_NORMAL",
             "form": 898
@@ -1376,6 +1371,11 @@
             "id": 169,
             "template": "CROBAT_NORMAL",
             "form": 202
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           }
         ],
         [
