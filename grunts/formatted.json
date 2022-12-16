@@ -95,14 +95,14 @@
           "form": 256
         },
         {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        },
-        {
           "id": 143,
           "template": "SNORLAX_NORMAL",
           "form": 199
+        },
+        {
+          "id": 149,
+          "template": "DRAGONITE_NORMAL",
+          "form": 196
         }
       ]
     }
@@ -402,26 +402,26 @@
           "form": 1451
         },
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ],
       "second": [
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ],
       "third": [
@@ -431,14 +431,14 @@
           "form": 815
         },
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ]
     }
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
         },
         {
           "id": 332,
@@ -838,14 +838,14 @@
       ],
       "third": [
         {
-          "id": 217,
-          "template": "URSARING_NORMAL",
-          "form": 1268
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 217,
+          "template": "URSARING_NORMAL",
+          "form": 1268
         },
         {
           "id": 400,
@@ -1147,11 +1147,6 @@
       ],
       "second": [
         {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
           "id": 169,
           "template": "CROBAT_NORMAL",
           "form": 202
@@ -1160,6 +1155,11 @@
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 127,
+          "template": "PINSIR_NORMAL",
+          "form": 898
         }
       ],
       "third": [
@@ -1426,14 +1426,14 @@
       ],
       "third": [
         {
-          "id": 477,
-          "template": "DUSKNOIR_NORMAL",
-          "form": 920
-        },
-        {
           "id": 354,
           "template": "BANETTE_NORMAL",
           "form": 911
+        },
+        {
+          "id": 477,
+          "template": "DUSKNOIR_NORMAL",
+          "form": 920
         },
         {
           "id": 623,
