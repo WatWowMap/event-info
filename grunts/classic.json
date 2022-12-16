@@ -108,14 +108,14 @@
             "form": 256
           },
           {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
-          },
-          {
             "id": 149,
             "template": "DRAGONITE_NORMAL",
             "form": 196
+          },
+          {
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
           }
         ]
       ]
@@ -272,14 +272,14 @@
             "form": 613
           },
           {
-            "id": 20,
-            "template": "RATICATE_ALOLA",
-            "form": 48
-          },
-          {
             "id": 430,
             "template": "HONCHKROW_NORMAL",
             "form": 858
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_ALOLA",
+            "form": 48
           }
         ]
       ]
@@ -476,14 +476,14 @@
             "form": 1451
           },
           {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
-          },
-          {
             "id": 106,
             "template": "HITMONLEE_NORMAL",
             "form": 713
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN_NORMAL",
+            "form": 277
           }
         ],
         [
@@ -576,14 +576,14 @@
             "form": 1133
           },
           {
-            "id": 323,
-            "template": "CAMERUPT_NORMAL",
-            "form": 1520
-          },
-          {
             "id": 38,
             "template": "NINETALES_NORMAL",
             "form": 57
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT_NORMAL",
+            "form": 1520
           }
         ]
       ]
@@ -623,14 +623,14 @@
       "team": [
         [
           {
-            "id": 580,
-            "template": "DUCKLETT_NORMAL",
-            "form": 2138
-          },
-          {
             "id": 396,
             "template": "STARLY_NORMAL",
             "form": 1658
+          },
+          {
+            "id": 580,
+            "template": "DUCKLETT_NORMAL",
+            "form": 2138
           },
           {
             "id": 177,
@@ -1363,14 +1363,14 @@
         ],
         [
           {
-            "id": 169,
-            "template": "CROBAT_NORMAL",
-            "form": 202
-          },
-          {
             "id": 127,
             "template": "PINSIR_NORMAL",
             "form": 898
+          },
+          {
+            "id": 169,
+            "template": "CROBAT_NORMAL",
+            "form": 202
           },
           {
             "id": 591,
