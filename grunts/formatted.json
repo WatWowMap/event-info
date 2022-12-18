@@ -154,14 +154,14 @@
       ],
       "third": [
         {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
           "id": 212,
           "template": "SCIZOR_NORMAL",
           "form": 250
+        },
+        {
+          "id": 127,
+          "template": "PINSIR_NORMAL",
+          "form": 898
         },
         {
           "id": 205,
@@ -402,14 +402,14 @@
           "form": 1451
         },
         {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
           "id": 106,
           "template": "HITMONLEE_NORMAL",
           "form": 713
+        },
+        {
+          "id": 107,
+          "template": "HITMONCHAN_NORMAL",
+          "form": 277
         }
       ],
       "second": [
@@ -525,14 +525,14 @@
     "encounters": {
       "first": [
         {
-          "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
-        },
-        {
           "id": 580,
           "template": "DUCKLETT_NORMAL",
           "form": 2138
+        },
+        {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
         },
         {
           "id": 177,
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
         },
         {
           "id": 332,
@@ -838,14 +838,14 @@
       ],
       "third": [
         {
-          "id": 217,
-          "template": "URSARING_NORMAL",
-          "form": 1268
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 217,
+          "template": "URSARING_NORMAL",
+          "form": 1268
         },
         {
           "id": 400,
