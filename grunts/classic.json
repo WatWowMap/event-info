@@ -576,14 +576,14 @@
             "form": 1133
           },
           {
-            "id": 38,
-            "template": "NINETALES_NORMAL",
-            "form": 57
-          },
-          {
             "id": 323,
             "template": "CAMERUPT_NORMAL",
             "form": 1520
+          },
+          {
+            "id": 38,
+            "template": "NINETALES_NORMAL",
+            "form": 57
           }
         ]
       ]
@@ -994,14 +994,14 @@
         ],
         [
           {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
-          },
-          {
             "id": 217,
             "template": "URSARING_NORMAL",
             "form": 1268
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_NORMAL",
+            "form": 47
           },
           {
             "id": 400,
