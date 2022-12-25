@@ -525,14 +525,14 @@
     "encounters": {
       "first": [
         {
-          "id": 580,
-          "template": "DUCKLETT_NORMAL",
-          "form": 2138
-        },
-        {
           "id": 396,
           "template": "STARLY_NORMAL",
           "form": 1658
+        },
+        {
+          "id": 580,
+          "template": "DUCKLETT_NORMAL",
+          "form": 2138
         },
         {
           "id": 177,
@@ -624,14 +624,14 @@
       ],
       "third": [
         {
-          "id": 591,
-          "template": "AMOONGUSS_NORMAL",
-          "form": 2165
-        },
-        {
           "id": 154,
           "template": "MEGANIUM_NORMAL",
           "form": 1124
+        },
+        {
+          "id": 591,
+          "template": "AMOONGUSS_NORMAL",
+          "form": 2165
         },
         {
           "id": 332,
