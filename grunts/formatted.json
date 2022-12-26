@@ -73,14 +73,14 @@
       ],
       "second": [
         {
-          "id": 282,
-          "template": "GARDEVOIR_NORMAL",
-          "form": 298
-        },
-        {
           "id": 62,
           "template": "POLIWRATH_NORMAL",
           "form": 241
+        },
+        {
+          "id": 282,
+          "template": "GARDEVOIR_NORMAL",
+          "form": 298
         },
         {
           "id": 143,
@@ -525,14 +525,14 @@
     "encounters": {
       "first": [
         {
-          "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
-        },
-        {
           "id": 580,
           "template": "DUCKLETT_NORMAL",
           "form": 2138
+        },
+        {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
         },
         {
           "id": 177,
@@ -1479,14 +1479,14 @@
       ],
       "third": [
         {
-          "id": 405,
-          "template": "LUXRAY_NORMAL",
-          "form": 1685
-        },
-        {
           "id": 181,
           "template": "AMPHAROS_NORMAL",
           "form": 652
+        },
+        {
+          "id": 405,
+          "template": "LUXRAY_NORMAL",
+          "form": 1685
         },
         {
           "id": 125,
