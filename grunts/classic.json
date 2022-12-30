@@ -1734,14 +1734,14 @@
         ],
         [
           {
-            "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652
-          },
-          {
             "id": 405,
             "template": "LUXRAY_NORMAL",
             "form": 1685
+          },
+          {
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652
           },
           {
             "id": 125,
