@@ -576,14 +576,14 @@
             "form": 1133
           },
           {
-            "id": 38,
-            "template": "NINETALES_NORMAL",
-            "form": 57
-          },
-          {
             "id": 323,
             "template": "CAMERUPT_NORMAL",
             "form": 1520
+          },
+          {
+            "id": 38,
+            "template": "NINETALES_NORMAL",
+            "form": 57
           }
         ]
       ]
