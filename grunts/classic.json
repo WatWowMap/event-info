@@ -86,14 +86,14 @@
         ],
         [
           {
-            "id": 62,
-            "template": "POLIWRATH_NORMAL",
-            "form": 241
-          },
-          {
             "id": 282,
             "template": "GARDEVOIR_NORMAL",
             "form": 298
+          },
+          {
+            "id": 62,
+            "template": "POLIWRATH_NORMAL",
+            "form": 241
           },
           {
             "id": 143,
@@ -243,14 +243,14 @@
       "team": [
         [
           {
-            "id": 19,
-            "template": "RATTATA_ALOLA",
-            "form": 46
-          },
-          {
             "id": 509,
             "template": "PURRLOIN_NORMAL",
             "form": 1931
+          },
+          {
+            "id": 19,
+            "template": "RATTATA_ALOLA",
+            "form": 46
           }
         ],
         [
@@ -994,14 +994,14 @@
         ],
         [
           {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
-          },
-          {
             "id": 217,
             "template": "URSARING_NORMAL",
             "form": 1268
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_NORMAL",
+            "form": 47
           },
           {
             "id": 400,
@@ -1734,14 +1734,14 @@
         ],
         [
           {
-            "id": 405,
-            "template": "LUXRAY_NORMAL",
-            "form": 1685
-          },
-          {
             "id": 181,
             "template": "AMPHAROS_NORMAL",
             "form": 652
+          },
+          {
+            "id": 405,
+            "template": "LUXRAY_NORMAL",
+            "form": 1685
           },
           {
             "id": 125,
