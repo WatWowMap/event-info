@@ -576,14 +576,14 @@
             "form": 1133
           },
           {
-            "id": 323,
-            "template": "CAMERUPT_NORMAL",
-            "form": 1520
-          },
-          {
             "id": 38,
             "template": "NINETALES_NORMAL",
             "form": 57
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT_NORMAL",
+            "form": 1520
           }
         ]
       ]
@@ -1477,14 +1477,14 @@
         ],
         [
           {
-            "id": 330,
-            "template": "FLYGON_NORMAL",
-            "form": 752
-          },
-          {
             "id": 332,
             "template": "CACTURNE_NORMAL",
             "form": 613
+          },
+          {
+            "id": 330,
+            "template": "FLYGON_NORMAL",
+            "form": 752
           },
           {
             "id": 430,
@@ -1734,14 +1734,14 @@
         ],
         [
           {
-            "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652
-          },
-          {
             "id": 405,
             "template": "LUXRAY_NORMAL",
             "form": 1685
+          },
+          {
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652
           },
           {
             "id": 125,
