@@ -86,9 +86,9 @@
         ],
         [
           {
-            "id": 282,
-            "template": "GARDEVOIR_NORMAL",
-            "form": 298
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
           },
           {
             "id": 62,
@@ -96,9 +96,9 @@
             "form": 241
           },
           {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "id": 282,
+            "template": "GARDEVOIR_NORMAL",
+            "form": 298
           }
         ],
         [
@@ -180,14 +180,14 @@
         ],
         [
           {
-            "id": 212,
-            "template": "SCIZOR_NORMAL",
-            "form": 250
-          },
-          {
             "id": 127,
             "template": "PINSIR_NORMAL",
             "form": 898
+          },
+          {
+            "id": 212,
+            "template": "SCIZOR_NORMAL",
+            "form": 250
           },
           {
             "id": 205,
@@ -571,14 +571,14 @@
         ],
         [
           {
-            "id": 157,
-            "template": "TYPHLOSION_NORMAL",
-            "form": 1133
-          },
-          {
             "id": 38,
             "template": "NINETALES_NORMAL",
             "form": 57
+          },
+          {
+            "id": 157,
+            "template": "TYPHLOSION_NORMAL",
+            "form": 1133
           },
           {
             "id": 323,
@@ -623,14 +623,14 @@
       "team": [
         [
           {
-            "id": 580,
-            "template": "DUCKLETT_NORMAL",
-            "form": 2138
-          },
-          {
             "id": 396,
             "template": "STARLY_NORMAL",
             "form": 1658
+          },
+          {
+            "id": 580,
+            "template": "DUCKLETT_NORMAL",
+            "form": 2138
           },
           {
             "id": 177,
@@ -803,14 +803,14 @@
         ],
         [
           {
-            "id": 449,
-            "template": "HIPPOPOTAS_NORMAL",
-            "form": 888
-          },
-          {
             "id": 50,
             "template": "DIGLETT_ALOLA",
             "form": 60
+          },
+          {
+            "id": 449,
+            "template": "HIPPOPOTAS_NORMAL",
+            "form": 888
           }
         ],
         [
@@ -1048,14 +1048,14 @@
         ],
         [
           {
-            "id": 30,
-            "template": "NIDORINA_NORMAL",
-            "form": 779
-          },
-          {
             "id": 33,
             "template": "NIDORINO_NORMAL",
             "form": 785
+          },
+          {
+            "id": 30,
+            "template": "NIDORINA_NORMAL",
+            "form": 779
           }
         ],
         [
