@@ -73,14 +73,14 @@
       ],
       "second": [
         {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
           "id": 62,
           "template": "POLIWRATH_NORMAL",
           "form": 241
+        },
+        {
+          "id": 143,
+          "template": "SNORLAX_NORMAL",
+          "form": 199
         },
         {
           "id": 282,
@@ -154,11 +154,6 @@
       ],
       "third": [
         {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
           "id": 212,
           "template": "SCIZOR_NORMAL",
           "form": 250
@@ -167,6 +162,11 @@
           "id": 205,
           "template": "FORRETRESS_NORMAL",
           "form": 1247
+        },
+        {
+          "id": 127,
+          "template": "PINSIR_NORMAL",
+          "form": 898
         }
       ]
     }
@@ -205,14 +205,14 @@
     "encounters": {
       "first": [
         {
-          "id": 509,
-          "template": "PURRLOIN_NORMAL",
-          "form": 1931
-        },
-        {
           "id": 19,
           "template": "RATTATA_ALOLA",
           "form": 46
+        },
+        {
+          "id": 509,
+          "template": "PURRLOIN_NORMAL",
+          "form": 1931
         }
       ],
       "second": [
@@ -485,6 +485,11 @@
       ],
       "third": [
         {
+          "id": 323,
+          "template": "CAMERUPT_NORMAL",
+          "form": 1520
+        },
+        {
           "id": 38,
           "template": "NINETALES_NORMAL",
           "form": 57
@@ -493,11 +498,6 @@
           "id": 157,
           "template": "TYPHLOSION_NORMAL",
           "form": 1133
-        },
-        {
-          "id": 323,
-          "template": "CAMERUPT_NORMAL",
-          "form": 1520
         }
       ]
     }
@@ -525,14 +525,14 @@
     "encounters": {
       "first": [
         {
-          "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
-        },
-        {
           "id": 580,
           "template": "DUCKLETT_NORMAL",
           "form": 2138
+        },
+        {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
         },
         {
           "id": 177,
@@ -736,14 +736,14 @@
           "form": 879
         },
         {
-          "id": 460,
-          "template": "ABOMASNOW_NORMAL",
-          "form": 935
-        },
-        {
           "id": 131,
           "template": "LAPRAS_NORMAL",
           "form": 322
+        },
+        {
+          "id": 460,
+          "template": "ABOMASNOW_NORMAL",
+          "form": 935
         }
       ]
     }
@@ -884,14 +884,14 @@
       ],
       "second": [
         {
-          "id": 33,
-          "template": "NIDORINO_NORMAL",
-          "form": 785
-        },
-        {
           "id": 30,
           "template": "NIDORINA_NORMAL",
           "form": 779
+        },
+        {
+          "id": 33,
+          "template": "NIDORINO_NORMAL",
+          "form": 785
         }
       ],
       "third": [
