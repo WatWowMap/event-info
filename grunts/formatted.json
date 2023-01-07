@@ -78,14 +78,14 @@
           "form": 241
         },
         {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
           "id": 282,
           "template": "GARDEVOIR_NORMAL",
           "form": 298
+        },
+        {
+          "id": 143,
+          "template": "SNORLAX_NORMAL",
+          "form": 199
         }
       ],
       "third": [
@@ -154,14 +154,14 @@
       ],
       "third": [
         {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
           "id": 205,
           "template": "FORRETRESS_NORMAL",
           "form": 1247
+        },
+        {
+          "id": 212,
+          "template": "SCIZOR_NORMAL",
+          "form": 250
         },
         {
           "id": 127,
@@ -431,14 +431,14 @@
           "form": 815
         },
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ]
     }
@@ -485,9 +485,9 @@
       ],
       "third": [
         {
-          "id": 157,
-          "template": "TYPHLOSION_NORMAL",
-          "form": 1133
+          "id": 38,
+          "template": "NINETALES_NORMAL",
+          "form": 57
         },
         {
           "id": 323,
@@ -495,9 +495,9 @@
           "form": 1520
         },
         {
-          "id": 38,
-          "template": "NINETALES_NORMAL",
-          "form": 57
+          "id": 157,
+          "template": "TYPHLOSION_NORMAL",
+          "form": 1133
         }
       ]
     }
@@ -1205,14 +1205,14 @@
           "form": 761
         },
         {
-          "id": 6,
-          "template": "CHARIZARD_NORMAL",
-          "form": 178
-        },
-        {
           "id": 398,
           "template": "STARAPTOR_NORMAL",
           "form": 1664
+        },
+        {
+          "id": 6,
+          "template": "CHARIZARD_NORMAL",
+          "form": 178
         }
       ],
       "third": [
