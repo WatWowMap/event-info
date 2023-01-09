@@ -95,14 +95,14 @@
           "form": 256
         },
         {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
           "id": 149,
           "template": "DRAGONITE_NORMAL",
           "form": 196
+        },
+        {
+          "id": 143,
+          "template": "SNORLAX_NORMAL",
+          "form": 199
         }
       ]
     }
@@ -154,14 +154,14 @@
       ],
       "third": [
         {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
           "id": 205,
           "template": "FORRETRESS_NORMAL",
           "form": 1247
+        },
+        {
+          "id": 212,
+          "template": "SCIZOR_NORMAL",
+          "form": 250
         },
         {
           "id": 127,
@@ -736,14 +736,14 @@
           "form": 879
         },
         {
-          "id": 460,
-          "template": "ABOMASNOW_NORMAL",
-          "form": 935
-        },
-        {
           "id": 131,
           "template": "LAPRAS_NORMAL",
           "form": 322
+        },
+        {
+          "id": 460,
+          "template": "ABOMASNOW_NORMAL",
+          "form": 935
         }
       ]
     }
