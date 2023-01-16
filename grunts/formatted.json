@@ -159,14 +159,14 @@
           "form": 1247
         },
         {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
           "id": 127,
           "template": "PINSIR_NORMAL",
           "form": 898
+        },
+        {
+          "id": 212,
+          "template": "SCIZOR_NORMAL",
+          "form": 250
         }
       ]
     }
@@ -205,14 +205,14 @@
     "encounters": {
       "first": [
         {
-          "id": 509,
-          "template": "PURRLOIN_NORMAL",
-          "form": 1931
-        },
-        {
           "id": 19,
           "template": "RATTATA_ALOLA",
           "form": 46
+        },
+        {
+          "id": 509,
+          "template": "PURRLOIN_NORMAL",
+          "form": 1931
         }
       ],
       "second": [
@@ -350,14 +350,14 @@
           "form": 1253
         },
         {
-          "id": 281,
-          "template": "KIRLIA_NORMAL",
-          "form": 295
-        },
-        {
           "id": 210,
           "template": "GRANBULL_NORMAL",
           "form": 1256
+        },
+        {
+          "id": 281,
+          "template": "KIRLIA_NORMAL",
+          "form": 295
         }
       ],
       "third": [
@@ -1479,14 +1479,14 @@
       ],
       "third": [
         {
-          "id": 181,
-          "template": "AMPHAROS_NORMAL",
-          "form": 652
-        },
-        {
           "id": 405,
           "template": "LUXRAY_NORMAL",
           "form": 1685
+        },
+        {
+          "id": 181,
+          "template": "AMPHAROS_NORMAL",
+          "form": 652
         },
         {
           "id": 125,
