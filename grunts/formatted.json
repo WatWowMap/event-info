@@ -78,14 +78,14 @@
           "form": 241
         },
         {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
           "id": 282,
           "template": "GARDEVOIR_NORMAL",
           "form": 298
+        },
+        {
+          "id": 143,
+          "template": "SNORLAX_NORMAL",
+          "form": 199
         }
       ],
       "third": [
@@ -95,14 +95,14 @@
           "form": 256
         },
         {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
-        },
-        {
           "id": 149,
           "template": "DRAGONITE_NORMAL",
           "form": 196
+        },
+        {
+          "id": 143,
+          "template": "SNORLAX_NORMAL",
+          "form": 199
         }
       ]
     }
@@ -205,14 +205,14 @@
     "encounters": {
       "first": [
         {
-          "id": 19,
-          "template": "RATTATA_ALOLA",
-          "form": 46
-        },
-        {
           "id": 509,
           "template": "PURRLOIN_NORMAL",
           "form": 1931
+        },
+        {
+          "id": 19,
+          "template": "RATTATA_ALOLA",
+          "form": 46
         }
       ],
       "second": [
