@@ -205,14 +205,14 @@
     "encounters": {
       "first": [
         {
-          "id": 509,
-          "template": "PURRLOIN_NORMAL",
-          "form": 1931
-        },
-        {
           "id": 19,
           "template": "RATTATA_ALOLA",
           "form": 46
+        },
+        {
+          "id": 509,
+          "template": "PURRLOIN_NORMAL",
+          "form": 1931
         }
       ],
       "second": [
@@ -1479,14 +1479,14 @@
       ],
       "third": [
         {
-          "id": 181,
-          "template": "AMPHAROS_NORMAL",
-          "form": 652
-        },
-        {
           "id": 405,
           "template": "LUXRAY_NORMAL",
           "form": 1685
+        },
+        {
+          "id": 181,
+          "template": "AMPHAROS_NORMAL",
+          "form": 652
         },
         {
           "id": 125,
