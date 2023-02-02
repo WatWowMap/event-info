@@ -124,7 +124,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_BUG_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -209,7 +209,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -342,7 +342,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_FAIRY_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -841,7 +841,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_METAL_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -910,7 +910,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_NORMAL_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -973,7 +973,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_POISON_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1043,7 +1043,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1112,7 +1112,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1601,7 +1601,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
