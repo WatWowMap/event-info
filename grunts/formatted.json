@@ -296,21 +296,21 @@
       ],
       "second": [
         {
-          "id": 330,
-          "template": "FLYGON_NORMAL",
-          "form": 752
-        },
-        {
           "id": 103,
           "template": "EXEGGUTOR_ALOLA",
           "form": 78
+        },
+        {
+          "id": 330,
+          "template": "FLYGON_NORMAL",
+          "form": 752
         }
       ],
       "third": [
         {
-          "id": 330,
-          "template": "FLYGON_NORMAL",
-          "form": 752
+          "id": 148,
+          "template": "DRAGONAIR_NORMAL",
+          "form": 193
         },
         {
           "id": 149,
@@ -318,9 +318,9 @@
           "form": 196
         },
         {
-          "id": 148,
-          "template": "DRAGONAIR_NORMAL",
-          "form": 193
+          "id": 330,
+          "template": "FLYGON_NORMAL",
+          "form": 752
         }
       ]
     }
