@@ -220,26 +220,26 @@
           "form": 1931
         },
         {
-          "id": 19,
-          "template": "RATTATA_ALOLA",
-          "form": 46
-        },
-        {
           "id": 198,
           "template": "MURKROW_NORMAL",
           "form": 855
+        },
+        {
+          "id": 19,
+          "template": "RATTATA_ALOLA",
+          "form": 46
         }
       ],
       "second": [
         {
-          "id": 20,
-          "template": "RATICATE_ALOLA",
-          "form": 48
-        },
-        {
           "id": 434,
           "template": "STUNKY_NORMAL",
           "form": 791
+        },
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
         },
         {
           "id": 198,
@@ -417,14 +417,14 @@
           "form": 1451
         },
         {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
           "id": 106,
           "template": "HITMONLEE_NORMAL",
           "form": 713
+        },
+        {
+          "id": 107,
+          "template": "HITMONCHAN_NORMAL",
+          "form": 277
         }
       ],
       "second": [
@@ -555,14 +555,14 @@
           "form": 1190
         },
         {
-          "id": 580,
-          "template": "DUCKLETT_NORMAL",
-          "form": 2138
-        },
-        {
           "id": 41,
           "template": "ZUBAT_NORMAL",
           "form": 157
+        },
+        {
+          "id": 580,
+          "template": "DUCKLETT_NORMAL",
+          "form": 2138
         }
       ],
       "second": [
@@ -721,14 +721,14 @@
       ],
       "second": [
         {
-          "id": 50,
-          "template": "DIGLETT_ALOLA",
-          "form": 60
-        },
-        {
           "id": 449,
           "template": "HIPPOPOTAS_NORMAL",
           "form": 888
+        },
+        {
+          "id": 50,
+          "template": "DIGLETT_ALOLA",
+          "form": 60
         }
       ],
       "third": [
@@ -933,14 +933,14 @@
       ],
       "second": [
         {
-          "id": 19,
-          "template": "RATTATA_NORMAL",
-          "form": 45
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 19,
+          "template": "RATTATA_NORMAL",
+          "form": 45
         },
         {
           "id": 294,
