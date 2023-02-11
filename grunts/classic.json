@@ -653,14 +653,14 @@
             "form": 1190
           },
           {
-            "id": 41,
-            "template": "ZUBAT_NORMAL",
-            "form": 157
-          },
-          {
             "id": 580,
             "template": "DUCKLETT_NORMAL",
             "form": 2138
+          },
+          {
+            "id": 41,
+            "template": "ZUBAT_NORMAL",
+            "form": 157
           }
         ],
         [
@@ -784,14 +784,14 @@
             "form": 1124
           },
           {
-            "id": 332,
-            "template": "CACTURNE_NORMAL",
-            "form": 613
-          },
-          {
             "id": 591,
             "template": "AMOONGUSS_NORMAL",
             "form": 2165
+          },
+          {
+            "id": 332,
+            "template": "CACTURNE_NORMAL",
+            "form": 613
           }
         ]
       ]
@@ -1091,14 +1091,14 @@
         ],
         [
           {
-            "id": 19,
-            "template": "RATTATA_NORMAL",
-            "form": 45
-          },
-          {
             "id": 20,
             "template": "RATICATE_NORMAL",
             "form": 47
+          },
+          {
+            "id": 19,
+            "template": "RATTATA_NORMAL",
+            "form": 45
           },
           {
             "id": 294,
@@ -1626,14 +1626,14 @@
         ],
         [
           {
-            "id": 330,
-            "template": "FLYGON_NORMAL",
-            "form": 752
-          },
-          {
             "id": 319,
             "template": "SHARPEDO_NORMAL",
             "form": 737
+          },
+          {
+            "id": 330,
+            "template": "FLYGON_NORMAL",
+            "form": 752
           },
           {
             "id": 131,
