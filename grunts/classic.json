@@ -784,14 +784,14 @@
             "form": 1124
           },
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
-          },
-          {
             "id": 332,
             "template": "CACTURNE_NORMAL",
             "form": 613
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           }
         ]
       ]
