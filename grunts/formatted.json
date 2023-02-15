@@ -232,6 +232,11 @@
       ],
       "second": [
         {
+          "id": 198,
+          "template": "MURKROW_NORMAL",
+          "form": 855
+        },
+        {
           "id": 20,
           "template": "RATICATE_ALOLA",
           "form": 48
@@ -240,11 +245,6 @@
           "id": 434,
           "template": "STUNKY_NORMAL",
           "form": 791
-        },
-        {
-          "id": 198,
-          "template": "MURKROW_NORMAL",
-          "form": 855
         }
       ],
       "third": [
@@ -664,14 +664,14 @@
       ],
       "third": [
         {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
           "id": 591,
           "template": "AMOONGUSS_NORMAL",
           "form": 2165
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
         },
         {
           "id": 332,
