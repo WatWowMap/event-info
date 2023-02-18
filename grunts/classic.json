@@ -91,14 +91,14 @@
             "form": 199
           },
           {
-            "id": 62,
-            "template": "POLIWRATH_NORMAL",
-            "form": 241
-          },
-          {
             "id": 282,
             "template": "GARDEVOIR_NORMAL",
             "form": 298
+          },
+          {
+            "id": 62,
+            "template": "POLIWRATH_NORMAL",
+            "form": 241
           }
         ],
         [
@@ -493,14 +493,14 @@
             "form": 1451
           },
           {
-            "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
-          },
-          {
             "id": 107,
             "template": "HITMONCHAN_NORMAL",
             "form": 277
+          },
+          {
+            "id": 106,
+            "template": "HITMONLEE_NORMAL",
+            "form": 713
           }
         ],
         [
@@ -569,14 +569,14 @@
       "team": [
         [
           {
-            "id": 37,
-            "template": "VULPIX_NORMAL",
-            "form": 55
-          },
-          {
             "id": 322,
             "template": "NUMEL_NORMAL",
             "form": 1517
+          },
+          {
+            "id": 37,
+            "template": "VULPIX_NORMAL",
+            "form": 55
           },
           {
             "id": 155,
@@ -603,14 +603,14 @@
             "form": 1133
           },
           {
-            "id": 323,
-            "template": "CAMERUPT_NORMAL",
-            "form": 1520
-          },
-          {
             "id": 38,
             "template": "NINETALES_NORMAL",
             "form": 57
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT_NORMAL",
+            "form": 1520
           }
         ]
       ]
@@ -1651,14 +1651,14 @@
             "form": 232
           },
           {
-            "id": 275,
-            "template": "SHIFTRY_NORMAL",
-            "form": 631
-          },
-          {
             "id": 65,
             "template": "ALAKAZAM_NORMAL",
             "form": 310
+          },
+          {
+            "id": 275,
+            "template": "SHIFTRY_NORMAL",
+            "form": 631
           }
         ]
       ]
