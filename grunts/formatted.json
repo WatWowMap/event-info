@@ -78,14 +78,14 @@
           "form": 199
         },
         {
-          "id": 282,
-          "template": "GARDEVOIR_NORMAL",
-          "form": 298
-        },
-        {
           "id": 62,
           "template": "POLIWRATH_NORMAL",
           "form": 241
+        },
+        {
+          "id": 282,
+          "template": "GARDEVOIR_NORMAL",
+          "form": 298
         }
       ],
       "third": [
@@ -95,14 +95,14 @@
           "form": 199
         },
         {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
-        },
-        {
           "id": 130,
           "template": "GYARADOS_NORMAL",
           "form": 256
+        },
+        {
+          "id": 149,
+          "template": "DRAGONITE_NORMAL",
+          "form": 196
         }
       ]
     }
@@ -232,11 +232,6 @@
       ],
       "second": [
         {
-          "id": 198,
-          "template": "MURKROW_NORMAL",
-          "form": 855
-        },
-        {
           "id": 20,
           "template": "RATICATE_ALOLA",
           "form": 48
@@ -245,6 +240,11 @@
           "id": 434,
           "template": "STUNKY_NORMAL",
           "form": 791
+        },
+        {
+          "id": 198,
+          "template": "MURKROW_NORMAL",
+          "form": 855
         }
       ],
       "third": [
@@ -382,14 +382,14 @@
       ],
       "third": [
         {
-          "id": 281,
-          "template": "KIRLIA_NORMAL",
-          "form": 295
-        },
-        {
           "id": 210,
           "template": "GRANBULL_NORMAL",
           "form": 1256
+        },
+        {
+          "id": 281,
+          "template": "KIRLIA_NORMAL",
+          "form": 295
         }
       ]
     }
@@ -422,14 +422,14 @@
           "form": 1451
         },
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ],
       "second": [
@@ -1588,14 +1588,14 @@
           "form": 911
         },
         {
-          "id": 623,
-          "template": "GOLURK_NORMAL",
-          "form": 2261
-        },
-        {
           "id": 477,
           "template": "DUSKNOIR_NORMAL",
           "form": 920
+        },
+        {
+          "id": 623,
+          "template": "GOLURK_NORMAL",
+          "form": 2261
         }
       ]
     }
