@@ -249,14 +249,14 @@
       ],
       "third": [
         {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        },
-        {
           "id": 20,
           "template": "RATICATE_ALOLA",
           "form": 48
+        },
+        {
+          "id": 332,
+          "template": "CACTURNE_NORMAL",
+          "form": 613
         },
         {
           "id": 430,
