@@ -232,6 +232,11 @@
       ],
       "second": [
         {
+          "id": 198,
+          "template": "MURKROW_NORMAL",
+          "form": 855
+        },
+        {
           "id": 20,
           "template": "RATICATE_ALOLA",
           "form": 48
@@ -240,23 +245,18 @@
           "id": 434,
           "template": "STUNKY_NORMAL",
           "form": 791
-        },
-        {
-          "id": 198,
-          "template": "MURKROW_NORMAL",
-          "form": 855
         }
       ],
       "third": [
         {
-          "id": 20,
-          "template": "RATICATE_ALOLA",
-          "form": 48
-        },
-        {
           "id": 332,
           "template": "CACTURNE_NORMAL",
           "form": 613
+        },
+        {
+          "id": 20,
+          "template": "RATICATE_ALOLA",
+          "form": 48
         },
         {
           "id": 430,
@@ -1458,9 +1458,9 @@
       ],
       "second": [
         {
-          "id": 34,
-          "template": "NIDOKING_NORMAL",
-          "form": 788
+          "id": 91,
+          "template": "CLOYSTER_NORMAL",
+          "form": 879
         },
         {
           "id": 445,
@@ -1468,9 +1468,9 @@
           "form": 867
         },
         {
-          "id": 91,
-          "template": "CLOYSTER_NORMAL",
-          "form": 879
+          "id": 34,
+          "template": "NIDOKING_NORMAL",
+          "form": 788
         }
       ],
       "third": [
