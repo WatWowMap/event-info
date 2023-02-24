@@ -215,14 +215,14 @@
     "encounters": {
       "first": [
         {
-          "id": 509,
-          "template": "PURRLOIN_NORMAL",
-          "form": 1931
-        },
-        {
           "id": 19,
           "template": "RATTATA_ALOLA",
           "form": 46
+        },
+        {
+          "id": 509,
+          "template": "PURRLOIN_NORMAL",
+          "form": 1931
         },
         {
           "id": 198,
@@ -767,14 +767,14 @@
     "encounters": {
       "first": [
         {
-          "id": 27,
-          "template": "SANDSHREW_ALOLA",
-          "form": 52
-        },
-        {
           "id": 37,
           "template": "VULPIX_ALOLA",
           "form": 56
+        },
+        {
+          "id": 27,
+          "template": "SANDSHREW_ALOLA",
+          "form": 52
         },
         {
           "id": 220,
