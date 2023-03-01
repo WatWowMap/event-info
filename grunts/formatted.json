@@ -714,14 +714,14 @@
           "form": 67
         },
         {
-          "id": 449,
-          "template": "HIPPOPOTAS_NORMAL",
-          "form": 888
-        },
-        {
           "id": 50,
           "template": "DIGLETT_ALOLA",
           "form": 60
+        },
+        {
+          "id": 449,
+          "template": "HIPPOPOTAS_NORMAL",
+          "form": 888
         }
       ],
       "second": [
