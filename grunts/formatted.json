@@ -503,14 +503,14 @@
       ],
       "second": [
         {
-          "id": 156,
-          "template": "QUILAVA_NORMAL",
-          "form": 1130
-        },
-        {
           "id": 126,
           "template": "MAGMAR_NORMAL",
           "form": 634
+        },
+        {
+          "id": 156,
+          "template": "QUILAVA_NORMAL",
+          "form": 1130
         }
       ],
       "third": [
@@ -674,14 +674,14 @@
           "form": 2165
         },
         {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        },
-        {
           "id": 154,
           "template": "MEGANIUM_NORMAL",
           "form": 1124
+        },
+        {
+          "id": 332,
+          "template": "CACTURNE_NORMAL",
+          "form": 613
         }
       ]
     }
