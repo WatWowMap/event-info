@@ -156,14 +156,14 @@
       "team": [
         [
           {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
-          },
-          {
             "id": 451,
             "template": "SKORUPI_NORMAL",
             "form": 1796
+          },
+          {
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
           },
           {
             "id": 595,
@@ -253,14 +253,14 @@
       "team": [
         [
           {
-            "id": 509,
-            "template": "PURRLOIN_NORMAL",
-            "form": 1931
-          },
-          {
             "id": 19,
             "template": "RATTATA_ALOLA",
             "form": 46
+          },
+          {
+            "id": 509,
+            "template": "PURRLOIN_NORMAL",
+            "form": 1931
           },
           {
             "id": 198,
@@ -275,14 +275,14 @@
             "form": 855
           },
           {
-            "id": 434,
-            "template": "STUNKY_NORMAL",
-            "form": 791
-          },
-          {
             "id": 20,
             "template": "RATICATE_ALOLA",
             "form": 48
+          },
+          {
+            "id": 434,
+            "template": "STUNKY_NORMAL",
+            "form": 791
           }
         ],
         [
@@ -603,14 +603,14 @@
         ],
         [
           {
-            "id": 38,
-            "template": "NINETALES_NORMAL",
-            "form": 57
-          },
-          {
             "id": 157,
             "template": "TYPHLOSION_NORMAL",
             "form": 1133
+          },
+          {
+            "id": 38,
+            "template": "NINETALES_NORMAL",
+            "form": 57
           },
           {
             "id": 323,
@@ -1246,14 +1246,14 @@
             "form": 1190
           },
           {
-            "id": 63,
-            "template": "ABRA_NORMAL",
-            "form": 304
-          },
-          {
             "id": 325,
             "template": "SPOINK_NORMAL",
             "form": 1526
+          },
+          {
+            "id": 63,
+            "template": "ABRA_NORMAL",
+            "form": 304
           }
         ],
         [
