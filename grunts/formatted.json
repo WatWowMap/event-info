@@ -422,14 +422,14 @@
           "form": 1451
         },
         {
-          "id": 106,
-          "template": "HITMONLEE_NORMAL",
-          "form": 713
-        },
-        {
           "id": 107,
           "template": "HITMONCHAN_NORMAL",
           "form": 277
+        },
+        {
+          "id": 106,
+          "template": "HITMONLEE_NORMAL",
+          "form": 713
         }
       ],
       "second": [
@@ -674,14 +674,14 @@
           "form": 2165
         },
         {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
           "id": 332,
           "template": "CACTURNE_NORMAL",
           "form": 613
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
         }
       ]
     }
@@ -714,14 +714,14 @@
           "form": 67
         },
         {
-          "id": 50,
-          "template": "DIGLETT_ALOLA",
-          "form": 60
-        },
-        {
           "id": 449,
           "template": "HIPPOPOTAS_NORMAL",
           "form": 888
+        },
+        {
+          "id": 50,
+          "template": "DIGLETT_ALOLA",
+          "form": 60
         }
       ],
       "second": [
@@ -886,14 +886,14 @@
       ],
       "third": [
         {
-          "id": 212,
-          "template": "SCIZOR_NORMAL",
-          "form": 250
-        },
-        {
           "id": 306,
           "template": "AGGRON_NORMAL",
           "form": 1475
+        },
+        {
+          "id": 212,
+          "template": "SCIZOR_NORMAL",
+          "form": 250
         }
       ]
     }
@@ -1299,14 +1299,14 @@
       ],
       "second": [
         {
-          "id": 127,
-          "template": "PINSIR_NORMAL",
-          "form": 898
-        },
-        {
           "id": 3,
           "template": "VENUSAUR_NORMAL",
           "form": 169
+        },
+        {
+          "id": 127,
+          "template": "PINSIR_NORMAL",
+          "form": 898
         },
         {
           "id": 139,
@@ -1458,14 +1458,14 @@
       ],
       "second": [
         {
-          "id": 34,
-          "template": "NIDOKING_NORMAL",
-          "form": 788
-        },
-        {
           "id": 445,
           "template": "GARCHOMP_NORMAL",
           "form": 867
+        },
+        {
+          "id": 34,
+          "template": "NIDOKING_NORMAL",
+          "form": 788
         },
         {
           "id": 91,
