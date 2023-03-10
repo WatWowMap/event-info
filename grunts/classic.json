@@ -1246,14 +1246,14 @@
             "form": 1190
           },
           {
-            "id": 325,
-            "template": "SPOINK_NORMAL",
-            "form": 1526
-          },
-          {
             "id": 63,
             "template": "ABRA_NORMAL",
             "form": 304
+          },
+          {
+            "id": 325,
+            "template": "SPOINK_NORMAL",
+            "form": 1526
           }
         ],
         [
@@ -1634,14 +1634,14 @@
         ],
         [
           {
-            "id": 319,
-            "template": "SHARPEDO_NORMAL",
-            "form": 737
-          },
-          {
             "id": 330,
             "template": "FLYGON_NORMAL",
             "form": 752
+          },
+          {
+            "id": 319,
+            "template": "SHARPEDO_NORMAL",
+            "form": 737
           },
           {
             "id": 131,
@@ -1906,14 +1906,14 @@
             "form": 652
           },
           {
-            "id": 523,
-            "template": "ZEBSTRIKA_NORMAL",
-            "form": 1973
-          },
-          {
             "id": 405,
             "template": "LUXRAY_NORMAL",
             "form": 1685
+          },
+          {
+            "id": 523,
+            "template": "ZEBSTRIKA_NORMAL",
+            "form": 1973
           }
         ]
       ]
