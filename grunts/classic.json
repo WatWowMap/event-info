@@ -791,14 +791,14 @@
             "form": 2165
           },
           {
-            "id": 154,
-            "template": "MEGANIUM_NORMAL",
-            "form": 1124
-          },
-          {
             "id": 332,
             "template": "CACTURNE_NORMAL",
             "form": 613
+          },
+          {
+            "id": 154,
+            "template": "MEGANIUM_NORMAL",
+            "form": 1124
           }
         ]
       ]
@@ -937,14 +937,14 @@
         ],
         [
           {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935
-          },
-          {
             "id": 91,
             "template": "CLOYSTER_NORMAL",
             "form": 879
+          },
+          {
+            "id": 460,
+            "template": "ABOMASNOW_NORMAL",
+            "form": 935
           },
           {
             "id": 131,
