@@ -90,9 +90,9 @@
       ],
       "third": [
         {
-          "id": 143,
-          "template": "SNORLAX_NORMAL",
-          "form": 199
+          "id": 149,
+          "template": "DRAGONITE_NORMAL",
+          "form": 196
         },
         {
           "id": 130,
@@ -100,9 +100,9 @@
           "form": 256
         },
         {
-          "id": 149,
-          "template": "DRAGONITE_NORMAL",
-          "form": 196
+          "id": 143,
+          "template": "SNORLAX_NORMAL",
+          "form": 199
         }
       ]
     }
@@ -254,14 +254,14 @@
           "form": 48
         },
         {
-          "id": 332,
-          "template": "CACTURNE_NORMAL",
-          "form": 613
-        },
-        {
           "id": 430,
           "template": "HONCHKROW_NORMAL",
           "form": 858
+        },
+        {
+          "id": 332,
+          "template": "CACTURNE_NORMAL",
+          "form": 613
         }
       ]
     }
@@ -365,14 +365,14 @@
       ],
       "second": [
         {
-          "id": 281,
-          "template": "KIRLIA_NORMAL",
-          "form": 295
-        },
-        {
           "id": 209,
           "template": "SNUBBULL_NORMAL",
           "form": 1253
+        },
+        {
+          "id": 281,
+          "template": "KIRLIA_NORMAL",
+          "form": 295
         },
         {
           "id": 210,
@@ -434,14 +434,14 @@
       ],
       "second": [
         {
-          "id": 107,
-          "template": "HITMONCHAN_NORMAL",
-          "form": 277
-        },
-        {
           "id": 106,
           "template": "HITMONLEE_NORMAL",
           "form": 713
+        },
+        {
+          "id": 107,
+          "template": "HITMONCHAN_NORMAL",
+          "form": 277
         }
       ],
       "third": [
@@ -886,14 +886,14 @@
       ],
       "third": [
         {
-          "id": 306,
-          "template": "AGGRON_NORMAL",
-          "form": 1475
-        },
-        {
           "id": 212,
           "template": "SCIZOR_NORMAL",
           "form": 250
+        },
+        {
+          "id": 306,
+          "template": "AGGRON_NORMAL",
+          "form": 1475
         }
       ]
     }
@@ -1458,11 +1458,6 @@
       ],
       "second": [
         {
-          "id": 445,
-          "template": "GARCHOMP_NORMAL",
-          "form": 867
-        },
-        {
           "id": 34,
           "template": "NIDOKING_NORMAL",
           "form": 788
@@ -1471,6 +1466,11 @@
           "id": 91,
           "template": "CLOYSTER_NORMAL",
           "form": 879
+        },
+        {
+          "id": 445,
+          "template": "GARCHOMP_NORMAL",
+          "form": 867
         }
       ],
       "third": [
@@ -1646,14 +1646,14 @@
           "form": 652
         },
         {
-          "id": 405,
-          "template": "LUXRAY_NORMAL",
-          "form": 1685
-        },
-        {
           "id": 523,
           "template": "ZEBSTRIKA_NORMAL",
           "form": 1973
+        },
+        {
+          "id": 405,
+          "template": "LUXRAY_NORMAL",
+          "form": 1685
         }
       ]
     }
