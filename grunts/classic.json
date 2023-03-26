@@ -442,9 +442,9 @@
       "team": [
         [
           {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 280,
+            "template": "RALTS_NORMAL",
+            "form": 292
           },
           {
             "id": 209,
@@ -452,9 +452,9 @@
             "form": 1253
           },
           {
-            "id": 280,
-            "template": "RALTS_NORMAL",
-            "form": 292
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
           }
         ],
         [
@@ -1602,6 +1602,11 @@
             "id": 212,
             "template": "SCIZOR_NORMAL",
             "form": 250
+          },
+          {
+            "id": 405,
+            "template": "LUXRAY_NORMAL",
+            "form": 1685
           }
         ]
       ]
@@ -1694,6 +1699,11 @@
             "id": 230,
             "template": "KINGDRA_NORMAL",
             "form": 1298
+          },
+          {
+            "id": 99,
+            "template": "KINGLER_NORMAL",
+            "form": 873
           }
         ],
         [
@@ -1741,14 +1751,14 @@
         ],
         [
           {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
-          },
-          {
             "id": 70,
             "template": "WEEPINBELL_NORMAL",
             "form": 667
+          },
+          {
+            "id": 20,
+            "template": "RATICATE_NORMAL",
+            "form": 47
           }
         ],
         [
