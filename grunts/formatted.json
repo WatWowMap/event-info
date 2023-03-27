@@ -270,6 +270,11 @@
           "id": 88,
           "template": "GRIMER_ALOLA",
           "form": 74
+        },
+        {
+          "id": 19,
+          "template": "RATTATA_ALOLA",
+          "form": 46
         }
       ],
       "second": [
@@ -889,6 +894,11 @@
           "id": 27,
           "template": "SANDSHREW_ALOLA",
           "form": 52
+        },
+        {
+          "id": 375,
+          "template": "METANG_NORMAL",
+          "form": 767
         }
       ],
       "third": [
@@ -1519,14 +1529,14 @@
       ],
       "second": [
         {
-          "id": 70,
-          "template": "WEEPINBELL_NORMAL",
-          "form": 667
-        },
-        {
           "id": 20,
           "template": "RATICATE_NORMAL",
           "form": 47
+        },
+        {
+          "id": 70,
+          "template": "WEEPINBELL_NORMAL",
+          "form": 667
         }
       ],
       "third": [
@@ -1571,14 +1581,14 @@
           "form": 908
         },
         {
-          "id": 425,
-          "template": "DRIFLOON_NORMAL",
-          "form": 1745
-        },
-        {
           "id": 355,
           "template": "DUSKULL_NORMAL",
           "form": 914
+        },
+        {
+          "id": 425,
+          "template": "DRIFLOON_NORMAL",
+          "form": 1745
         }
       ],
       "second": [
