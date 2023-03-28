@@ -1618,6 +1618,11 @@
           "id": 354,
           "template": "BANETTE_NORMAL",
           "form": 911
+        },
+        {
+          "id": 623,
+          "template": "GOLURK_NORMAL",
+          "form": 2261
         }
       ]
     }
