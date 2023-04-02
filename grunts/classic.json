@@ -326,6 +326,11 @@
             "id": 20,
             "template": "RATICATE_ALOLA",
             "form": 48
+          },
+          {
+            "id": 89,
+            "template": "MUK_ALOLA",
+            "form": 76
           }
         ],
         [
@@ -474,6 +479,11 @@
             "id": 281,
             "template": "KIRLIA_NORMAL",
             "form": 295
+          },
+          {
+            "id": 210,
+            "template": "GRANBULL_NORMAL",
+            "form": 1256
           }
         ],
         [
