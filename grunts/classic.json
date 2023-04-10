@@ -210,9 +210,9 @@
       "team": [
         [
           {
-            "id": 595,
-            "template": "JOLTIK_NORMAL",
-            "form": 2177
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
           },
           {
             "id": 451,
@@ -220,9 +220,9 @@
             "form": 1796
           },
           {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
+            "id": 595,
+            "template": "JOLTIK_NORMAL",
+            "form": 2177
           }
         ],
         [
@@ -232,26 +232,26 @@
             "form": 616
           },
           {
-            "id": 14,
-            "template": "KAKUNA_NORMAL",
-            "form": 619
-          },
-          {
             "id": 15,
             "template": "BEEDRILL_NORMAL",
             "form": 622
+          },
+          {
+            "id": 14,
+            "template": "KAKUNA_NORMAL",
+            "form": 619
           }
         ],
         [
           {
-            "id": 212,
-            "template": "SCIZOR_NORMAL",
-            "form": 250
-          },
-          {
             "id": 205,
             "template": "FORRETRESS_NORMAL",
             "form": 1247
+          },
+          {
+            "id": 212,
+            "template": "SCIZOR_NORMAL",
+            "form": 250
           },
           {
             "id": 15,
@@ -1280,14 +1280,14 @@
         ],
         [
           {
-            "id": 203,
-            "template": "GIRAFARIG_NORMAL",
-            "form": 1241
-          },
-          {
             "id": 280,
             "template": "RALTS_NORMAL",
             "form": 292
+          },
+          {
+            "id": 203,
+            "template": "GIRAFARIG_NORMAL",
+            "form": 1241
           }
         ],
         [
@@ -1713,14 +1713,14 @@
         ],
         [
           {
-            "id": 99,
-            "template": "KINGLER_NORMAL",
-            "form": 873
-          },
-          {
             "id": 34,
             "template": "NIDOKING_NORMAL",
             "form": 788
+          },
+          {
+            "id": 99,
+            "template": "KINGLER_NORMAL",
+            "form": 873
           },
           {
             "id": 230,
@@ -1904,14 +1904,14 @@
       "team": [
         [
           {
-            "id": 403,
-            "template": "SHINX_NORMAL",
-            "form": 1679
-          },
-          {
             "id": 179,
             "template": "MAREEP_NORMAL",
             "form": 646
+          },
+          {
+            "id": 403,
+            "template": "SHINX_NORMAL",
+            "form": 1679
           },
           {
             "id": 522,
