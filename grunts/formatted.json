@@ -7,7 +7,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -22,7 +22,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -37,7 +37,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -52,7 +52,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -67,7 +67,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -120,8 +120,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "5": {
     "type": "Mixed",
@@ -131,7 +130,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -174,8 +173,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "6": {
     "type": "Bug",
@@ -185,7 +183,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -200,7 +198,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -253,8 +251,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "8": {
     "type": "Darkness",
@@ -264,7 +261,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -279,7 +276,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -294,7 +291,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -327,8 +324,7 @@
           "form": 76
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "11": {
     "type": "Dark",
@@ -338,7 +334,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -353,7 +349,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -396,8 +392,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "13": {
     "type": "Dragon",
@@ -407,7 +402,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -422,7 +417,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -470,8 +465,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "15": {
     "type": "Fairy",
@@ -481,7 +475,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -496,7 +490,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -544,8 +538,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "17": {
     "type": "Fighting",
@@ -555,7 +548,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -570,7 +563,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -618,8 +611,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "19": {
     "type": "Fire",
@@ -629,7 +621,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -644,7 +636,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -697,8 +689,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "21": {
     "type": "Flying",
@@ -708,7 +699,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -723,7 +714,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -738,7 +729,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -786,8 +777,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "24": {
     "type": "Ground",
@@ -797,7 +787,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -812,7 +802,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -845,8 +835,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "26": {
     "type": "Ice",
@@ -856,7 +845,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -909,8 +898,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "27": {
     "type": "Ice",
@@ -920,7 +908,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -935,7 +923,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -950,7 +938,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -998,8 +986,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "30": {
     "type": "Normal",
@@ -1009,7 +996,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1024,7 +1011,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -1077,8 +1064,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "32": {
     "type": "Poison",
@@ -1088,7 +1074,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1126,8 +1112,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "33": {
     "type": "Poison",
@@ -1137,7 +1122,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1152,7 +1137,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1167,7 +1152,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1215,8 +1200,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "36": {
     "type": "Rock",
@@ -1226,7 +1210,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1241,7 +1225,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -1289,8 +1273,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "38": {
     "type": "Water",
@@ -1300,7 +1283,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1348,8 +1331,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "39": {
     "type": "Water",
@@ -1359,7 +1341,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -1387,8 +1369,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "40": {
     "type": "Player Team Leader",
@@ -1397,7 +1378,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1412,7 +1393,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1455,8 +1436,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "42": {
     "type": "Arlo",
@@ -1466,7 +1446,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1509,8 +1489,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "43": {
     "type": "Sierra",
@@ -1520,7 +1499,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1563,8 +1542,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "44": {
     "type": "Giovanni",
@@ -1574,7 +1552,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1589,7 +1567,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1604,7 +1582,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": true,
     "encounters": {
       "first": [
         {
@@ -1637,8 +1615,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": true
+    }
   },
   "47": {
     "type": "Ghost",
@@ -1648,7 +1625,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1663,7 +1640,7 @@
     "active": true,
     "secondReward": false,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1716,8 +1693,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "49": {
     "type": "Electric",
@@ -1727,7 +1703,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1775,8 +1751,7 @@
           "form": 0
         }
       ]
-    },
-    "thirdReward": false
+    }
   },
   "50": {
     "type": "Electric",
@@ -1786,7 +1761,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1801,7 +1776,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1816,7 +1791,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1831,7 +1806,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1846,7 +1821,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1861,7 +1836,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1876,7 +1851,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1891,7 +1866,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1906,7 +1881,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1921,7 +1896,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1936,7 +1911,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1951,7 +1926,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1966,7 +1941,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1981,7 +1956,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -1996,7 +1971,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2011,7 +1986,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2026,7 +2001,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2041,7 +2016,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2056,7 +2031,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2071,7 +2046,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2086,7 +2061,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2101,7 +2076,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2116,7 +2091,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2131,7 +2106,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2146,7 +2121,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2161,7 +2136,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2176,7 +2151,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2191,7 +2166,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
@@ -2206,7 +2181,7 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdRewards": false,
+    "thirdReward": false,
     "encounters": {
       "first": [],
       "second": [],
