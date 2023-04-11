@@ -66,53 +66,53 @@
       "team": [
         [
           {
+            "id": 1,
+            "template": "BULBASAUR",
+            "form": 0
+          },
+          {
             "id": 4,
-            "template": "CHARMANDER_NORMAL",
-            "form": 172
+            "template": "CHARMANDER",
+            "form": 0
           },
           {
             "id": 7,
-            "template": "SQUIRTLE_NORMAL",
-            "form": 181
-          },
-          {
-            "id": 1,
-            "template": "BULBASAUR_NORMAL",
-            "form": 163
+            "template": "SQUIRTLE",
+            "form": 0
           }
         ],
         [
           {
+            "id": 153,
+            "template": "BAYLEEF",
+            "form": 0
+          },
+          {
             "id": 156,
-            "template": "QUILAVA_NORMAL",
-            "form": 1130
+            "template": "QUILAVA",
+            "form": 0
           },
           {
             "id": 159,
-            "template": "CROCONAW_NORMAL",
-            "form": 1139
-          },
-          {
-            "id": 153,
-            "template": "BAYLEEF_NORMAL",
-            "form": 1121
+            "template": "CROCONAW",
+            "form": 0
           }
         ],
         [
           {
-            "id": 260,
-            "template": "SWAMPERT_NORMAL",
-            "form": 211
-          },
-          {
             "id": 254,
-            "template": "SCEPTILE_NORMAL",
-            "form": 1355
+            "template": "SCEPTILE",
+            "form": 0
           },
           {
             "id": 257,
-            "template": "BLAZIKEN_NORMAL",
-            "form": 1364
+            "template": "BLAZIKEN",
+            "form": 0
+          },
+          {
+            "id": 260,
+            "template": "SWAMPERT",
+            "form": 0
           }
         ]
       ]
@@ -128,48 +128,50 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1,
+        2
       ],
       "team": [
         [
           {
             "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "template": "SNORLAX",
+            "form": 0
           }
         ],
         [
           {
             "id": 62,
-            "template": "POLIWRATH_NORMAL",
-            "form": 241
+            "template": "POLIWRATH",
+            "form": 0
           },
           {
             "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "template": "SNORLAX",
+            "form": 0
           },
           {
             "id": 282,
-            "template": "GARDEVOIR_NORMAL",
-            "form": 298
+            "template": "GARDEVOIR",
+            "form": 0
           }
         ],
         [
           {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
+          },
+          {
             "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "template": "SNORLAX",
+            "form": 0
           },
           {
             "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
-          },
-          {
-            "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256
+            "template": "DRAGONITE",
+            "form": 0
           }
         ]
       ]
@@ -205,58 +207,59 @@
     "lineup": {
       "rewards": [
         0,
-        1
+        1,
+        2
       ],
       "team": [
         [
           {
-            "id": 451,
-            "template": "SKORUPI_NORMAL",
-            "form": 1796
+            "id": 213,
+            "template": "SHUCKLE",
+            "form": 0
           },
           {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
+            "id": 451,
+            "template": "SKORUPI",
+            "form": 0
           },
           {
             "id": 595,
-            "template": "JOLTIK_NORMAL",
-            "form": 2177
+            "template": "JOLTIK",
+            "form": 0
           }
         ],
         [
           {
             "id": 13,
-            "template": "WEEDLE_NORMAL",
-            "form": 616
-          },
-          {
-            "id": 15,
-            "template": "BEEDRILL_NORMAL",
-            "form": 622
+            "template": "WEEDLE",
+            "form": 0
           },
           {
             "id": 14,
-            "template": "KAKUNA_NORMAL",
-            "form": 619
+            "template": "KAKUNA",
+            "form": 0
+          },
+          {
+            "id": 15,
+            "template": "BEEDRILL",
+            "form": 0
           }
         ],
         [
           {
+            "id": 15,
+            "template": "BEEDRILL",
+            "form": 0
+          },
+          {
             "id": 205,
-            "template": "FORRETRESS_NORMAL",
-            "form": 1247
+            "template": "FORRETRESS",
+            "form": 0
           },
           {
             "id": 212,
-            "template": "SCIZOR_NORMAL",
-            "form": 250
-          },
-          {
-            "id": 15,
-            "template": "BEEDRILL_NORMAL",
-            "form": 622
+            "template": "SCIZOR",
+            "form": 0
           }
         ]
       ]
@@ -306,14 +309,14 @@
       "team": [
         [
           {
-            "id": 88,
-            "template": "GRIMER_ALOLA",
-            "form": 74
-          },
-          {
             "id": 19,
             "template": "RATTATA_ALOLA",
             "form": 46
+          },
+          {
+            "id": 88,
+            "template": "GRIMER_ALOLA",
+            "form": 74
           }
         ],
         [
@@ -321,11 +324,6 @@
             "id": 20,
             "template": "RATICATE_ALOLA",
             "form": 48
-          },
-          {
-            "id": 89,
-            "template": "MUK_NORMAL",
-            "form": 75
           },
           {
             "id": 89,
@@ -372,43 +370,49 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
           {
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
+          },
+          {
             "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "template": "DRATINI",
+            "form": 0
           }
         ],
         [
-          {
-            "id": 330,
-            "template": "FLYGON_NORMAL",
-            "form": 752
-          },
           {
             "id": 103,
             "template": "EXEGGUTOR_ALOLA",
             "form": 78
+          },
+          {
+            "id": 330,
+            "template": "FLYGON",
+            "form": 0
           }
         ],
         [
           {
-            "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
+            "id": 148,
+            "template": "DRAGONAIR",
+            "form": 0
           },
           {
-            "id": 148,
-            "template": "DRAGONAIR_NORMAL",
-            "form": 193
+            "id": 149,
+            "template": "DRAGONITE",
+            "form": 0
           },
           {
             "id": 330,
-            "template": "FLYGON_NORMAL",
-            "form": 752
+            "template": "FLYGON",
+            "form": 0
           }
         ]
       ]
@@ -444,53 +448,54 @@
     "lineup": {
       "rewards": [
         0,
-        1
+        1,
+        2
       ],
       "team": [
         [
           {
-            "id": 280,
-            "template": "RALTS_NORMAL",
-            "form": 292
+            "id": 209,
+            "template": "SNUBBULL",
+            "form": 0
           },
           {
-            "id": 209,
-            "template": "SNUBBULL_NORMAL",
-            "form": 1253
+            "id": 280,
+            "template": "RALTS",
+            "form": 0
           },
           {
             "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "template": "MAWILE",
+            "form": 0
           }
         ],
         [
-          {
-            "id": 281,
-            "template": "KIRLIA_NORMAL",
-            "form": 295
-          },
           {
             "id": 209,
-            "template": "SNUBBULL_NORMAL",
-            "form": 1253
+            "template": "SNUBBULL",
+            "form": 0
           },
           {
             "id": 210,
-            "template": "GRANBULL_NORMAL",
-            "form": 1256
+            "template": "GRANBULL",
+            "form": 0
+          },
+          {
+            "id": 281,
+            "template": "KIRLIA",
+            "form": 0
           }
         ],
         [
           {
-            "id": 281,
-            "template": "KIRLIA_NORMAL",
-            "form": 295
+            "id": 210,
+            "template": "GRANBULL",
+            "form": 0
           },
           {
-            "id": 210,
-            "template": "GRANBULL_NORMAL",
-            "form": 1256
+            "id": 281,
+            "template": "KIRLIA",
+            "form": 0
           }
         ]
       ]
@@ -526,53 +531,54 @@
     "lineup": {
       "rewards": [
         0,
-        1
+        1,
+        2
       ],
       "team": [
         [
           {
-            "id": 296,
-            "template": "MAKUHITA_NORMAL",
-            "form": 1451
-          },
-          {
             "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
+            "template": "HITMONLEE",
+            "form": 0
           },
           {
             "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
+            "template": "HITMONCHAN",
+            "form": 0
+          },
+          {
+            "id": 296,
+            "template": "MAKUHITA",
+            "form": 0
           }
         ],
         [
           {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
+            "id": 106,
+            "template": "HITMONLEE",
+            "form": 0
           },
           {
-            "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
+            "id": 107,
+            "template": "HITMONCHAN",
+            "form": 0
           }
         ],
         [
           {
             "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
-          },
-          {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
+            "template": "MACHAMP",
+            "form": 0
           },
           {
             "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
+            "template": "HITMONLEE",
+            "form": 0
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN",
+            "form": 0
           }
         ]
       ]
@@ -612,48 +618,48 @@
       "team": [
         [
           {
-            "id": 322,
-            "template": "NUMEL_NORMAL",
-            "form": 1517
-          },
-          {
             "id": 37,
-            "template": "VULPIX_NORMAL",
-            "form": 55
+            "template": "VULPIX",
+            "form": 0
           },
           {
             "id": 255,
-            "template": "TORCHIC_NORMAL",
-            "form": 1358
+            "template": "TORCHIC",
+            "form": 0
+          },
+          {
+            "id": 322,
+            "template": "NUMEL",
+            "form": 0
           }
         ],
         [
           {
             "id": 126,
-            "template": "MAGMAR_NORMAL",
-            "form": 634
+            "template": "MAGMAR",
+            "form": 0
           },
           {
             "id": 156,
-            "template": "QUILAVA_NORMAL",
-            "form": 1130
+            "template": "QUILAVA",
+            "form": 0
           }
         ],
         [
           {
-            "id": 157,
-            "template": "TYPHLOSION_NORMAL",
-            "form": 1133
+            "id": 38,
+            "template": "NINETALES",
+            "form": 0
           },
           {
-            "id": 38,
-            "template": "NINETALES_NORMAL",
-            "form": 57
+            "id": 157,
+            "template": "TYPHLOSION",
+            "form": 0
           },
           {
             "id": 323,
-            "template": "CAMERUPT_NORMAL",
-            "form": 1520
+            "template": "CAMERUPT",
+            "form": 0
           }
         ]
       ]
@@ -693,53 +699,53 @@
       "team": [
         [
           {
+            "id": 41,
+            "template": "ZUBAT",
+            "form": 0
+          },
+          {
             "id": 177,
-            "template": "NATU_NORMAL",
-            "form": 1190
+            "template": "NATU",
+            "form": 0
           },
           {
             "id": 580,
-            "template": "DUCKLETT_NORMAL",
-            "form": 2138
-          },
-          {
-            "id": 41,
-            "template": "ZUBAT_NORMAL",
-            "form": 157
+            "template": "DUCKLETT",
+            "form": 0
           }
         ],
         [
           {
-            "id": 397,
-            "template": "STARAVIA_NORMAL",
-            "form": 1661
+            "id": 42,
+            "template": "GOLBAT",
+            "form": 0
           },
           {
             "id": 178,
-            "template": "XATU_NORMAL",
-            "form": 1193
+            "template": "XATU",
+            "form": 0
           },
           {
-            "id": 42,
-            "template": "GOLBAT_NORMAL",
-            "form": 160
+            "id": 397,
+            "template": "STARAVIA",
+            "form": 0
           }
         ],
         [
           {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
+          },
+          {
             "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
+            "template": "DRAGONITE",
+            "form": 0
           },
           {
             "id": 169,
-            "template": "CROBAT_NORMAL",
-            "form": 202
-          },
-          {
-            "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256
+            "template": "CROBAT",
+            "form": 0
           }
         ]
       ]
@@ -796,47 +802,47 @@
         [
           {
             "id": 43,
-            "template": "ODDISH_NORMAL",
-            "form": 265
-          },
-          {
-            "id": 331,
-            "template": "CACNEA_NORMAL",
-            "form": 610
+            "template": "ODDISH",
+            "form": 0
           },
           {
             "id": 252,
-            "template": "TREECKO_NORMAL",
-            "form": 1349
+            "template": "TREECKO",
+            "form": 0
+          },
+          {
+            "id": 331,
+            "template": "CACNEA",
+            "form": 0
           }
         ],
         [
           {
             "id": 44,
-            "template": "GLOOM_NORMAL",
-            "form": 268
+            "template": "GLOOM",
+            "form": 0
           },
           {
             "id": 153,
-            "template": "BAYLEEF_NORMAL",
-            "form": 1121
+            "template": "BAYLEEF",
+            "form": 0
           }
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
+            "id": 154,
+            "template": "MEGANIUM",
+            "form": 0
           },
           {
             "id": 332,
-            "template": "CACTURNE_NORMAL",
-            "form": 613
+            "template": "CACTURNE",
+            "form": 0
           },
           {
-            "id": 154,
-            "template": "MEGANIUM_NORMAL",
-            "form": 1124
+            "id": 591,
+            "template": "AMOONGUSS",
+            "form": 0
           }
         ]
       ]
@@ -871,38 +877,39 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
           {
             "id": 231,
-            "template": "PHANPY_NORMAL",
-            "form": 1301
+            "template": "PHANPY",
+            "form": 0
           },
           {
             "id": 449,
-            "template": "HIPPOPOTAS_NORMAL",
-            "form": 888
+            "template": "HIPPOPOTAS",
+            "form": 0
           }
         ],
         [
           {
-            "id": 449,
-            "template": "HIPPOPOTAS_NORMAL",
-            "form": 888
+            "id": 232,
+            "template": "DONPHAN",
+            "form": 0
           },
           {
-            "id": 232,
-            "template": "DONPHAN_NORMAL",
-            "form": 1304
+            "id": 449,
+            "template": "HIPPOPOTAS",
+            "form": 0
           }
         ],
         [
           {
             "id": 450,
-            "template": "HIPPOWDON_NORMAL",
-            "form": 891
+            "template": "HIPPOWDON",
+            "form": 0
           }
         ]
       ]
@@ -926,11 +933,6 @@
       "team": [
         [
           {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
-          },
-          {
             "id": 27,
             "template": "SANDSHREW_ALOLA",
             "form": 52
@@ -939,6 +941,11 @@
             "id": 37,
             "template": "VULPIX_ALOLA",
             "form": 56
+          },
+          {
+            "id": 220,
+            "template": "SWINUB",
+            "form": 0
           }
         ],
         [
@@ -948,31 +955,31 @@
             "form": 54
           },
           {
-            "id": 459,
-            "template": "SNOVER_NORMAL",
-            "form": 932
-          },
-          {
             "id": 38,
             "template": "NINETALES_ALOLA",
             "form": 58
+          },
+          {
+            "id": 459,
+            "template": "SNOVER",
+            "form": 0
           }
         ],
         [
           {
             "id": 91,
-            "template": "CLOYSTER_NORMAL",
-            "form": 879
-          },
-          {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935
+            "template": "CLOYSTER",
+            "form": 0
           },
           {
             "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "template": "LAPRAS",
+            "form": 0
+          },
+          {
+            "id": 460,
+            "template": "ABOMASNOW",
+            "form": 0
           }
         ]
       ]
@@ -1028,14 +1035,14 @@
             "form": 52
           },
           {
-            "id": 304,
-            "template": "ARON_NORMAL",
-            "form": 1469
-          },
-          {
             "id": 50,
             "template": "DIGLETT_ALOLA",
             "form": 60
+          },
+          {
+            "id": 304,
+            "template": "ARON",
+            "form": 0
           }
         ],
         [
@@ -1046,25 +1053,25 @@
           },
           {
             "id": 305,
-            "template": "LAIRON_NORMAL",
-            "form": 1472
+            "template": "LAIRON",
+            "form": 0
           },
           {
             "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "template": "METANG",
+            "form": 0
           }
         ],
         [
           {
-            "id": 306,
-            "template": "AGGRON_NORMAL",
-            "form": 1475
+            "id": 212,
+            "template": "SCIZOR",
+            "form": 0
           },
           {
-            "id": 212,
-            "template": "SCIZOR_NORMAL",
-            "form": 250
+            "id": 306,
+            "template": "AGGRON",
+            "form": 0
           }
         ]
       ]
@@ -1100,58 +1107,59 @@
     "lineup": {
       "rewards": [
         0,
-        1
+        1,
+        2
       ],
       "team": [
         [
           {
-            "id": 519,
-            "template": "PIDOVE_NORMAL",
-            "form": 1961
-          },
-          {
             "id": 293,
-            "template": "WHISMUR_NORMAL",
-            "form": 1442
+            "template": "WHISMUR",
+            "form": 0
           },
           {
             "id": 504,
-            "template": "PATRAT_NORMAL",
-            "form": 1916
+            "template": "PATRAT",
+            "form": 0
+          },
+          {
+            "id": 519,
+            "template": "PIDOVE",
+            "form": 0
           }
         ],
         [
           {
             "id": 19,
-            "template": "RATTATA_NORMAL",
-            "form": 45
+            "template": "RATTATA",
+            "form": 0
           },
           {
             "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "template": "RATICATE",
+            "form": 0
           },
           {
             "id": 294,
-            "template": "LOUDRED_NORMAL",
-            "form": 1445
+            "template": "LOUDRED",
+            "form": 0
           }
         ],
         [
           {
-            "id": 217,
-            "template": "URSARING_NORMAL",
-            "form": 1268
+            "id": 20,
+            "template": "RATICATE",
+            "form": 0
           },
           {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "id": 217,
+            "template": "URSARING",
+            "form": 0
           },
           {
             "id": 400,
-            "template": "BIBAREL_NORMAL",
-            "form": 1670
+            "template": "BIBAREL",
+            "form": 0
           }
         ]
       ]
@@ -1176,37 +1184,37 @@
         [
           {
             "id": 88,
-            "template": "GRIMER_NORMAL",
-            "form": 73
+            "template": "GRIMER",
+            "form": 0
           },
           {
             "id": 590,
-            "template": "FOONGUS_NORMAL",
-            "form": 2162
+            "template": "FOONGUS",
+            "form": 0
           }
         ],
         [
           {
             "id": 30,
-            "template": "NIDORINA_NORMAL",
-            "form": 779
+            "template": "NIDORINA",
+            "form": 0
           },
           {
             "id": 33,
-            "template": "NIDORINO_NORMAL",
-            "form": 785
+            "template": "NIDORINO",
+            "form": 0
           }
         ],
         [
           {
             "id": 89,
-            "template": "MUK_NORMAL",
-            "form": 75
+            "template": "MUK",
+            "form": 0
           },
           {
             "id": 110,
-            "template": "WEEZING_NORMAL",
-            "form": 706
+            "template": "WEEZING",
+            "form": 0
           }
         ]
       ]
@@ -1263,48 +1271,48 @@
       "team": [
         [
           {
-            "id": 177,
-            "template": "NATU_NORMAL",
-            "form": 1190
+            "id": 63,
+            "template": "ABRA",
+            "form": 0
           },
           {
-            "id": 63,
-            "template": "ABRA_NORMAL",
-            "form": 304
+            "id": 177,
+            "template": "NATU",
+            "form": 0
           },
           {
             "id": 325,
-            "template": "SPOINK_NORMAL",
-            "form": 1526
+            "template": "SPOINK",
+            "form": 0
           }
         ],
         [
           {
-            "id": 280,
-            "template": "RALTS_NORMAL",
-            "form": 292
+            "id": 203,
+            "template": "GIRAFARIG",
+            "form": 0
           },
           {
-            "id": 203,
-            "template": "GIRAFARIG_NORMAL",
-            "form": 1241
+            "id": 280,
+            "template": "RALTS",
+            "form": 0
           }
         ],
         [
           {
             "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310
+            "template": "ALAKAZAM",
+            "form": 0
           },
           {
             "id": 97,
-            "template": "HYPNO_NORMAL",
-            "form": 217
+            "template": "HYPNO",
+            "form": 0
           },
           {
             "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "template": "METANG",
+            "form": 0
           }
         ]
       ]
@@ -1340,58 +1348,54 @@
     "lineup": {
       "rewards": [
         0,
-        1
+        1,
+        2
       ],
       "team": [
         [
           {
             "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
-          },
-          {
-            "id": 347,
-            "template": "ANORITH_NORMAL",
-            "form": 1574
+            "template": "ONIX",
+            "form": 0
           },
           {
             "id": 345,
-            "template": "LILEEP_NORMAL",
-            "form": 1568
+            "template": "LILEEP",
+            "form": 0
+          },
+          {
+            "id": 347,
+            "template": "ANORITH",
+            "form": 0
           }
         ],
         [
-          {
-            "id": 345,
-            "template": "LILEEP_NORMAL",
-            "form": 1568
-          },
-          {
-            "id": 347,
-            "template": "ANORITH_NORMAL",
-            "form": 1574
-          },
           {
             "id": 75,
-            "template": "GRAVELER_NORMAL",
-            "form": 69
+            "template": "GRAVELER",
+            "form": 0
+          },
+          {
+            "id": 345,
+            "template": "LILEEP",
+            "form": 0
+          },
+          {
+            "id": 347,
+            "template": "ANORITH",
+            "form": 0
           }
         ],
         [
           {
-            "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
-          },
-          {
-            "id": 208,
-            "template": "STEELIX_NORMAL",
-            "form": 905
-          },
-          {
             "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
+            "template": "GOLEM",
+            "form": 0
+          },
+          {
+            "id": 95,
+            "template": "ONIX",
+            "form": 0
           }
         ]
       ]
@@ -1415,48 +1419,48 @@
       "team": [
         [
           {
-            "id": 320,
-            "template": "WAILMER_NORMAL",
-            "form": 1511
-          },
-          {
             "id": 54,
-            "template": "PSYDUCK_NORMAL",
-            "form": 286
+            "template": "PSYDUCK",
+            "form": 0
           },
           {
             "id": 258,
-            "template": "MUDKIP_NORMAL",
-            "form": 205
+            "template": "MUDKIP",
+            "form": 0
+          },
+          {
+            "id": 320,
+            "template": "WAILMER",
+            "form": 0
           }
         ],
         [
           {
             "id": 55,
-            "template": "GOLDUCK_NORMAL",
-            "form": 289
+            "template": "GOLDUCK",
+            "form": 0
           },
           {
             "id": 159,
-            "template": "CROCONAW_NORMAL",
-            "form": 1139
+            "template": "CROCONAW",
+            "form": 0
           }
         ],
         [
           {
-            "id": 160,
-            "template": "FERALIGATR_NORMAL",
-            "form": 1142
+            "id": 55,
+            "template": "GOLDUCK",
+            "form": 0
           },
           {
-            "id": 55,
-            "template": "GOLDUCK_NORMAL",
-            "form": 289
+            "id": 160,
+            "template": "FERALIGATR",
+            "form": 0
           },
           {
             "id": 321,
-            "template": "WAILORD_NORMAL",
-            "form": 1514
+            "template": "WAILORD",
+            "form": 0
           }
         ]
       ]
@@ -1475,33 +1479,35 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1,
+        2
       ],
       "team": [
         [
           {
             "id": 129,
-            "template": "MAGIKARP_NORMAL",
-            "form": 253
+            "template": "MAGIKARP",
+            "form": 0
           }
         ],
         [
           {
             "id": 129,
-            "template": "MAGIKARP_NORMAL",
-            "form": 253
+            "template": "MAGIKARP",
+            "form": 0
           }
         ],
         [
           {
             "id": 129,
-            "template": "MAGIKARP_NORMAL",
-            "form": 253
+            "template": "MAGIKARP",
+            "form": 0
           },
           {
             "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256
+            "template": "GYARADOS",
+            "form": 0
           }
         ]
       ]
@@ -1536,42 +1542,42 @@
         [
           {
             "id": 246,
-            "template": "LARVITAR_NORMAL",
-            "form": 313
+            "template": "LARVITAR",
+            "form": 0
           }
         ],
         [
           {
             "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
-          },
-          {
-            "id": 254,
-            "template": "SCEPTILE_NORMAL",
-            "form": 1355
+            "template": "SKARMORY",
+            "form": 0
           },
           {
             "id": 230,
-            "template": "KINGDRA_NORMAL",
-            "form": 1298
+            "template": "KINGDRA",
+            "form": 0
+          },
+          {
+            "id": 254,
+            "template": "SCEPTILE",
+            "form": 0
           }
         ],
         [
           {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
+          },
+          {
             "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "template": "TYRANITAR",
+            "form": 0
           },
           {
             "id": 260,
-            "template": "SWAMPERT_NORMAL",
-            "form": 211
-          },
-          {
-            "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256
+            "template": "SWAMPERT",
+            "form": 0
           }
         ]
       ]
@@ -1593,42 +1599,42 @@
         [
           {
             "id": 216,
-            "template": "TEDDIURSA_NORMAL",
-            "form": 1265
+            "template": "TEDDIURSA",
+            "form": 0
           }
         ],
         [
           {
             "id": 97,
-            "template": "HYPNO_NORMAL",
-            "form": 217
+            "template": "HYPNO",
+            "form": 0
           },
           {
             "id": 257,
-            "template": "BLAZIKEN_NORMAL",
-            "form": 1364
+            "template": "BLAZIKEN",
+            "form": 0
           },
           {
             "id": 623,
-            "template": "GOLURK_NORMAL",
-            "form": 2261
+            "template": "GOLURK",
+            "form": 0
           }
         ],
         [
           {
             "id": 212,
-            "template": "SCIZOR_NORMAL",
-            "form": 250
+            "template": "SCIZOR",
+            "form": 0
           },
           {
             "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911
+            "template": "BANETTE",
+            "form": 0
           },
           {
             "id": 405,
-            "template": "LUXRAY_NORMAL",
-            "form": 1685
+            "template": "LUXRAY",
+            "form": 0
           }
         ]
       ]
@@ -1650,49 +1656,49 @@
         [
           {
             "id": 198,
-            "template": "MURKROW_NORMAL",
-            "form": 855
+            "template": "MURKROW",
+            "form": 0
           }
         ],
         [
           {
-            "id": 398,
-            "template": "STARAPTOR_NORMAL",
-            "form": 1664
+            "id": 208,
+            "template": "STEELIX",
+            "form": 0
           },
           {
             "id": 260,
-            "template": "SWAMPERT_NORMAL",
-            "form": 211
+            "template": "SWAMPERT",
+            "form": 0
           },
           {
-            "id": 208,
-            "template": "STEELIX_NORMAL",
-            "form": 905
+            "id": 398,
+            "template": "STARAPTOR",
+            "form": 0
           }
         ],
         [
           {
             "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178
-          },
-          {
-            "id": 229,
-            "template": "HOUNDOOM_NORMAL",
-            "form": 232
+            "template": "CHARIZARD",
+            "form": 0
           },
           {
             "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
+            "template": "DRAGONITE",
+            "form": 0
+          },
+          {
+            "id": 229,
+            "template": "HOUNDOOM",
+            "form": 0
           }
         ]
       ]
     }
   },
   "44": {
-    "active": true,
+    "active": false,
     "character": {
       "template": "CHARACTER_GIOVANNI",
       "gender": 0,
@@ -1700,42 +1706,8 @@
       "type": {}
     },
     "lineup": {
-      "rewards": [
-        2
-      ],
-      "team": [
-        [
-          {
-            "id": 53,
-            "template": "PERSIAN_NORMAL",
-            "form": 65
-          }
-        ],
-        [
-          {
-            "id": 34,
-            "template": "NIDOKING_NORMAL",
-            "form": 788
-          },
-          {
-            "id": 99,
-            "template": "KINGLER_NORMAL",
-            "form": 873
-          },
-          {
-            "id": 230,
-            "template": "KINGDRA_NORMAL",
-            "form": 1298
-          }
-        ],
-        [
-          {
-            "id": 378,
-            "template": "REGICE_NORMAL",
-            "form": 1625
-          }
-        ]
-      ]
+      "rewards": [],
+      "team": []
     }
   },
   "45": {
@@ -1762,38 +1734,39 @@
     "lineup": {
       "rewards": [
         0,
-        1
+        1,
+        2
       ],
       "team": [
         [
           {
             "id": 69,
-            "template": "BELLSPROUT_NORMAL",
-            "form": 664
+            "template": "BELLSPROUT",
+            "form": 0
           }
         ],
         [
           {
             "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "template": "RATICATE",
+            "form": 0
           },
           {
             "id": 70,
-            "template": "WEEPINBELL_NORMAL",
-            "form": 667
+            "template": "WEEPINBELL",
+            "form": 0
           }
         ],
         [
           {
             "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "template": "RATICATE",
+            "form": 0
           },
           {
             "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "template": "SNORLAX",
+            "form": 0
           }
         ]
       ]
@@ -1833,53 +1806,53 @@
       "team": [
         [
           {
-            "id": 425,
-            "template": "DRIFLOON_NORMAL",
-            "form": 1745
+            "id": 353,
+            "template": "SHUPPET",
+            "form": 0
           },
           {
             "id": 355,
-            "template": "DUSKULL_NORMAL",
-            "form": 914
+            "template": "DUSKULL",
+            "form": 0
           },
           {
-            "id": 353,
-            "template": "SHUPPET_NORMAL",
-            "form": 908
+            "id": 425,
+            "template": "DRIFLOON",
+            "form": 0
           }
         ],
         [
           {
-            "id": 356,
-            "template": "DUSCLOPS_NORMAL",
-            "form": 917
+            "id": 354,
+            "template": "BANETTE",
+            "form": 0
           },
           {
-            "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911
+            "id": 356,
+            "template": "DUSCLOPS",
+            "form": 0
           },
           {
             "id": 622,
-            "template": "GOLETT_NORMAL",
-            "form": 2258
+            "template": "GOLETT",
+            "form": 0
           }
         ],
         [
           {
-            "id": 477,
-            "template": "DUSKNOIR_NORMAL",
-            "form": 920
+            "id": 354,
+            "template": "BANETTE",
+            "form": 0
           },
           {
-            "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911
+            "id": 477,
+            "template": "DUSKNOIR",
+            "form": 0
           },
           {
             "id": 623,
-            "template": "GOLURK_NORMAL",
-            "form": 2261
+            "template": "GOLURK",
+            "form": 0
           }
         ]
       ]
@@ -1905,47 +1878,47 @@
         [
           {
             "id": 179,
-            "template": "MAREEP_NORMAL",
-            "form": 646
+            "template": "MAREEP",
+            "form": 0
           },
           {
             "id": 403,
-            "template": "SHINX_NORMAL",
-            "form": 1679
+            "template": "SHINX",
+            "form": 0
           },
           {
             "id": 522,
-            "template": "BLITZLE_NORMAL",
-            "form": 1970
+            "template": "BLITZLE",
+            "form": 0
           }
         ],
         [
           {
             "id": 100,
-            "template": "VOLTORB_NORMAL",
-            "form": 1047
+            "template": "VOLTORB",
+            "form": 0
           },
           {
             "id": 125,
-            "template": "ELECTABUZZ_NORMAL",
-            "form": 640
+            "template": "ELECTABUZZ",
+            "form": 0
           }
         ],
         [
           {
             "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652
-          },
-          {
-            "id": 523,
-            "template": "ZEBSTRIKA_NORMAL",
-            "form": 1973
+            "template": "AMPHAROS",
+            "form": 0
           },
           {
             "id": 405,
-            "template": "LUXRAY_NORMAL",
-            "form": 1685
+            "template": "LUXRAY",
+            "form": 0
+          },
+          {
+            "id": 523,
+            "template": "ZEBSTRIKA",
+            "form": 0
           }
         ]
       ]
