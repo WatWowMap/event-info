@@ -1678,14 +1678,14 @@
           "form": 652
         },
         {
-          "id": 405,
-          "template": "LUXRAY_NORMAL",
-          "form": 1685
-        },
-        {
           "id": 523,
           "template": "ZEBSTRIKA_NORMAL",
           "form": 1973
+        },
+        {
+          "id": 405,
+          "template": "LUXRAY_NORMAL",
+          "form": 1685
         }
       ]
     }
