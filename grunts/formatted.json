@@ -77,14 +77,14 @@
           "form": 1130
         },
         {
-          "id": 153,
-          "template": "BAYLEEF_NORMAL",
-          "form": 1121
-        },
-        {
           "id": 159,
           "template": "CROCONAW_NORMAL",
           "form": 1139
+        },
+        {
+          "id": 153,
+          "template": "BAYLEEF_NORMAL",
+          "form": 1121
         }
       ],
       "third": [
@@ -614,14 +614,14 @@
           "form": 1661
         },
         {
-          "id": 42,
-          "template": "GOLBAT_NORMAL",
-          "form": 160
-        },
-        {
           "id": 178,
           "template": "XATU_NORMAL",
           "form": 1193
+        },
+        {
+          "id": 42,
+          "template": "GOLBAT_NORMAL",
+          "form": 160
         }
       ],
       "third": [
@@ -711,14 +711,14 @@
           "form": 2165
         },
         {
-          "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
-        },
-        {
           "id": 332,
           "template": "CACTURNE_NORMAL",
           "form": 613
+        },
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
         }
       ]
     }
@@ -1321,14 +1321,14 @@
       ],
       "second": [
         {
-          "id": 254,
-          "template": "SCEPTILE_NORMAL",
-          "form": 1355
-        },
-        {
           "id": 227,
           "template": "SKARMORY_NORMAL",
           "form": 1295
+        },
+        {
+          "id": 254,
+          "template": "SCEPTILE_NORMAL",
+          "form": 1355
         },
         {
           "id": 230,
