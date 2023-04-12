@@ -1549,14 +1549,42 @@
     "gender": 0,
     "grunt": "Giovanni",
     "proto": "CHARACTER_GIOVANNI",
-    "active": false,
+    "active": true,
     "secondReward": false,
     "firstReward": false,
-    "thirdReward": false,
+    "thirdReward": true,
     "encounters": {
-      "first": [],
-      "second": [],
-      "third": []
+      "first": [
+        {
+          "id": 53,
+          "template": "PERSIAN_NORMAL",
+          "form": 65
+        }
+      ],
+      "second": [
+        {
+          "id": 34,
+          "template": "NIDOKING_NORMAL",
+          "form": 788
+        },
+        {
+          "id": 99,
+          "template": "KINGLER_NORMAL",
+          "form": 873
+        },
+        {
+          "id": 230,
+          "template": "KINGDRA_NORMAL",
+          "form": 1298
+        }
+      ],
+      "third": [
+        {
+          "id": 378,
+          "template": "REGICE_NORMAL",
+          "form": 1625
+        }
+      ]
     }
   },
   "45": {
