@@ -128,9 +128,9 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -198,7 +198,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -417,7 +417,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -490,7 +490,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1011,7 +1011,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1225,7 +1225,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1339,9 +1339,9 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_WATER_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
@@ -1610,7 +1610,7 @@
     "active": true,
     "secondReward": true,
     "firstReward": true,
-    "thirdReward": true,
+    "thirdReward": false,
     "encounters": {
       "first": [
         {
