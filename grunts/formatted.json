@@ -1390,14 +1390,52 @@
     "gender": 0,
     "grunt": "Executive",
     "proto": "CHARACTER_EXECUTIVE_CLIFF",
-    "active": false,
+    "active": true,
     "secondReward": false,
-    "firstReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
-      "first": [],
-      "second": [],
-      "third": []
+      "first": [
+        {
+          "id": 246,
+          "template": "LARVITAR",
+          "form": 0
+        }
+      ],
+      "second": [
+        {
+          "id": 227,
+          "template": "SKARMORY",
+          "form": 0
+        },
+        {
+          "id": 230,
+          "template": "KINGDRA",
+          "form": 0
+        },
+        {
+          "id": 254,
+          "template": "SCEPTILE",
+          "form": 0
+        }
+      ],
+      "third": [
+        {
+          "id": 130,
+          "template": "GYARADOS",
+          "form": 0
+        },
+        {
+          "id": 248,
+          "template": "TYRANITAR",
+          "form": 0
+        },
+        {
+          "id": 260,
+          "template": "SWAMPERT",
+          "form": 0
+        }
+      ]
     }
   },
   "42": {
@@ -1405,14 +1443,52 @@
     "gender": 0,
     "grunt": "Executive",
     "proto": "CHARACTER_EXECUTIVE_ARLO",
-    "active": false,
+    "active": true,
     "secondReward": false,
-    "firstReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
-      "first": [],
-      "second": [],
-      "third": []
+      "first": [
+        {
+          "id": 216,
+          "template": "TEDDIURSA",
+          "form": 0
+        }
+      ],
+      "second": [
+        {
+          "id": 97,
+          "template": "HYPNO",
+          "form": 0
+        },
+        {
+          "id": 257,
+          "template": "BLAZIKEN",
+          "form": 0
+        },
+        {
+          "id": 623,
+          "template": "GOLURK",
+          "form": 0
+        }
+      ],
+      "third": [
+        {
+          "id": 212,
+          "template": "SCIZOR",
+          "form": 0
+        },
+        {
+          "id": 354,
+          "template": "BANETTE",
+          "form": 0
+        },
+        {
+          "id": 405,
+          "template": "LUXRAY",
+          "form": 0
+        }
+      ]
     }
   },
   "43": {
@@ -1420,14 +1496,52 @@
     "gender": 0,
     "grunt": "Executive",
     "proto": "CHARACTER_EXECUTIVE_SIERRA",
-    "active": false,
+    "active": true,
     "secondReward": false,
-    "firstReward": false,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
-      "first": [],
-      "second": [],
-      "third": []
+      "first": [
+        {
+          "id": 198,
+          "template": "MURKROW",
+          "form": 0
+        }
+      ],
+      "second": [
+        {
+          "id": 208,
+          "template": "STEELIX",
+          "form": 0
+        },
+        {
+          "id": 260,
+          "template": "SWAMPERT",
+          "form": 0
+        },
+        {
+          "id": 398,
+          "template": "STARAPTOR",
+          "form": 0
+        }
+      ],
+      "third": [
+        {
+          "id": 6,
+          "template": "CHARIZARD",
+          "form": 0
+        },
+        {
+          "id": 149,
+          "template": "DRAGONITE",
+          "form": 0
+        },
+        {
+          "id": 229,
+          "template": "HOUNDOOM",
+          "form": 0
+        }
+      ]
     }
   },
   "44": {
@@ -1493,14 +1607,42 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
-    "active": false,
-    "secondReward": false,
-    "firstReward": false,
+    "active": true,
+    "secondReward": true,
+    "firstReward": true,
     "thirdReward": false,
     "encounters": {
-      "first": [],
-      "second": [],
-      "third": []
+      "first": [
+        {
+          "id": 69,
+          "template": "BELLSPROUT",
+          "form": 0
+        }
+      ],
+      "second": [
+        {
+          "id": 20,
+          "template": "RATICATE",
+          "form": 0
+        },
+        {
+          "id": 70,
+          "template": "WEEPINBELL",
+          "form": 0
+        }
+      ],
+      "third": [
+        {
+          "id": 20,
+          "template": "RATICATE",
+          "form": 0
+        },
+        {
+          "id": 143,
+          "template": "SNORLAX",
+          "form": 0
+        }
+      ]
     }
   },
   "47": {
