@@ -52,7 +52,7 @@
     }
   },
   "4": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_GRUNT_MALE",
       "gender": 1,
@@ -60,12 +60,66 @@
       "type": {}
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 1,
+            "template": "BULBASAUR",
+            "form": 0
+          },
+          {
+            "id": 4,
+            "template": "CHARMANDER",
+            "form": 0
+          },
+          {
+            "id": 7,
+            "template": "SQUIRTLE",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 153,
+            "template": "BAYLEEF",
+            "form": 0
+          },
+          {
+            "id": 156,
+            "template": "QUILAVA",
+            "form": 0
+          },
+          {
+            "id": 159,
+            "template": "CROCONAW",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 254,
+            "template": "SCEPTILE",
+            "form": 0
+          },
+          {
+            "id": 257,
+            "template": "BLAZIKEN",
+            "form": 0
+          },
+          {
+            "id": 260,
+            "template": "SWAMPERT",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "5": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_GRUNT_FEMALE",
       "gender": 2,
@@ -73,8 +127,52 @@
       "type": {}
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 143,
+            "template": "SNORLAX",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 62,
+            "template": "POLIWRATH",
+            "form": 0
+          },
+          {
+            "id": 143,
+            "template": "SNORLAX",
+            "form": 0
+          },
+          {
+            "id": 282,
+            "template": "GARDEVOIR",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
+          },
+          {
+            "id": 143,
+            "template": "SNORLAX",
+            "form": 0
+          },
+          {
+            "id": 149,
+            "template": "DRAGONITE",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "6": {
@@ -94,7 +192,7 @@
     }
   },
   "7": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_BUG_GRUNT_MALE",
       "gender": 1,
@@ -105,8 +203,63 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 213,
+            "template": "SHUCKLE",
+            "form": 0
+          },
+          {
+            "id": 451,
+            "template": "SKORUPI",
+            "form": 0
+          },
+          {
+            "id": 595,
+            "template": "JOLTIK",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 13,
+            "template": "WEEDLE",
+            "form": 0
+          },
+          {
+            "id": 14,
+            "template": "KAKUNA",
+            "form": 0
+          },
+          {
+            "id": 15,
+            "template": "BEEDRILL",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 15,
+            "template": "BEEDRILL",
+            "form": 0
+          },
+          {
+            "id": 205,
+            "template": "FORRETRESS",
+            "form": 0
+          },
+          {
+            "id": 212,
+            "template": "SCIZOR",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "8": {
@@ -136,7 +289,7 @@
     }
   },
   "10": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_DARK_GRUNT_FEMALE",
       "gender": 2,
@@ -147,8 +300,42 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 19,
+            "template": "RATTATA_ALOLA",
+            "form": 46
+          },
+          {
+            "id": 88,
+            "template": "GRIMER_ALOLA",
+            "form": 74
+          }
+        ],
+        [
+          {
+            "id": 20,
+            "template": "RATICATE_ALOLA",
+            "form": 48
+          },
+          {
+            "id": 89,
+            "template": "MUK_ALOLA",
+            "form": 76
+          }
+        ],
+        [
+          {
+            "id": 89,
+            "template": "MUK_ALOLA",
+            "form": 76
+          }
+        ]
+      ]
     }
   },
   "11": {
@@ -168,7 +355,7 @@
     }
   },
   "12": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_DRAGON_GRUNT_FEMALE",
       "gender": 2,
@@ -179,8 +366,47 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 147,
+            "template": "DRATINI",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
+          },
+          {
+            "id": 330,
+            "template": "FLYGON",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 148,
+            "template": "DRAGONAIR",
+            "form": 0
+          },
+          {
+            "id": 149,
+            "template": "DRAGONITE",
+            "form": 0
+          },
+          {
+            "id": 330,
+            "template": "FLYGON",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "13": {
@@ -200,7 +426,7 @@
     }
   },
   "14": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_FAIRY_GRUNT_FEMALE",
       "gender": 2,
@@ -211,8 +437,58 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 209,
+            "template": "SNUBBULL",
+            "form": 0
+          },
+          {
+            "id": 280,
+            "template": "RALTS",
+            "form": 0
+          },
+          {
+            "id": 303,
+            "template": "MAWILE",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 209,
+            "template": "SNUBBULL",
+            "form": 0
+          },
+          {
+            "id": 210,
+            "template": "GRANBULL",
+            "form": 0
+          },
+          {
+            "id": 281,
+            "template": "KIRLIA",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 210,
+            "template": "GRANBULL",
+            "form": 0
+          },
+          {
+            "id": 281,
+            "template": "KIRLIA",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "15": {
@@ -232,7 +508,7 @@
     }
   },
   "16": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_FIGHTING_GRUNT_FEMALE",
       "gender": 2,
@@ -243,8 +519,58 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 106,
+            "template": "HITMONLEE",
+            "form": 0
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN",
+            "form": 0
+          },
+          {
+            "id": 296,
+            "template": "MAKUHITA",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 106,
+            "template": "HITMONLEE",
+            "form": 0
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 68,
+            "template": "MACHAMP",
+            "form": 0
+          },
+          {
+            "id": 106,
+            "template": "HITMONLEE",
+            "form": 0
+          },
+          {
+            "id": 107,
+            "template": "HITMONCHAN",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "17": {
@@ -264,7 +590,7 @@
     }
   },
   "18": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_FIRE_GRUNT_FEMALE",
       "gender": 2,
@@ -275,8 +601,57 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 37,
+            "template": "VULPIX",
+            "form": 0
+          },
+          {
+            "id": 255,
+            "template": "TORCHIC",
+            "form": 0
+          },
+          {
+            "id": 322,
+            "template": "NUMEL",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 126,
+            "template": "MAGMAR",
+            "form": 0
+          },
+          {
+            "id": 156,
+            "template": "QUILAVA",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 38,
+            "template": "NINETALES",
+            "form": 0
+          },
+          {
+            "id": 157,
+            "template": "TYPHLOSION",
+            "form": 0
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "19": {
@@ -296,7 +671,7 @@
     }
   },
   "20": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_FLYING_GRUNT_FEMALE",
       "gender": 2,
@@ -307,8 +682,62 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 41,
+            "template": "ZUBAT",
+            "form": 0
+          },
+          {
+            "id": 177,
+            "template": "NATU",
+            "form": 0
+          },
+          {
+            "id": 580,
+            "template": "DUCKLETT",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 42,
+            "template": "GOLBAT",
+            "form": 0
+          },
+          {
+            "id": 178,
+            "template": "XATU",
+            "form": 0
+          },
+          {
+            "id": 397,
+            "template": "STARAVIA",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
+          },
+          {
+            "id": 149,
+            "template": "DRAGONITE",
+            "form": 0
+          },
+          {
+            "id": 169,
+            "template": "CROBAT",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "21": {
@@ -344,7 +773,7 @@
     }
   },
   "23": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_GRASS_GRUNT_MALE",
       "gender": 1,
@@ -355,8 +784,57 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 43,
+            "template": "ODDISH",
+            "form": 0
+          },
+          {
+            "id": 252,
+            "template": "TREECKO",
+            "form": 0
+          },
+          {
+            "id": 331,
+            "template": "CACNEA",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 44,
+            "template": "GLOOM",
+            "form": 0
+          },
+          {
+            "id": 153,
+            "template": "BAYLEEF",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 154,
+            "template": "MEGANIUM",
+            "form": 0
+          },
+          {
+            "id": 332,
+            "template": "CACTURNE",
+            "form": 0
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "24": {
@@ -376,7 +854,7 @@
     }
   },
   "25": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_GROUND_GRUNT_MALE",
       "gender": 1,
@@ -387,12 +865,47 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 231,
+            "template": "PHANPY",
+            "form": 0
+          },
+          {
+            "id": 449,
+            "template": "HIPPOPOTAS",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 232,
+            "template": "DONPHAN",
+            "form": 0
+          },
+          {
+            "id": 449,
+            "template": "HIPPOPOTAS",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 450,
+            "template": "HIPPOWDON",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "26": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_ICE_GRUNT_FEMALE",
       "gender": 2,
@@ -403,8 +916,62 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
+          },
+          {
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
+          },
+          {
+            "id": 220,
+            "template": "SWINUB",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 28,
+            "template": "SANDSLASH_ALOLA",
+            "form": 54
+          },
+          {
+            "id": 38,
+            "template": "NINETALES_ALOLA",
+            "form": 58
+          },
+          {
+            "id": 459,
+            "template": "SNOVER",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 91,
+            "template": "CLOYSTER",
+            "form": 0
+          },
+          {
+            "id": 131,
+            "template": "LAPRAS",
+            "form": 0
+          },
+          {
+            "id": 460,
+            "template": "ABOMASNOW",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "27": {
@@ -437,7 +1004,7 @@
     }
   },
   "29": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_METAL_GRUNT_MALE",
       "gender": 1,
@@ -445,8 +1012,58 @@
       "type": {}
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
+          },
+          {
+            "id": 50,
+            "template": "DIGLETT_ALOLA",
+            "form": 60
+          },
+          {
+            "id": 304,
+            "template": "ARON",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
+          },
+          {
+            "id": 305,
+            "template": "LAIRON",
+            "form": 0
+          },
+          {
+            "id": 375,
+            "template": "METANG",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 212,
+            "template": "SCIZOR",
+            "form": 0
+          },
+          {
+            "id": 306,
+            "template": "AGGRON",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "30": {
@@ -466,7 +1083,7 @@
     }
   },
   "31": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_NORMAL_GRUNT_MALE",
       "gender": 1,
@@ -477,12 +1094,67 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 293,
+            "template": "WHISMUR",
+            "form": 0
+          },
+          {
+            "id": 504,
+            "template": "PATRAT",
+            "form": 0
+          },
+          {
+            "id": 519,
+            "template": "PIDOVE",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 19,
+            "template": "RATTATA",
+            "form": 0
+          },
+          {
+            "id": 20,
+            "template": "RATICATE",
+            "form": 0
+          },
+          {
+            "id": 294,
+            "template": "LOUDRED",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 20,
+            "template": "RATICATE",
+            "form": 0
+          },
+          {
+            "id": 217,
+            "template": "URSARING",
+            "form": 0
+          },
+          {
+            "id": 400,
+            "template": "BIBAREL",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "32": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_POISON_GRUNT_FEMALE",
       "gender": 2,
@@ -493,8 +1165,47 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 88,
+            "template": "GRIMER",
+            "form": 0
+          },
+          {
+            "id": 590,
+            "template": "FOONGUS",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "template": "NIDORINA",
+            "form": 0
+          },
+          {
+            "id": 33,
+            "template": "NIDORINO",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 89,
+            "template": "MUK",
+            "form": 0
+          },
+          {
+            "id": 110,
+            "template": "WEEZING",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "33": {
@@ -530,7 +1241,7 @@
     }
   },
   "35": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_PSYCHIC_GRUNT_MALE",
       "gender": 1,
@@ -541,8 +1252,58 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 63,
+            "template": "ABRA",
+            "form": 0
+          },
+          {
+            "id": 177,
+            "template": "NATU",
+            "form": 0
+          },
+          {
+            "id": 325,
+            "template": "SPOINK",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 203,
+            "template": "GIRAFARIG",
+            "form": 0
+          },
+          {
+            "id": 280,
+            "template": "RALTS",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 65,
+            "template": "ALAKAZAM",
+            "form": 0
+          },
+          {
+            "id": 97,
+            "template": "HYPNO",
+            "form": 0
+          },
+          {
+            "id": 375,
+            "template": "METANG",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "36": {
@@ -562,7 +1323,7 @@
     }
   },
   "37": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_ROCK_GRUNT_MALE",
       "gender": 1,
@@ -573,12 +1334,62 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 95,
+            "template": "ONIX",
+            "form": 0
+          },
+          {
+            "id": 345,
+            "template": "LILEEP",
+            "form": 0
+          },
+          {
+            "id": 347,
+            "template": "ANORITH",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 75,
+            "template": "GRAVELER",
+            "form": 0
+          },
+          {
+            "id": 345,
+            "template": "LILEEP",
+            "form": 0
+          },
+          {
+            "id": 347,
+            "template": "ANORITH",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 76,
+            "template": "GOLEM",
+            "form": 0
+          },
+          {
+            "id": 95,
+            "template": "ONIX",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "38": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_WATER_GRUNT_FEMALE",
       "gender": 2,
@@ -589,12 +1400,61 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 54,
+            "template": "PSYDUCK",
+            "form": 0
+          },
+          {
+            "id": 258,
+            "template": "MUDKIP",
+            "form": 0
+          },
+          {
+            "id": 320,
+            "template": "WAILMER",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 55,
+            "template": "GOLDUCK",
+            "form": 0
+          },
+          {
+            "id": 159,
+            "template": "CROCONAW",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 55,
+            "template": "GOLDUCK",
+            "form": 0
+          },
+          {
+            "id": 160,
+            "template": "FERALIGATR",
+            "form": 0
+          },
+          {
+            "id": 321,
+            "template": "WAILORD",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "39": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_WATER_GRUNT_MALE",
       "gender": 1,
@@ -605,8 +1465,37 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 129,
+            "template": "MAGIKARP",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 129,
+            "template": "MAGIKARP",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 129,
+            "template": "MAGIKARP",
+            "form": 0
+          },
+          {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "40": {
@@ -751,7 +1640,7 @@
     }
   },
   "48": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_GHOST_GRUNT_MALE",
       "gender": 1,
@@ -762,12 +1651,66 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0
+      ],
+      "team": [
+        [
+          {
+            "id": 353,
+            "template": "SHUPPET",
+            "form": 0
+          },
+          {
+            "id": 355,
+            "template": "DUSKULL",
+            "form": 0
+          },
+          {
+            "id": 425,
+            "template": "DRIFLOON",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 354,
+            "template": "BANETTE",
+            "form": 0
+          },
+          {
+            "id": 356,
+            "template": "DUSCLOPS",
+            "form": 0
+          },
+          {
+            "id": 622,
+            "template": "GOLETT",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 354,
+            "template": "BANETTE",
+            "form": 0
+          },
+          {
+            "id": 477,
+            "template": "DUSKNOIR",
+            "form": 0
+          },
+          {
+            "id": 623,
+            "template": "GOLURK",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "49": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
       "gender": 2,
@@ -778,8 +1721,58 @@
       }
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        0,
+        1
+      ],
+      "team": [
+        [
+          {
+            "id": 179,
+            "template": "MAREEP",
+            "form": 0
+          },
+          {
+            "id": 403,
+            "template": "SHINX",
+            "form": 0
+          },
+          {
+            "id": 522,
+            "template": "BLITZLE",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 100,
+            "template": "VOLTORB",
+            "form": 0
+          },
+          {
+            "id": 125,
+            "template": "ELECTABUZZ",
+            "form": 0
+          }
+        ],
+        [
+          {
+            "id": 181,
+            "template": "AMPHAROS",
+            "form": 0
+          },
+          {
+            "id": 405,
+            "template": "LUXRAY",
+            "form": 0
+          },
+          {
+            "id": 523,
+            "template": "ZEBSTRIKA",
+            "form": 0
+          }
+        ]
+      ]
     }
   },
   "50": {
