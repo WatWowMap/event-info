@@ -636,14 +636,14 @@
         ],
         [
           {
-            "id": 323,
-            "template": "CAMERUPT_NORMAL",
-            "form": 1520
-          },
-          {
             "id": 157,
             "template": "TYPHLOSION_NORMAL",
             "form": 1133
+          },
+          {
+            "id": 323,
+            "template": "CAMERUPT_NORMAL",
+            "form": 1520
           },
           {
             "id": 38,
@@ -705,14 +705,14 @@
         ],
         [
           {
-            "id": 178,
-            "template": "XATU_NORMAL",
-            "form": 1193
-          },
-          {
             "id": 397,
             "template": "STARAVIA_NORMAL",
             "form": 1661
+          },
+          {
+            "id": 178,
+            "template": "XATU_NORMAL",
+            "form": 1193
           },
           {
             "id": 42,
@@ -1134,14 +1134,14 @@
         ],
         [
           {
-            "id": 217,
-            "template": "URSARING_NORMAL",
-            "form": 1268
-          },
-          {
             "id": 20,
             "template": "RATICATE_NORMAL",
             "form": 47
+          },
+          {
+            "id": 217,
+            "template": "URSARING_NORMAL",
+            "form": 1268
           },
           {
             "id": 400,
@@ -1362,14 +1362,14 @@
             "form": 1574
           },
           {
-            "id": 75,
-            "template": "GRAVELER_NORMAL",
-            "form": 69
-          },
-          {
             "id": 345,
             "template": "LILEEP_NORMAL",
             "form": 1568
+          },
+          {
+            "id": 75,
+            "template": "GRAVELER_NORMAL",
+            "form": 69
           }
         ],
         [
