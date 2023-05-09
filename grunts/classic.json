@@ -612,14 +612,14 @@
             "form": 1517
           },
           {
-            "id": 37,
-            "template": "VULPIX_NORMAL",
-            "form": 55
-          },
-          {
             "id": 255,
             "template": "TORCHIC_NORMAL",
             "form": 1358
+          },
+          {
+            "id": 37,
+            "template": "VULPIX_NORMAL",
+            "form": 55
           }
         ],
         [
@@ -819,14 +819,14 @@
         ],
         [
           {
-            "id": 591,
-            "template": "AMOONGUSS_NORMAL",
-            "form": 2165
-          },
-          {
             "id": 154,
             "template": "MEGANIUM_NORMAL",
             "form": 1124
+          },
+          {
+            "id": 591,
+            "template": "AMOONGUSS_NORMAL",
+            "form": 2165
           },
           {
             "id": 332,
@@ -1100,14 +1100,14 @@
       "team": [
         [
           {
-            "id": 504,
-            "template": "PATRAT_NORMAL",
-            "form": 1916
-          },
-          {
             "id": 519,
             "template": "PIDOVE_NORMAL",
             "form": 1961
+          },
+          {
+            "id": 504,
+            "template": "PATRAT_NORMAL",
+            "form": 1916
           },
           {
             "id": 293,
@@ -1415,14 +1415,14 @@
             "form": 205
           },
           {
-            "id": 54,
-            "template": "PSYDUCK_NORMAL",
-            "form": 286
-          },
-          {
             "id": 320,
             "template": "WAILMER_NORMAL",
             "form": 1511
+          },
+          {
+            "id": 54,
+            "template": "PSYDUCK_NORMAL",
+            "form": 286
           }
         ],
         [
