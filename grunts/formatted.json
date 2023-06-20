@@ -202,6 +202,16 @@
     "encounters": {
       "first": [
         {
+          "id": 165,
+          "template": "LEDYBA",
+          "form": 0
+        },
+        {
+          "id": 204,
+          "template": "PINECO",
+          "form": 0
+        },
+        {
           "id": 213,
           "template": "SHUCKLE",
           "form": 0
@@ -315,6 +325,11 @@
           "id": 89,
           "template": "MUK_ALOLA",
           "form": 76
+        },
+        {
+          "id": 89,
+          "template": "MUK",
+          "form": 0
         }
       ],
       "third": [
@@ -361,6 +376,11 @@
           "id": 147,
           "template": "DRATINI",
           "form": 0
+        },
+        {
+          "id": 443,
+          "template": "GIBLE",
+          "form": 0
         }
       ],
       "second": [
@@ -368,6 +388,11 @@
           "id": 103,
           "template": "EXEGGUTOR_ALOLA",
           "form": 78
+        },
+        {
+          "id": 148,
+          "template": "DRAGONAIR",
+          "form": 0
         },
         {
           "id": 330,
@@ -389,6 +414,11 @@
         {
           "id": 330,
           "template": "FLYGON",
+          "form": 0
+        },
+        {
+          "id": 444,
+          "template": "GABITE",
           "form": 0
         }
       ]
@@ -504,6 +534,11 @@
           "form": 0
         },
         {
+          "id": 237,
+          "template": "HITMONTOP",
+          "form": 0
+        },
+        {
           "id": 296,
           "template": "MAKUHITA",
           "form": 0
@@ -518,6 +553,11 @@
         {
           "id": 107,
           "template": "HITMONCHAN",
+          "form": 0
+        },
+        {
+          "id": 237,
+          "template": "HITMONTOP",
           "form": 0
         }
       ],
@@ -535,6 +575,11 @@
         {
           "id": 107,
           "template": "HITMONCHAN",
+          "form": 0
+        },
+        {
+          "id": 237,
+          "template": "HITMONTOP",
           "form": 0
         }
       ]
@@ -806,6 +851,11 @@
     "encounters": {
       "first": [
         {
+          "id": 194,
+          "template": "WOOPER",
+          "form": 0
+        },
+        {
           "id": 231,
           "template": "PHANPY",
           "form": 0
@@ -829,6 +879,11 @@
         }
       ],
       "third": [
+        {
+          "id": 195,
+          "template": "QUAGSIRE",
+          "form": 0
+        },
         {
           "id": 450,
           "template": "HIPPOWDON",
@@ -1015,8 +1070,18 @@
     "encounters": {
       "first": [
         {
+          "id": 52,
+          "template": "MEOWTH",
+          "form": 0
+        },
+        {
           "id": 293,
           "template": "WHISMUR",
+          "form": 0
+        },
+        {
+          "id": 431,
+          "template": "GLAMEOW",
           "form": 0
         },
         {
@@ -1044,6 +1109,11 @@
         {
           "id": 294,
           "template": "LOUDRED",
+          "form": 0
+        },
+        {
+          "id": 432,
+          "template": "PURUGLY",
           "form": 0
         }
       ],
@@ -1229,6 +1299,11 @@
     "encounters": {
       "first": [
         {
+          "id": 74,
+          "template": "GEODUDE_ALOLA",
+          "form": 68
+        },
+        {
           "id": 95,
           "template": "ONIX",
           "form": 0
@@ -1266,6 +1341,11 @@
           "id": 76,
           "template": "GOLEM",
           "form": 0
+        },
+        {
+          "id": 76,
+          "template": "GOLEM_ALOLA",
+          "form": 72
         },
         {
           "id": 95,
@@ -1723,6 +1803,11 @@
         }
       ],
       "second": [
+        {
+          "id": 74,
+          "template": "GEODUDE_ALOLA",
+          "form": 68
+        },
         {
           "id": 100,
           "template": "VOLTORB",
