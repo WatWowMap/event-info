@@ -1457,13 +1457,13 @@
         [
           {
             "id": 76,
-            "template": "GOLEM",
-            "form": 0
+            "template": "GOLEM_ALOLA",
+            "form": 72
           },
           {
             "id": 76,
-            "template": "GOLEM_ALOLA",
-            "form": 72
+            "template": "GOLEM",
+            "form": 0
           },
           {
             "id": 95,
