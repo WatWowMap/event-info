@@ -1575,7 +1575,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1587,6 +1587,11 @@
         }
       ],
       "second": [
+        {
+          "id": 20,
+          "template": "RATICATE",
+          "form": 0
+        },
         {
           "id": 70,
           "template": "WEEPINBELL",
