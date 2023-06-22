@@ -1717,8 +1717,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1
+        0
       ],
       "team": [
         [
@@ -1729,11 +1728,6 @@
           }
         ],
         [
-          {
-            "id": 20,
-            "template": "RATICATE",
-            "form": 0
-          },
           {
             "id": 70,
             "template": "WEEPINBELL",
