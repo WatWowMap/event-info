@@ -1357,11 +1357,6 @@
           "id": 129,
           "template": "MAGIKARP",
           "form": 0
-        },
-        {
-          "id": 130,
-          "template": "GYARADOS",
-          "form": 0
         }
       ]
     }
@@ -1527,11 +1522,6 @@
           "form": 0
         },
         {
-          "id": 130,
-          "template": "GYARADOS",
-          "form": 0
-        },
-        {
           "id": 229,
           "template": "HOUNDOOM",
           "form": 0
@@ -1574,42 +1564,14 @@
     "gender": 2,
     "grunt": "Grunt",
     "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
-    "active": true,
-    "secondReward": true,
-    "firstReward": true,
+    "active": false,
+    "secondReward": false,
+    "firstReward": false,
     "thirdReward": false,
     "encounters": {
-      "first": [
-        {
-          "id": 69,
-          "template": "BELLSPROUT",
-          "form": 0
-        }
-      ],
-      "second": [
-        {
-          "id": 20,
-          "template": "RATICATE",
-          "form": 0
-        },
-        {
-          "id": 70,
-          "template": "WEEPINBELL",
-          "form": 0
-        }
-      ],
-      "third": [
-        {
-          "id": 20,
-          "template": "RATICATE",
-          "form": 0
-        },
-        {
-          "id": 143,
-          "template": "SNORLAX",
-          "form": 0
-        }
-      ]
+      "first": [],
+      "second": [],
+      "third": []
     }
   },
   "47": {

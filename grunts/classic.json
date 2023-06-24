@@ -1487,11 +1487,6 @@
             "id": 129,
             "template": "MAGIKARP",
             "form": 0
-          },
-          {
-            "id": 130,
-            "template": "GYARADOS",
-            "form": 0
           }
         ]
       ]
@@ -1668,11 +1663,6 @@
             "form": 0
           },
           {
-            "id": 130,
-            "template": "GYARADOS",
-            "form": 0
-          },
-          {
             "id": 229,
             "template": "HOUNDOOM",
             "form": 0
@@ -1708,7 +1698,7 @@
     }
   },
   "46": {
-    "active": true,
+    "active": false,
     "character": {
       "template": "CHARACTER_DECOY_GRUNT_FEMALE",
       "gender": 2,
@@ -1716,43 +1706,8 @@
       "type": {}
     },
     "lineup": {
-      "rewards": [
-        0,
-        1
-      ],
-      "team": [
-        [
-          {
-            "id": 69,
-            "template": "BELLSPROUT",
-            "form": 0
-          }
-        ],
-        [
-          {
-            "id": 20,
-            "template": "RATICATE",
-            "form": 0
-          },
-          {
-            "id": 70,
-            "template": "WEEPINBELL",
-            "form": 0
-          }
-        ],
-        [
-          {
-            "id": 20,
-            "template": "RATICATE",
-            "form": 0
-          },
-          {
-            "id": 143,
-            "template": "SNORLAX",
-            "form": 0
-          }
-        ]
-      ]
+      "rewards": [],
+      "team": []
     }
   },
   "47": {
