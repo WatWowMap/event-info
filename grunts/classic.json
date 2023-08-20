@@ -1975,6 +1975,32 @@
       "team": []
     }
   },
+  "93": {
+    "active": false,
+    "character": {
+      "template": "CHARACTER_TRAVELER",
+      "gender": 0,
+      "boss": false,
+      "type": {}
+    },
+    "lineup": {
+      "rewards": [],
+      "team": []
+    }
+  },
+  "94": {
+    "active": false,
+    "character": {
+      "template": "CHARACTER_EXPLORER",
+      "gender": 0,
+      "boss": false,
+      "type": {}
+    },
+    "lineup": {
+      "rewards": [],
+      "team": []
+    }
+  },
   "500": {
     "active": false,
     "character": {
