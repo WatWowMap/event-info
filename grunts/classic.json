@@ -367,16 +367,10 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1
+        0
       ],
       "team": [
         [
-          {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
-          },
           {
             "id": 443,
             "template": "GIBLE",
@@ -404,11 +398,6 @@
           {
             "id": 149,
             "template": "DRAGONITE",
-            "form": 0
-          },
-          {
-            "id": 444,
-            "template": "GABITE",
             "form": 0
           }
         ]
