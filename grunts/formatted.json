@@ -347,11 +347,16 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DRAGON_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
+        {
+          "id": 103,
+          "template": "EXEGGUTOR_ALOLA",
+          "form": 78
+        },
         {
           "id": 443,
           "template": "GIBLE",
@@ -379,6 +384,11 @@
         {
           "id": 149,
           "template": "DRAGONITE",
+          "form": 0
+        },
+        {
+          "id": 444,
+          "template": "GABITE",
           "form": 0
         }
       ]
