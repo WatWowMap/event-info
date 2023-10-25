@@ -542,6 +542,11 @@
             "form": 0
           },
           {
+            "id": 215,
+            "template": "SNEASEL_HISUIAN",
+            "form": 2794
+          },
+          {
             "id": 237,
             "template": "HITMONTOP",
             "form": 0
@@ -620,6 +625,11 @@
           {
             "id": 322,
             "template": "NUMEL",
+            "form": 0
+          },
+          {
+            "id": 607,
+            "template": "LITWICK",
             "form": 0
           }
         ],
@@ -796,6 +806,11 @@
             "form": 0
           },
           {
+            "id": 69,
+            "template": "BELLSPROUT_NORMAL",
+            "form": 664
+          },
+          {
             "id": 252,
             "template": "TREECKO",
             "form": 0
@@ -867,7 +882,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -880,9 +896,19 @@
             "id": 231,
             "template": "PHANPY",
             "form": 0
+          },
+          {
+            "id": 529,
+            "template": "DRILBUR",
+            "form": 0
           }
         ],
         [
+          {
+            "id": 111,
+            "template": "RHYHORN_NORMAL",
+            "form": 846
+          },
           {
             "id": 232,
             "template": "DONPHAN",
@@ -1410,6 +1436,11 @@
             "form": 0
           },
           {
+            "id": 90,
+            "template": "SHELLDER_NORMAL",
+            "form": 876
+          },
+          {
             "id": 258,
             "template": "MUDKIP",
             "form": 0
@@ -1417,6 +1448,11 @@
           {
             "id": 320,
             "template": "WAILMER",
+            "form": 0
+          },
+          {
+            "id": 339,
+            "template": "BARBOACH",
             "form": 0
           }
         ],
@@ -1789,6 +1825,11 @@
       "team": [
         [
           {
+            "id": 92,
+            "template": "GASTLY",
+            "form": 0
+          },
+          {
             "id": 353,
             "template": "SHUPPET",
             "form": 0
@@ -1822,6 +1863,11 @@
           }
         ],
         [
+          {
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044
+          },
           {
             "id": 354,
             "template": "BANETTE",
