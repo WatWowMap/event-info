@@ -1697,11 +1697,6 @@
           "id": 355,
           "template": "DUSKULL",
           "form": 0
-        },
-        {
-          "id": 425,
-          "template": "DRIFLOON",
-          "form": 0
         }
       ],
       "second": [
@@ -1726,11 +1721,6 @@
           "id": 94,
           "template": "GENGAR_NORMAL",
           "form": 1044
-        },
-        {
-          "id": 354,
-          "template": "BANETTE",
-          "form": 0
         },
         {
           "id": 477,
