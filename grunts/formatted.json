@@ -507,11 +507,6 @@
           "id": 215,
           "template": "SNEASEL_HISUIAN",
           "form": 2794
-        },
-        {
-          "id": 237,
-          "template": "HITMONTOP",
-          "form": 0
         }
       ],
       "second": [
@@ -569,11 +564,6 @@
         {
           "id": 37,
           "template": "VULPIX",
-          "form": 0
-        },
-        {
-          "id": 255,
-          "template": "TORCHIC",
           "form": 0
         },
         {
@@ -748,11 +738,6 @@
           "form": 664
         },
         {
-          "id": 252,
-          "template": "TREECKO",
-          "form": 0
-        },
-        {
           "id": 331,
           "template": "CACNEA",
           "form": 0
@@ -821,11 +806,6 @@
           "form": 0
         },
         {
-          "id": 231,
-          "template": "PHANPY",
-          "form": 0
-        },
-        {
           "id": 529,
           "template": "DRILBUR",
           "form": 0
@@ -836,11 +816,6 @@
           "id": 111,
           "template": "RHYHORN_NORMAL",
           "form": 846
-        },
-        {
-          "id": 232,
-          "template": "DONPHAN",
-          "form": 0
         },
         {
           "id": 449,
@@ -1254,16 +1229,6 @@
           "form": 68
         },
         {
-          "id": 345,
-          "template": "LILEEP",
-          "form": 0
-        },
-        {
-          "id": 347,
-          "template": "ANORITH",
-          "form": 0
-        },
-        {
           "id": 408,
           "template": "CRANIDOS",
           "form": 0
@@ -1325,16 +1290,6 @@
           "id": 90,
           "template": "SHELLDER_NORMAL",
           "form": 876
-        },
-        {
-          "id": 258,
-          "template": "MUDKIP",
-          "form": 0
-        },
-        {
-          "id": 320,
-          "template": "WAILMER",
-          "form": 0
         },
         {
           "id": 339,
