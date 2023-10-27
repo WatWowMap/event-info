@@ -1392,11 +1392,6 @@
     "encounters": {
       "first": [
         {
-          "id": 142,
-          "template": "AERODACTYL",
-          "form": 0
-        },
-        {
           "id": 147,
           "template": "DRATINI_NORMAL",
           "form": 190
@@ -1453,11 +1448,6 @@
           "id": 69,
           "template": "BELLSPROUT_NORMAL",
           "form": 664
-        },
-        {
-          "id": 190,
-          "template": "AIPOM",
-          "form": 0
         }
       ],
       "second": [
@@ -1508,11 +1498,6 @@
     "encounters": {
       "first": [
         {
-          "id": 74,
-          "template": "GEODUDE",
-          "form": 0
-        },
-        {
           "id": 302,
           "template": "SABLEYE_NORMAL",
           "form": 923
@@ -1525,11 +1510,6 @@
           "form": 75
         },
         {
-          "id": 208,
-          "template": "STEELIX",
-          "form": 0
-        },
-        {
           "id": 227,
           "template": "SKARMORY_NORMAL",
           "form": 1295
@@ -1537,11 +1517,6 @@
         {
           "id": 282,
           "template": "GARDEVOIR",
-          "form": 0
-        },
-        {
-          "id": 302,
-          "template": "SABLEYE",
           "form": 0
         }
       ],
@@ -1554,11 +1529,6 @@
         {
           "id": 130,
           "template": "GYARADOS",
-          "form": 0
-        },
-        {
-          "id": 229,
-          "template": "HOUNDOOM",
           "form": 0
         },
         {
