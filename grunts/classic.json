@@ -797,6 +797,11 @@
           },
           {
             "id": 69,
+            "template": "BELLSPROUT",
+            "form": 0
+          },
+          {
+            "id": 69,
             "template": "BELLSPROUT_NORMAL",
             "form": 664
           },
@@ -873,6 +878,11 @@
       "team": [
         [
           {
+            "id": 111,
+            "template": "RHYHORN",
+            "form": 0
+          },
+          {
             "id": 194,
             "template": "WOOPER",
             "form": 0
@@ -884,6 +894,11 @@
           }
         ],
         [
+          {
+            "id": 111,
+            "template": "RHYHORN",
+            "form": 0
+          },
           {
             "id": 111,
             "template": "RHYHORN_NORMAL",
@@ -1412,6 +1427,11 @@
           },
           {
             "id": 90,
+            "template": "SHELLDER",
+            "form": 0
+          },
+          {
+            "id": 90,
             "template": "SHELLDER_NORMAL",
             "form": 876
           },
@@ -1825,6 +1845,11 @@
         [
           {
             "id": 94,
+            "template": "GENGAR",
+            "form": 0
+          },
+          {
+            "id": 94,
             "template": "GENGAR_NORMAL",
             "form": 1044
           },
@@ -1860,6 +1885,11 @@
       ],
       "team": [
         [
+          {
+            "id": 81,
+            "template": "MAGNEMITE",
+            "form": 0
+          },
           {
             "id": 179,
             "template": "MAREEP",
