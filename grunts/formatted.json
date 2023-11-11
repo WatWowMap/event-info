@@ -1393,6 +1393,11 @@
       "first": [
         {
           "id": 147,
+          "template": "DRATINI",
+          "form": 0
+        },
+        {
+          "id": 147,
           "template": "DRATINI_NORMAL",
           "form": 190
         }
@@ -1444,6 +1449,11 @@
     "thirdReward": false,
     "encounters": {
       "first": [
+        {
+          "id": 69,
+          "template": "BELLSPROUT",
+          "form": 0
+        },
         {
           "id": 69,
           "template": "BELLSPROUT_NORMAL",
@@ -1499,6 +1509,11 @@
       "first": [
         {
           "id": 302,
+          "template": "SABLEYE",
+          "form": 0
+        },
+        {
+          "id": 302,
           "template": "SABLEYE_NORMAL",
           "form": 923
         }
@@ -1506,8 +1521,18 @@
       "second": [
         {
           "id": 89,
+          "template": "MUK",
+          "form": 0
+        },
+        {
+          "id": 89,
           "template": "MUK_NORMAL",
           "form": 75
+        },
+        {
+          "id": 227,
+          "template": "SKARMORY",
+          "form": 0
         },
         {
           "id": 227,
@@ -1529,6 +1554,11 @@
         {
           "id": 130,
           "template": "GYARADOS",
+          "form": 0
+        },
+        {
+          "id": 230,
+          "template": "KINGDRA",
           "form": 0
         },
         {
