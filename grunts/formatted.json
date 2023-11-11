@@ -1395,11 +1395,6 @@
           "id": 147,
           "template": "DRATINI",
           "form": 0
-        },
-        {
-          "id": 147,
-          "template": "DRATINI_NORMAL",
-          "form": 190
         }
       ],
       "second": [
@@ -1453,11 +1448,6 @@
           "id": 69,
           "template": "BELLSPROUT",
           "form": 0
-        },
-        {
-          "id": 69,
-          "template": "BELLSPROUT_NORMAL",
-          "form": 664
         }
       ],
       "second": [
@@ -1511,11 +1501,6 @@
           "id": 302,
           "template": "SABLEYE",
           "form": 0
-        },
-        {
-          "id": 302,
-          "template": "SABLEYE_NORMAL",
-          "form": 923
         }
       ],
       "second": [
@@ -1525,19 +1510,9 @@
           "form": 0
         },
         {
-          "id": 89,
-          "template": "MUK_NORMAL",
-          "form": 75
-        },
-        {
           "id": 227,
           "template": "SKARMORY",
           "form": 0
-        },
-        {
-          "id": 227,
-          "template": "SKARMORY_NORMAL",
-          "form": 1295
         },
         {
           "id": 282,
@@ -1560,11 +1535,6 @@
           "id": 230,
           "template": "KINGDRA",
           "form": 0
-        },
-        {
-          "id": 230,
-          "template": "KINGDRA_NORMAL",
-          "form": 1298
         }
       ]
     }
