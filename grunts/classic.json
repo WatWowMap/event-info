@@ -1683,7 +1683,7 @@
     }
   },
   "44": {
-    "active": false,
+    "active": true,
     "character": {
       "template": "CHARACTER_GIOVANNI",
       "gender": 0,
