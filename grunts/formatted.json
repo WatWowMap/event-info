@@ -1547,11 +1547,39 @@
     "active": false,
     "secondReward": false,
     "firstReward": false,
-    "thirdReward": false,
+    "thirdReward": true,
     "encounters": {
-      "first": [],
-      "second": [],
-      "third": []
+      "first": [
+        {
+          "id": 53,
+          "form": 0,
+          "template": "PERSIAN_NORMAL"
+        }
+      ],
+      "second": [
+        {
+          "id": 34,
+          "form": 0,
+          "template": "NIDOKING_NORMAL"
+        },
+        {
+          "id": 99,
+          "form": 0,
+          "template": "KINGLER_NORMAL"
+        },
+        {
+          "id": 445,
+          "form": 0,
+          "template": "GARCHOMP_NORMAL"
+        }
+      ],
+      "third": [
+        {
+          "id": 486,
+          "form": 0,
+          "template": "REGIGIGAS_NORMAL"
+        }
+      ]
     }
   },
   "45": {

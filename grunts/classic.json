@@ -1691,8 +1691,42 @@
       "type": {}
     },
     "lineup": {
-      "rewards": [],
-      "team": []
+      "rewards": [
+        2
+      ],
+      "team": [
+        [
+          {
+            "id": 53,
+            "form": 0,
+            "template": "PERSIAN_NORMAL"
+          }
+        ],
+        [
+          {
+            "id": 34,
+            "form": 0,
+            "template": "NIDOKING_NORMAL"
+          },
+          {
+            "id": 99,
+            "form": 0,
+            "template": "KINGLER_NORMAL"
+          },
+          {
+            "id": 445,
+            "form": 0,
+            "template": "GARCHOMP_NORMAL"
+          }
+        ],
+        [
+          {
+            "id": 486,
+            "form": 0,
+            "template": "REGIGIGAS_NORMAL"
+          }
+        ]
+      ]
     }
   },
   "45": {
