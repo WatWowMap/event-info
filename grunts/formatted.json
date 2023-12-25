@@ -64,47 +64,14 @@
     "gender": 1,
     "grunt": "Grunt",
     "proto": "CHARACTER_GRUNT_MALE",
-    "active": true,
+    "active": false,
     "secondReward": false,
-    "firstReward": true,
+    "firstReward": false,
     "thirdReward": false,
     "encounters": {
-      "first": [
-        {
-          "id": 4,
-          "template": "CHARMANDER",
-          "form": 0
-        },
-        {
-          "id": 7,
-          "template": "SQUIRTLE",
-          "form": 0
-        }
-      ],
-      "second": [
-        {
-          "id": 156,
-          "template": "QUILAVA",
-          "form": 0
-        },
-        {
-          "id": 159,
-          "template": "CROCONAW",
-          "form": 0
-        }
-      ],
-      "third": [
-        {
-          "id": 254,
-          "template": "SCEPTILE",
-          "form": 0
-        },
-        {
-          "id": 260,
-          "template": "SWAMPERT",
-          "form": 0
-        }
-      ]
+      "first": [],
+      "second": [],
+      "third": []
     }
   },
   "5": {
@@ -1017,11 +984,6 @@
           "form": 0
         },
         {
-          "id": 20,
-          "template": "RATICATE",
-          "form": 0
-        },
-        {
           "id": 432,
           "template": "PURUGLY",
           "form": 0
@@ -1067,11 +1029,6 @@
         {
           "id": 30,
           "template": "NIDORINA",
-          "form": 0
-        },
-        {
-          "id": 33,
-          "template": "NIDORINO",
           "form": 0
         }
       ],
@@ -1261,11 +1218,6 @@
     "thirdReward": false,
     "encounters": {
       "first": [
-        {
-          "id": 54,
-          "template": "PSYDUCK",
-          "form": 0
-        },
         {
           "id": 90,
           "template": "SHELLDER",
@@ -1680,11 +1632,6 @@
         }
       ],
       "third": [
-        {
-          "id": 94,
-          "template": "GENGAR",
-          "form": 0
-        },
         {
           "id": 477,
           "template": "DUSKNOIR",
