@@ -71,11 +71,6 @@
     "encounters": {
       "first": [
         {
-          "id": 1,
-          "template": "BULBASAUR",
-          "form": 0
-        },
-        {
           "id": 4,
           "template": "CHARMANDER",
           "form": 0
@@ -87,11 +82,6 @@
         }
       ],
       "second": [
-        {
-          "id": 153,
-          "template": "BAYLEEF",
-          "form": 0
-        },
         {
           "id": 156,
           "template": "QUILAVA",
@@ -107,11 +97,6 @@
         {
           "id": 254,
           "template": "SCEPTILE",
-          "form": 0
-        },
-        {
-          "id": 257,
-          "template": "BLAZIKEN",
           "form": 0
         },
         {
@@ -1043,11 +1028,6 @@
         }
       ],
       "third": [
-        {
-          "id": 20,
-          "template": "RATICATE",
-          "form": 0
-        },
         {
           "id": 217,
           "template": "URSARING",
