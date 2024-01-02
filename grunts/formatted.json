@@ -1535,7 +1535,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
