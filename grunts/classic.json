@@ -2182,11 +2182,6 @@
             "template": "NIDOKING_NORMAL"
           },
           {
-            "id": 99,
-            "form": 0,
-            "template": "KINGLER_NORMAL"
-          },
-          {
             "id": 445,
             "form": 0,
             "template": "GARCHOMP_NORMAL"
@@ -2194,9 +2189,9 @@
         ],
         [
           {
-            "id": 486,
+            "id": 382,
             "form": 0,
-            "template": "REGIGIGAS_NORMAL"
+            "template": "KYOGRE_NORMAL"
           }
         ]
       ]
