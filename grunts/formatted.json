@@ -2036,6 +2036,11 @@
           "id": 445,
           "form": 0,
           "template": "GARCHOMP_NORMAL"
+        },
+        {
+          "id": 464,
+          "form": 0,
+          "template": "RHYPERIOR_NORMAL"
         }
       ],
       "third": [
