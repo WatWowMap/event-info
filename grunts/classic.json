@@ -725,16 +725,6 @@
       "team": [
         [
           {
-            "id": 41,
-            "template": "ZUBAT",
-            "form": 0
-          },
-          {
-            "id": 177,
-            "template": "NATU",
-            "form": 0
-          },
-          {
             "id": 198,
             "template": "MURKROW_NORMAL",
             "form": 855
@@ -771,11 +761,6 @@
           {
             "id": 149,
             "template": "DRAGONITE",
-            "form": 0
-          },
-          {
-            "id": 169,
-            "template": "CROBAT",
             "form": 0
           },
           {
@@ -929,11 +914,6 @@
             "form": 60
           },
           {
-            "id": 111,
-            "template": "RHYHORN",
-            "form": 0
-          },
-          {
             "id": 194,
             "template": "WOOPER",
             "form": 0
@@ -947,21 +927,11 @@
         [
           {
             "id": 111,
-            "template": "RHYHORN",
-            "form": 0
-          },
-          {
-            "id": 111,
             "template": "RHYHORN_NORMAL",
             "form": 846
           }
         ],
         [
-          {
-            "id": 195,
-            "template": "QUAGSIRE",
-            "form": 0
-          },
           {
             "id": 195,
             "template": "QUAGSIRE_NORMAL",
@@ -1182,11 +1152,6 @@
       ],
       "team": [
         [
-          {
-            "id": 52,
-            "template": "MEOWTH",
-            "form": 0
-          },
           {
             "id": 52,
             "template": "MEOWTH_NORMAL",
