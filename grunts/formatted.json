@@ -72,7 +72,7 @@
       "first": [
         {
           "id": 252,
-          "template": "FORM_UNSET",
+          "template": "TREECKO",
           "form": 0
         },
         {
@@ -89,7 +89,7 @@
       "second": [
         {
           "id": 253,
-          "template": "FORM_UNSET",
+          "template": "GROVYLE",
           "form": 0
         },
         {
@@ -106,7 +106,7 @@
       "third": [
         {
           "id": 254,
-          "template": "FORM_UNSET",
+          "template": "SCEPTILE",
           "form": 0
         },
         {
@@ -213,7 +213,7 @@
         },
         {
           "id": 557,
-          "template": "FORM_UNSET",
+          "template": "DWEBBLE",
           "form": 0
         }
       ],
@@ -547,7 +547,7 @@
         },
         {
           "id": 237,
-          "template": "FORM_UNSET",
+          "template": "HITMONTOP",
           "form": 0
         }
       ],
@@ -564,7 +564,7 @@
         },
         {
           "id": 454,
-          "template": "FORM_UNSET",
+          "template": "TOXICROAK",
           "form": 0
         }
       ]
@@ -688,7 +688,7 @@
       "second": [
         {
           "id": 178,
-          "template": "FORM_UNSET",
+          "template": "XATU",
           "form": 0
         },
         {
@@ -786,7 +786,7 @@
         },
         {
           "id": 598,
-          "template": "FORM_UNSET",
+          "template": "FERROTHORN",
           "form": 0
         }
       ],
@@ -803,7 +803,7 @@
         },
         {
           "id": 591,
-          "template": "FORM_UNSET",
+          "template": "AMOONGUSS",
           "form": 0
         }
       ]
@@ -847,7 +847,7 @@
         },
         {
           "id": 529,
-          "template": "FORM_UNSET",
+          "template": "DRILBUR",
           "form": 0
         }
       ],
@@ -866,7 +866,7 @@
         },
         {
           "id": 340,
-          "template": "FORM_UNSET",
+          "template": "WHISCASH",
           "form": 0
         },
         {
@@ -895,7 +895,7 @@
         },
         {
           "id": 361,
-          "template": "FORM_UNSET",
+          "template": "SNORUNT",
           "form": 0
         },
         {
@@ -912,19 +912,19 @@
         },
         {
           "id": 362,
-          "template": "FORM_UNSET",
+          "template": "GLALIE",
           "form": 0
         },
         {
           "id": 478,
-          "template": "FORM_UNSET",
+          "template": "FROSLASS",
           "form": 0
         }
       ],
       "third": [
         {
           "id": 362,
-          "template": "FORM_UNSET",
+          "template": "GLALIE",
           "form": 0
         },
         {
@@ -934,7 +934,7 @@
         },
         {
           "id": 478,
-          "template": "FORM_UNSET",
+          "template": "FROSLASS",
           "form": 0
         }
       ]
@@ -993,7 +993,7 @@
         },
         {
           "id": 597,
-          "template": "FORM_UNSET",
+          "template": "FERROSEED",
           "form": 0
         }
       ],
@@ -1027,7 +1027,7 @@
         },
         {
           "id": 395,
-          "template": "FORM_UNSET",
+          "template": "EMPOLEON",
           "form": 0
         }
       ]
@@ -1088,7 +1088,7 @@
         },
         {
           "id": 432,
-          "template": "FORM_UNSET",
+          "template": "PURUGLY",
           "form": 0
         }
       ],
@@ -1129,12 +1129,12 @@
         },
         {
           "id": 453,
-          "template": "FORM_UNSET",
+          "template": "CROAGUNK",
           "form": 0
         },
         {
           "id": 590,
-          "template": "FORM_UNSET",
+          "template": "FOONGUS",
           "form": 0
         }
       ],
@@ -1158,12 +1158,12 @@
         },
         {
           "id": 454,
-          "template": "FORM_UNSET",
+          "template": "TOXICROAK",
           "form": 0
         },
         {
           "id": 591,
-          "template": "FORM_UNSET",
+          "template": "AMOONGUSS",
           "form": 0
         }
       ]
@@ -1229,7 +1229,7 @@
         },
         {
           "id": 203,
-          "template": "FORM_UNSET",
+          "template": "GIRAFARIG",
           "form": 0
         },
         {
@@ -1290,12 +1290,12 @@
         },
         {
           "id": 408,
-          "template": "FORM_UNSET",
+          "template": "CRANIDOS",
           "form": 0
         },
         {
           "id": 410,
-          "template": "FORM_UNSET",
+          "template": "SHIELDON",
           "form": 0
         }
       ],
@@ -1324,12 +1324,12 @@
         },
         {
           "id": 409,
-          "template": "FORM_UNSET",
+          "template": "RAMPARDOS",
           "form": 0
         },
         {
           "id": 411,
-          "template": "FORM_UNSET",
+          "template": "BASTIODON",
           "form": 0
         }
       ]
@@ -1348,46 +1348,46 @@
       "first": [
         {
           "id": 339,
-          "template": "FORM_UNSET",
+          "template": "BARBOACH",
           "form": 0
         },
         {
           "id": 341,
-          "template": "FORM_UNSET",
+          "template": "CORPHISH",
           "form": 0
         },
         {
           "id": 393,
-          "template": "FORM_UNSET",
+          "template": "PIPLUP",
           "form": 0
         }
       ],
       "second": [
         {
           "id": 342,
-          "template": "FORM_UNSET",
+          "template": "CRAWDAUNT",
           "form": 0
         },
         {
           "id": 394,
-          "template": "FORM_UNSET",
+          "template": "PRINPLUP",
           "form": 0
         }
       ],
       "third": [
         {
           "id": 321,
-          "template": "FORM_UNSET",
+          "template": "WAILORD",
           "form": 0
         },
         {
           "id": 340,
-          "template": "FORM_UNSET",
+          "template": "WHISCASH",
           "form": 0
         },
         {
           "id": 395,
-          "template": "FORM_UNSET",
+          "template": "EMPOLEON",
           "form": 0
         }
       ]
@@ -1528,7 +1528,7 @@
         },
         {
           "id": 623,
-          "template": "FORM_UNSET",
+          "template": "GOLURK",
           "form": 0
         }
       ],
@@ -1564,7 +1564,7 @@
       "first": [
         {
           "id": 72,
-          "template": "FORM_UNSET",
+          "template": "TENTACOOL",
           "form": 0
         }
       ],
@@ -1576,7 +1576,7 @@
         },
         {
           "id": 350,
-          "template": "FORM_UNSET",
+          "template": "MILOTIC",
           "form": 0
         },
         {
@@ -1642,7 +1642,7 @@
         {
           "id": 382,
           "form": 0,
-          "template": "FORM_UNSET"
+          "template": "KYOGRE"
         }
       ]
     }
@@ -1738,12 +1738,12 @@
         },
         {
           "id": 425,
-          "template": "FORM_UNSET",
+          "template": "DRIFLOON",
           "form": 0
         },
         {
           "id": 622,
-          "template": "FORM_UNSET",
+          "template": "GOLETT",
           "form": 0
         }
       ],
@@ -1760,7 +1760,7 @@
         },
         {
           "id": 622,
-          "template": "FORM_UNSET",
+          "template": "GOLETT",
           "form": 0
         }
       ],
@@ -1772,12 +1772,12 @@
         },
         {
           "id": 478,
-          "template": "FORM_UNSET",
+          "template": "FROSLASS",
           "form": 0
         },
         {
           "id": 623,
-          "template": "FORM_UNSET",
+          "template": "GOLURK",
           "form": 0
         }
       ]
@@ -1801,12 +1801,12 @@
         },
         {
           "id": 522,
-          "template": "FORM_UNSET",
+          "template": "BLITZLE",
           "form": 0
         },
         {
           "id": 595,
-          "template": "FORM_UNSET",
+          "template": "JOLTIK",
           "form": 0
         }
       ],
@@ -1830,12 +1830,12 @@
         },
         {
           "id": 405,
-          "template": "FORM_UNSET",
+          "template": "LUXRAY",
           "form": 0
         },
         {
           "id": 596,
-          "template": "FORM_UNSET",
+          "template": "GALVANTULA",
           "form": 0
         }
       ]
