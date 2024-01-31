@@ -72,7 +72,7 @@
       "first": [
         {
           "id": 252,
-          "template": "TREECKO",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -89,7 +89,7 @@
       "second": [
         {
           "id": 253,
-          "template": "GROVYLE",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -106,7 +106,7 @@
       "third": [
         {
           "id": 254,
-          "template": "SCEPTILE",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -196,7 +196,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_BUG_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -213,7 +213,7 @@
         },
         {
           "id": 557,
-          "template": "DWEBBLE",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -357,7 +357,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DRAGON_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -547,7 +547,7 @@
         },
         {
           "id": 237,
-          "template": "HITMONTOP",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -564,7 +564,7 @@
         },
         {
           "id": 454,
-          "template": "TOXICROAK",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -664,7 +664,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_FLYING_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -688,7 +688,7 @@
       "second": [
         {
           "id": 178,
-          "template": "XATU",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -786,7 +786,7 @@
         },
         {
           "id": 598,
-          "template": "FERROTHORN",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -803,7 +803,7 @@
         },
         {
           "id": 591,
-          "template": "AMOONGUSS",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -847,7 +847,7 @@
         },
         {
           "id": 529,
-          "template": "DRILBUR",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -866,7 +866,7 @@
         },
         {
           "id": 340,
-          "template": "WHISCASH",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -895,7 +895,7 @@
         },
         {
           "id": 361,
-          "template": "SNORUNT",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -912,19 +912,19 @@
         },
         {
           "id": 362,
-          "template": "GLALIE",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 478,
-          "template": "FROSLASS",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
       "third": [
         {
           "id": 362,
-          "template": "GLALIE",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -934,7 +934,7 @@
         },
         {
           "id": 478,
-          "template": "FROSLASS",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -976,7 +976,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_METAL_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -993,7 +993,7 @@
         },
         {
           "id": 597,
-          "template": "FERROSEED",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1027,7 +1027,7 @@
         },
         {
           "id": 395,
-          "template": "EMPOLEON",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -1054,7 +1054,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_NORMAL_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1088,7 +1088,7 @@
         },
         {
           "id": 432,
-          "template": "PURUGLY",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1129,12 +1129,12 @@
         },
         {
           "id": 453,
-          "template": "CROAGUNK",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 590,
-          "template": "FOONGUS",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1158,12 +1158,12 @@
         },
         {
           "id": 454,
-          "template": "TOXICROAK",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 591,
-          "template": "AMOONGUSS",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -1205,7 +1205,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1229,7 +1229,7 @@
         },
         {
           "id": 203,
-          "template": "GIRAFARIG",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -1290,12 +1290,12 @@
         },
         {
           "id": 408,
-          "template": "CRANIDOS",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 410,
-          "template": "SHIELDON",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1324,12 +1324,12 @@
         },
         {
           "id": 409,
-          "template": "RAMPARDOS",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 411,
-          "template": "BASTIODON",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -1348,46 +1348,46 @@
       "first": [
         {
           "id": 339,
-          "template": "BARBOACH",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 341,
-          "template": "CORPHISH",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 393,
-          "template": "PIPLUP",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
       "second": [
         {
           "id": 342,
-          "template": "CRAWDAUNT",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 394,
-          "template": "PRINPLUP",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
       "third": [
         {
           "id": 321,
-          "template": "WAILORD",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 340,
-          "template": "WHISCASH",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 395,
-          "template": "EMPOLEON",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -1528,7 +1528,7 @@
         },
         {
           "id": 623,
-          "template": "GOLURK",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1564,7 +1564,7 @@
       "first": [
         {
           "id": 72,
-          "template": "TENTACOOL",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1576,7 +1576,7 @@
         },
         {
           "id": 350,
-          "template": "MILOTIC",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
@@ -1642,7 +1642,7 @@
         {
           "id": 382,
           "form": 0,
-          "template": "KYOGRE_NORMAL"
+          "template": "FORM_UNSET"
         }
       ]
     }
@@ -1726,7 +1726,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_GHOST_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1738,12 +1738,12 @@
         },
         {
           "id": 425,
-          "template": "DRIFLOON",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 622,
-          "template": "GOLETT",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1760,7 +1760,7 @@
         },
         {
           "id": 622,
-          "template": "GOLETT",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1772,12 +1772,12 @@
         },
         {
           "id": 478,
-          "template": "FROSLASS",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 623,
-          "template": "GOLURK",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
@@ -1801,12 +1801,12 @@
         },
         {
           "id": 522,
-          "template": "BLITZLE",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 595,
-          "template": "JOLTIK",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ],
@@ -1830,12 +1830,12 @@
         },
         {
           "id": 405,
-          "template": "LUXRAY",
+          "template": "FORM_UNSET",
           "form": 0
         },
         {
           "id": 596,
-          "template": "GALVANTULA",
+          "template": "FORM_UNSET",
           "form": 0
         }
       ]
