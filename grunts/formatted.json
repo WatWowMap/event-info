@@ -336,6 +336,11 @@
         },
         {
           "id": 228,
+          "template": "HOUNDOUR",
+          "form": 0
+        },
+        {
+          "id": 228,
           "template": "HOUNDOUR_NORMAL",
           "form": 229
         },
@@ -409,8 +414,18 @@
       "first": [
         {
           "id": 103,
+          "template": "EXEGGUTOR",
+          "form": 0
+        },
+        {
+          "id": 103,
           "template": "EXEGGUTOR_ALOLA",
           "form": 78
+        },
+        {
+          "id": 147,
+          "template": "DRATINI",
+          "form": 0
         },
         {
           "id": 147,
@@ -426,12 +441,22 @@
       "second": [
         {
           "id": 103,
+          "template": "EXEGGUTOR",
+          "form": 0
+        },
+        {
+          "id": 103,
           "template": "EXEGGUTOR_ALOLA",
           "form": 78
         },
         {
           "id": 148,
           "template": "DRAGONAIR",
+          "form": 0
+        },
+        {
+          "id": 444,
+          "template": "GABITE",
           "form": 0
         },
         {
@@ -448,8 +473,18 @@
         },
         {
           "id": 373,
+          "template": "SALAMENCE",
+          "form": 0
+        },
+        {
+          "id": 373,
           "template": "SALAMENCE_NORMAL",
           "form": 761
+        },
+        {
+          "id": 445,
+          "template": "GARCHOMP",
+          "form": 0
         },
         {
           "id": 445,
@@ -850,6 +885,11 @@
         },
         {
           "id": 398,
+          "template": "STARAPTOR",
+          "form": 0
+        },
+        {
+          "id": 398,
           "template": "STARAPTOR_NORMAL",
           "form": 1664
         }
@@ -949,6 +989,11 @@
         {
           "id": 332,
           "template": "CACTURNE",
+          "form": 0
+        },
+        {
+          "id": 389,
+          "template": "TORTERRA",
           "form": 0
         },
         {
@@ -1449,6 +1494,11 @@
       "second": [
         {
           "id": 202,
+          "template": "WOBBUFFET",
+          "form": 0
+        },
+        {
+          "id": 202,
           "template": "WOBBUFFET_NORMAL",
           "form": 602
         },
@@ -1472,6 +1522,11 @@
         {
           "id": 65,
           "template": "ALAKAZAM",
+          "form": 0
+        },
+        {
+          "id": 376,
+          "template": "METAGROSS",
           "form": 0
         },
         {
