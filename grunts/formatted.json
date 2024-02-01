@@ -590,6 +590,11 @@
         },
         {
           "id": 296,
+          "template": "MAKUHITA",
+          "form": 0
+        },
+        {
+          "id": 296,
           "template": "MAKUHITA_NORMAL",
           "form": 1451
         }
@@ -612,6 +617,11 @@
         }
       ],
       "third": [
+        {
+          "id": 68,
+          "template": "MACHAMP",
+          "form": 0
+        },
         {
           "id": 68,
           "template": "MACHAMP_NORMAL",
@@ -683,6 +693,11 @@
         },
         {
           "id": 390,
+          "template": "CHIMCHAR",
+          "form": 0
+        },
+        {
+          "id": 390,
           "template": "CHIMCHAR_NORMAL",
           "form": 818
         }
@@ -697,6 +712,11 @@
           "id": 229,
           "template": "HOUNDOOM_NORMAL",
           "form": 232
+        },
+        {
+          "id": 391,
+          "template": "MONFERNO",
+          "form": 0
         },
         {
           "id": 391,
@@ -1226,6 +1246,11 @@
       "first": [
         {
           "id": 52,
+          "template": "MEOWTH",
+          "form": 0
+        },
+        {
+          "id": 52,
           "template": "MEOWTH_NORMAL",
           "form": 63
         },
@@ -1238,6 +1263,11 @@
           "id": 216,
           "template": "TEDDIURSA_NORMAL",
           "form": 1265
+        },
+        {
+          "id": 234,
+          "template": "STANTLER",
+          "form": 0
         },
         {
           "id": 234,
@@ -1271,6 +1301,11 @@
         {
           "id": 217,
           "template": "URSARING",
+          "form": 0
+        },
+        {
+          "id": 234,
+          "template": "STANTLER",
           "form": 0
         },
         {
@@ -1938,6 +1973,11 @@
       "first": [
         {
           "id": 200,
+          "template": "MISDREAVUS",
+          "form": 0
+        },
+        {
+          "id": 200,
           "template": "MISDREAVUS_NORMAL",
           "form": 719
         },
@@ -1970,6 +2010,11 @@
         }
       ],
       "third": [
+        {
+          "id": 94,
+          "template": "GENGAR",
+          "form": 0
+        },
         {
           "id": 94,
           "template": "GENGAR_NORMAL",
