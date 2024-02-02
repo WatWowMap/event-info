@@ -1755,11 +1755,6 @@
           "id": 41,
           "template": "ZUBAT",
           "form": 0
-        },
-        {
-          "id": 41,
-          "template": "ZUBAT_NORMAL",
-          "form": 157
         }
       ],
       "second": [
@@ -1769,19 +1764,9 @@
           "form": 0
         },
         {
-          "id": 142,
-          "template": "AERODACTYL_NORMAL",
-          "form": 1110
-        },
-        {
           "id": 230,
           "template": "KINGDRA",
           "form": 0
-        },
-        {
-          "id": 230,
-          "template": "KINGDRA_NORMAL",
-          "form": 1298
         },
         {
           "id": 475,
@@ -1796,11 +1781,6 @@
           "form": 0
         },
         {
-          "id": 169,
-          "template": "CROBAT_NORMAL",
-          "form": 202
-        },
-        {
           "id": 248,
           "template": "TYRANITAR",
           "form": 0
@@ -1809,11 +1789,6 @@
           "id": 346,
           "template": "CRADILY",
           "form": 0
-        },
-        {
-          "id": 346,
-          "template": "CRADILY_NORMAL",
-          "form": 1571
         }
       ]
     }
@@ -1833,11 +1808,6 @@
           "id": 371,
           "template": "BAGON",
           "form": 0
-        },
-        {
-          "id": 371,
-          "template": "BAGON_NORMAL",
-          "form": 755
         }
       ],
       "second": [
@@ -1847,19 +1817,9 @@
           "form": 0
         },
         {
-          "id": 6,
-          "template": "CHARIZARD_NORMAL",
-          "form": 178
-        },
-        {
           "id": 97,
           "template": "HYPNO",
           "form": 0
-        },
-        {
-          "id": 97,
-          "template": "HYPNO_NORMAL",
-          "form": 217
         },
         {
           "id": 623,
@@ -1882,11 +1842,6 @@
           "id": 373,
           "template": "SALAMENCE",
           "form": 0
-        },
-        {
-          "id": 373,
-          "template": "SALAMENCE_NORMAL",
-          "form": 761
         }
       ]
     }
@@ -1915,11 +1870,6 @@
           "form": 0
         },
         {
-          "id": 302,
-          "template": "SABLEYE_NORMAL",
-          "form": 923
-        },
-        {
           "id": 350,
           "template": "MILOTIC",
           "form": 0
@@ -1928,11 +1878,6 @@
           "id": 430,
           "template": "HONCHKROW",
           "form": 0
-        },
-        {
-          "id": 430,
-          "template": "HONCHKROW_NORMAL",
-          "form": 858
         }
       ],
       "third": [
@@ -1942,29 +1887,14 @@
           "form": 0
         },
         {
-          "id": 65,
-          "template": "ALAKAZAM_NORMAL",
-          "form": 310
-        },
-        {
           "id": 71,
           "template": "VICTREEBEL",
           "form": 0
         },
         {
-          "id": 71,
-          "template": "VICTREEBEL_NORMAL",
-          "form": 670
-        },
-        {
           "id": 229,
           "template": "HOUNDOOM",
           "form": 0
-        },
-        {
-          "id": 229,
-          "template": "HOUNDOOM_NORMAL",
-          "form": 232
         }
       ]
     }
