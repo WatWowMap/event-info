@@ -77,8 +77,8 @@
         },
         {
           "id": 255,
-          "template": "TORCHIC",
-          "form": 0
+          "template": "TORCHIC_NORMAL",
+          "form": 1358
         },
         {
           "id": 258,
@@ -94,13 +94,13 @@
         },
         {
           "id": 256,
-          "template": "COMBUSKEN_NORMAL",
-          "form": 1361
+          "template": "COMBUSKEN",
+          "form": 0
         },
         {
           "id": 259,
-          "template": "MARSHTOMP_NORMAL",
-          "form": 208
+          "template": "MARSHTOMP",
+          "form": 0
         }
       ],
       "third": [
@@ -225,13 +225,13 @@
         },
         {
           "id": 213,
-          "template": "SHUCKLE",
-          "form": 0
+          "template": "SHUCKLE_NORMAL",
+          "form": 827
         },
         {
           "id": 451,
-          "template": "SKORUPI",
-          "form": 0
+          "template": "SKORUPI_NORMAL",
+          "form": 1796
         }
       ],
       "third": [
@@ -306,8 +306,8 @@
         },
         {
           "id": 434,
-          "template": "STUNKY",
-          "form": 0
+          "template": "STUNKY_NORMAL",
+          "form": 791
         }
       ],
       "second": [
@@ -330,8 +330,8 @@
         },
         {
           "id": 435,
-          "template": "SKUNTANK_NORMAL",
-          "form": 794
+          "template": "SKUNTANK",
+          "form": 0
         }
       ]
     }
@@ -364,8 +364,8 @@
       "first": [
         {
           "id": 103,
-          "template": "EXEGGUTOR_ALOLA",
-          "form": 78
+          "template": "EXEGGUTOR",
+          "form": 0
         },
         {
           "id": 147,
@@ -403,13 +403,13 @@
         },
         {
           "id": 373,
-          "template": "SALAMENCE",
-          "form": 0
+          "template": "SALAMENCE_NORMAL",
+          "form": 761
         },
         {
           "id": 445,
-          "template": "GARCHOMP",
-          "form": 0
+          "template": "GARCHOMP_NORMAL",
+          "form": 867
         }
       ]
     }
@@ -491,8 +491,8 @@
         },
         {
           "id": 282,
-          "template": "GARDEVOIR_NORMAL",
-          "form": 298
+          "template": "GARDEVOIR",
+          "form": 0
         }
       ]
     }
@@ -525,8 +525,8 @@
       "first": [
         {
           "id": 66,
-          "template": "MACHOP_NORMAL",
-          "form": 809
+          "template": "MACHOP",
+          "form": 0
         },
         {
           "id": 215,
@@ -603,25 +603,25 @@
       "first": [
         {
           "id": 58,
-          "template": "GROWLITHE",
-          "form": 0
+          "template": "GROWLITHE_NORMAL",
+          "form": 280
         },
         {
           "id": 228,
-          "template": "HOUNDOUR",
-          "form": 0
+          "template": "HOUNDOUR_NORMAL",
+          "form": 229
         },
         {
           "id": 390,
-          "template": "CHIMCHAR_NORMAL",
-          "form": 818
+          "template": "CHIMCHAR",
+          "form": 0
         }
       ],
       "second": [
         {
           "id": 229,
-          "template": "HOUNDOOM_NORMAL",
-          "form": 232
+          "template": "HOUNDOOM",
+          "form": 0
         },
         {
           "id": 391,
@@ -637,13 +637,13 @@
         },
         {
           "id": 229,
-          "template": "HOUNDOOM",
-          "form": 0
+          "template": "HOUNDOOM_NORMAL",
+          "form": 232
         },
         {
           "id": 392,
-          "template": "INFERNAPE",
-          "form": 0
+          "template": "INFERNAPE_NORMAL",
+          "form": 824
         }
       ]
     }
@@ -686,8 +686,8 @@
         },
         {
           "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
+          "template": "STARLY",
+          "form": 0
         }
       ],
       "second": [
@@ -803,8 +803,8 @@
         },
         {
           "id": 389,
-          "template": "TORTERRA_NORMAL",
-          "form": 694
+          "template": "TORTERRA",
+          "form": 0
         },
         {
           "id": 591,
@@ -993,8 +993,8 @@
         },
         {
           "id": 227,
-          "template": "SKARMORY_NORMAL",
-          "form": 1295
+          "template": "SKARMORY",
+          "form": 0
         },
         {
           "id": 597,
@@ -1071,13 +1071,13 @@
         },
         {
           "id": 216,
-          "template": "TEDDIURSA",
-          "form": 0
+          "template": "TEDDIURSA_NORMAL",
+          "form": 1265
         },
         {
           "id": 234,
-          "template": "STANTLER",
-          "form": 0
+          "template": "STANTLER_NORMAL",
+          "form": 941
         }
       ],
       "second": [
@@ -1217,13 +1217,13 @@
       "first": [
         {
           "id": 79,
-          "template": "SLOWPOKE_NORMAL",
-          "form": 1017
+          "template": "SLOWPOKE",
+          "form": 0
         },
         {
           "id": 202,
-          "template": "WOBBUFFET_NORMAL",
-          "form": 602
+          "template": "WOBBUFFET",
+          "form": 0
         }
       ],
       "second": [
@@ -1239,8 +1239,8 @@
         },
         {
           "id": 280,
-          "template": "RALTS",
-          "form": 0
+          "template": "RALTS_NORMAL",
+          "form": 292
         }
       ],
       "third": [
@@ -1290,8 +1290,8 @@
       "first": [
         {
           "id": 95,
-          "template": "ONIX_NORMAL",
-          "form": 902
+          "template": "ONIX",
+          "form": 0
         },
         {
           "id": 408,
@@ -1772,8 +1772,8 @@
       "third": [
         {
           "id": 94,
-          "template": "GENGAR",
-          "form": 0
+          "template": "GENGAR_NORMAL",
+          "form": 1044
         },
         {
           "id": 478,
@@ -1823,8 +1823,8 @@
         },
         {
           "id": 100,
-          "template": "VOLTORB",
-          "form": 0
+          "template": "VOLTORB_NORMAL",
+          "form": 1047
         }
       ],
       "third": [
