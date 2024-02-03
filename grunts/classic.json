@@ -89,8 +89,8 @@
           },
           {
             "id": 256,
-            "template": "COMBUSKEN_NORMAL",
-            "form": 1361
+            "template": "COMBUSKEN",
+            "form": 0
           },
           {
             "id": 259,
@@ -311,8 +311,8 @@
           },
           {
             "id": 228,
-            "template": "HOUNDOUR_NORMAL",
-            "form": 229
+            "template": "HOUNDOUR",
+            "form": 0
           },
           {
             "id": 434,
@@ -382,8 +382,8 @@
         [
           {
             "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "template": "EXEGGUTOR",
+            "form": 0
           },
           {
             "id": 147,
@@ -399,8 +399,8 @@
         [
           {
             "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "template": "EXEGGUTOR",
+            "form": 0
           },
           {
             "id": 148,
@@ -421,8 +421,8 @@
           },
           {
             "id": 373,
-            "template": "SALAMENCE_NORMAL",
-            "form": 761
+            "template": "SALAMENCE",
+            "form": 0
           },
           {
             "id": 445,
@@ -466,11 +466,6 @@
       ],
       "team": [
         [
-          {
-            "id": 37,
-            "template": "VULPIX_ALOLA",
-            "form": 56
-          },
           {
             "id": 209,
             "template": "SNUBBULL",
@@ -737,8 +732,8 @@
           },
           {
             "id": 396,
-            "template": "STARLY_NORMAL",
-            "form": 1658
+            "template": "STARLY",
+            "form": 0
           }
         ],
         [
@@ -834,8 +829,8 @@
           },
           {
             "id": 273,
-            "template": "SEEDOT_NORMAL",
-            "form": 625
+            "template": "SEEDOT",
+            "form": 0
           },
           {
             "id": 387,
@@ -945,8 +940,8 @@
           },
           {
             "id": 389,
-            "template": "TORTERRA_NORMAL",
-            "form": 694
+            "template": "TORTERRA",
+            "form": 0
           }
         ]
       ]
@@ -1072,8 +1067,8 @@
           },
           {
             "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "template": "SKARMORY",
+            "form": 0
           },
           {
             "id": 597,
@@ -1224,8 +1219,8 @@
         [
           {
             "id": 109,
-            "template": "KOFFING_NORMAL",
-            "form": 703
+            "template": "KOFFING",
+            "form": 0
           },
           {
             "id": 453,
@@ -1321,8 +1316,8 @@
         [
           {
             "id": 79,
-            "template": "SLOWPOKE_NORMAL",
-            "form": 1017
+            "template": "SLOWPOKE",
+            "form": 0
           },
           {
             "id": 202,
@@ -1983,8 +1978,8 @@
           },
           {
             "id": 100,
-            "template": "VOLTORB_NORMAL",
-            "form": 1047
+            "template": "VOLTORB",
+            "form": 0
           }
         ],
         [
