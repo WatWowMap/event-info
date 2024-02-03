@@ -72,8 +72,8 @@
           },
           {
             "id": 255,
-            "template": "TORCHIC_NORMAL",
-            "form": 1358
+            "template": "TORCHIC",
+            "form": 0
           },
           {
             "id": 258,
@@ -311,13 +311,13 @@
           },
           {
             "id": 228,
-            "template": "HOUNDOUR",
-            "form": 0
+            "template": "HOUNDOUR_NORMAL",
+            "form": 229
           },
           {
             "id": 434,
-            "template": "STUNKY_NORMAL",
-            "form": 791
+            "template": "STUNKY",
+            "form": 0
           }
         ],
         [
@@ -382,8 +382,8 @@
         [
           {
             "id": 103,
-            "template": "EXEGGUTOR",
-            "form": 0
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
           },
           {
             "id": 147,
@@ -599,8 +599,8 @@
           },
           {
             "id": 392,
-            "template": "INFERNAPE",
-            "form": 0
+            "template": "INFERNAPE_NORMAL",
+            "form": 824
           },
           {
             "id": 454,
@@ -646,13 +646,13 @@
         [
           {
             "id": 58,
-            "template": "GROWLITHE_NORMAL",
-            "form": 280
+            "template": "GROWLITHE",
+            "form": 0
           },
           {
             "id": 228,
-            "template": "HOUNDOUR_NORMAL",
-            "form": 229
+            "template": "HOUNDOUR",
+            "form": 0
           },
           {
             "id": 390,
@@ -685,8 +685,8 @@
           },
           {
             "id": 392,
-            "template": "INFERNAPE_NORMAL",
-            "form": 824
+            "template": "INFERNAPE",
+            "form": 0
           }
         ]
       ]
@@ -732,8 +732,8 @@
           },
           {
             "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
+            "template": "GLIGAR",
+            "form": 0
           },
           {
             "id": 396,
@@ -945,8 +945,8 @@
           },
           {
             "id": 389,
-            "template": "TORTERRA",
-            "form": 0
+            "template": "TORTERRA_NORMAL",
+            "form": 694
           }
         ]
       ]
@@ -981,8 +981,8 @@
           },
           {
             "id": 459,
-            "template": "SNOVER_NORMAL",
-            "form": 932
+            "template": "SNOVER",
+            "form": 0
           }
         ],
         [
@@ -1153,8 +1153,8 @@
         [
           {
             "id": 52,
-            "template": "MEOWTH",
-            "form": 0
+            "template": "MEOWTH_NORMAL",
+            "form": 63
           },
           {
             "id": 216,
@@ -1175,8 +1175,8 @@
           },
           {
             "id": 52,
-            "template": "MEOWTH_NORMAL",
-            "form": 63
+            "template": "MEOWTH",
+            "form": 0
           },
           {
             "id": 432,
@@ -1333,8 +1333,8 @@
         [
           {
             "id": 202,
-            "template": "WOBBUFFET",
-            "form": 0
+            "template": "WOBBUFFET_NORMAL",
+            "form": 602
           },
           {
             "id": 203,
@@ -1355,13 +1355,13 @@
           },
           {
             "id": 376,
-            "template": "METAGROSS_NORMAL",
-            "form": 770
+            "template": "METAGROSS",
+            "form": 0
           },
           {
             "id": 475,
-            "template": "GALLADE_NORMAL",
-            "form": 301
+            "template": "GALLADE",
+            "form": 0
           }
         ]
       ]
@@ -1403,8 +1403,8 @@
         [
           {
             "id": 95,
-            "template": "ONIX",
-            "form": 0
+            "template": "ONIX_NORMAL",
+            "form": 902
           },
           {
             "id": 408,
