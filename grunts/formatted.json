@@ -364,8 +364,8 @@
       "first": [
         {
           "id": 103,
-          "template": "EXEGGUTOR",
-          "form": 0
+          "template": "EXEGGUTOR_ALOLA",
+          "form": 78
         },
         {
           "id": 147,
@@ -381,8 +381,8 @@
       "second": [
         {
           "id": 103,
-          "template": "EXEGGUTOR",
-          "form": 0
+          "template": "EXEGGUTOR_ALOLA",
+          "form": 78
         },
         {
           "id": 148,
@@ -1421,6 +1421,11 @@
         {
           "id": 129,
           "template": "MAGIKARP",
+          "form": 0
+        },
+        {
+          "id": 130,
+          "template": "GYARADOS",
           "form": 0
         }
       ]
