@@ -81,9 +81,19 @@
           "form": 0
         },
         {
+          "id": 255,
+          "template": "TORCHIC_NORMAL",
+          "form": 1358
+        },
+        {
           "id": 258,
           "template": "MUDKIP",
           "form": 0
+        },
+        {
+          "id": 258,
+          "template": "MUDKIP_NORMAL",
+          "form": 205
         }
       ],
       "second": [
@@ -98,9 +108,19 @@
           "form": 0
         },
         {
+          "id": 256,
+          "template": "COMBUSKEN_NORMAL",
+          "form": 1361
+        },
+        {
           "id": 259,
           "template": "MARSHTOMP",
           "form": 0
+        },
+        {
+          "id": 259,
+          "template": "MARSHTOMP_NORMAL",
+          "form": 208
         }
       ],
       "third": [
@@ -202,6 +222,11 @@
     "encounters": {
       "first": [
         {
+          "id": 123,
+          "template": "SCYTHER_NORMAL",
+          "form": 247
+        },
+        {
           "id": 204,
           "template": "PINECO",
           "form": 0
@@ -210,6 +235,11 @@
           "id": 213,
           "template": "SHUCKLE",
           "form": 0
+        },
+        {
+          "id": 213,
+          "template": "SHUCKLE_NORMAL",
+          "form": 827
         },
         {
           "id": 557,
@@ -229,9 +259,19 @@
           "form": 0
         },
         {
+          "id": 213,
+          "template": "SHUCKLE_NORMAL",
+          "form": 827
+        },
+        {
           "id": 451,
           "template": "SKORUPI",
           "form": 0
+        },
+        {
+          "id": 451,
+          "template": "SKORUPI_NORMAL",
+          "form": 1796
         }
       ],
       "third": [
@@ -305,9 +345,19 @@
           "form": 0
         },
         {
+          "id": 228,
+          "template": "HOUNDOUR_NORMAL",
+          "form": 229
+        },
+        {
           "id": 434,
           "template": "STUNKY",
           "form": 0
+        },
+        {
+          "id": 434,
+          "template": "STUNKY_NORMAL",
+          "form": 791
         }
       ],
       "second": [
@@ -332,6 +382,11 @@
           "id": 435,
           "template": "SKUNTANK",
           "form": 0
+        },
+        {
+          "id": 435,
+          "template": "SKUNTANK_NORMAL",
+          "form": 794
         }
       ]
     }
@@ -373,6 +428,16 @@
           "form": 0
         },
         {
+          "id": 147,
+          "template": "DRATINI_NORMAL",
+          "form": 190
+        },
+        {
+          "id": 371,
+          "template": "BAGON_NORMAL",
+          "form": 755
+        },
+        {
           "id": 443,
           "template": "GIBLE",
           "form": 0
@@ -393,6 +458,11 @@
           "id": 444,
           "template": "GABITE",
           "form": 0
+        },
+        {
+          "id": 444,
+          "template": "GABITE_NORMAL",
+          "form": 864
         }
       ],
       "third": [
@@ -407,9 +477,19 @@
           "form": 0
         },
         {
+          "id": 373,
+          "template": "SALAMENCE_NORMAL",
+          "form": 761
+        },
+        {
           "id": 445,
           "template": "GARCHOMP",
           "form": 0
+        },
+        {
+          "id": 445,
+          "template": "GARCHOMP_NORMAL",
+          "form": 867
         }
       ]
     }
@@ -440,6 +520,11 @@
     "thirdReward": false,
     "encounters": {
       "first": [
+        {
+          "id": 37,
+          "template": "VULPIX_ALOLA",
+          "form": 56
+        },
         {
           "id": 209,
           "template": "SNUBBULL",
@@ -488,6 +573,11 @@
           "id": 282,
           "template": "GARDEVOIR",
           "form": 0
+        },
+        {
+          "id": 282,
+          "template": "GARDEVOIR_NORMAL",
+          "form": 298
         }
       ]
     }
@@ -524,6 +614,11 @@
           "form": 0
         },
         {
+          "id": 66,
+          "template": "MACHOP_NORMAL",
+          "form": 809
+        },
+        {
           "id": 215,
           "template": "SNEASEL_HISUIAN",
           "form": 2794
@@ -532,6 +627,11 @@
           "id": 296,
           "template": "MAKUHITA",
           "form": 0
+        },
+        {
+          "id": 296,
+          "template": "MAKUHITA_NORMAL",
+          "form": 1451
         }
       ],
       "second": [
@@ -558,9 +658,19 @@
           "form": 0
         },
         {
+          "id": 68,
+          "template": "MACHAMP_NORMAL",
+          "form": 815
+        },
+        {
           "id": 392,
           "template": "INFERNAPE",
           "form": 0
+        },
+        {
+          "id": 392,
+          "template": "INFERNAPE_NORMAL",
+          "form": 824
         },
         {
           "id": 454,
@@ -610,6 +720,16 @@
           "id": 390,
           "template": "CHIMCHAR",
           "form": 0
+        },
+        {
+          "id": 390,
+          "template": "CHIMCHAR_NORMAL",
+          "form": 818
+        },
+        {
+          "id": 554,
+          "template": "DARUMAKA_NORMAL",
+          "form": 2063
         }
       ],
       "second": [
@@ -619,9 +739,19 @@
           "form": 0
         },
         {
+          "id": 229,
+          "template": "HOUNDOOM_NORMAL",
+          "form": 232
+        },
+        {
           "id": 391,
           "template": "MONFERNO",
           "form": 0
+        },
+        {
+          "id": 391,
+          "template": "MONFERNO_NORMAL",
+          "form": 821
         }
       ],
       "third": [
@@ -636,9 +766,24 @@
           "form": 0
         },
         {
+          "id": 229,
+          "template": "HOUNDOOM_NORMAL",
+          "form": 232
+        },
+        {
           "id": 392,
           "template": "INFERNAPE",
           "form": 0
+        },
+        {
+          "id": 392,
+          "template": "INFERNAPE_NORMAL",
+          "form": 824
+        },
+        {
+          "id": 555,
+          "template": "DARMANITAN_STANDARD",
+          "form": 138
         }
       ]
     }
@@ -670,6 +815,11 @@
     "encounters": {
       "first": [
         {
+          "id": 16,
+          "template": "PIDGEY",
+          "form": 0
+        },
+        {
           "id": 198,
           "template": "MURKROW",
           "form": 0
@@ -683,6 +833,11 @@
           "id": 396,
           "template": "STARLY",
           "form": 0
+        },
+        {
+          "id": 396,
+          "template": "STARLY_NORMAL",
+          "form": 1658
         }
       ],
       "second": [
@@ -697,12 +852,22 @@
           "form": 0
         },
         {
+          "id": 207,
+          "template": "GLIGAR_NORMAL",
+          "form": 803
+        },
+        {
           "id": 397,
           "template": "STARAVIA",
           "form": 0
         }
       ],
       "third": [
+        {
+          "id": 18,
+          "template": "PIDGEOT",
+          "form": 0
+        },
         {
           "id": 149,
           "template": "DRAGONITE",
@@ -712,6 +877,11 @@
           "id": 227,
           "template": "SKARMORY",
           "form": 0
+        },
+        {
+          "id": 227,
+          "template": "SKARMORY_NORMAL",
+          "form": 1295
         },
         {
           "id": 398,
@@ -776,6 +946,16 @@
           "id": 387,
           "template": "TURTWIG",
           "form": 0
+        },
+        {
+          "id": 387,
+          "template": "TURTWIG_NORMAL",
+          "form": 688
+        },
+        {
+          "id": 459,
+          "template": "SNOVER_NORMAL",
+          "form": 932
         }
       ],
       "second": [
@@ -785,12 +965,22 @@
           "form": 0
         },
         {
+          "id": 388,
+          "template": "GROTLE_NORMAL",
+          "form": 691
+        },
+        {
           "id": 598,
           "template": "FERROTHORN",
           "form": 0
         }
       ],
       "third": [
+        {
+          "id": 154,
+          "template": "MEGANIUM_NORMAL",
+          "form": 1124
+        },
         {
           "id": 332,
           "template": "CACTURNE",
@@ -800,6 +990,11 @@
           "id": 389,
           "template": "TORTERRA",
           "form": 0
+        },
+        {
+          "id": 389,
+          "template": "TORTERRA_NORMAL",
+          "form": 694
         },
         {
           "id": 591,
@@ -856,6 +1051,11 @@
           "id": 111,
           "template": "RHYHORN",
           "form": 0
+        },
+        {
+          "id": 111,
+          "template": "RHYHORN_NORMAL",
+          "form": 846
         }
       ],
       "third": [
@@ -863,6 +1063,11 @@
           "id": 195,
           "template": "QUAGSIRE",
           "form": 0
+        },
+        {
+          "id": 195,
+          "template": "QUAGSIRE_NORMAL",
+          "form": 1229
         },
         {
           "id": 340,
@@ -873,6 +1078,11 @@
           "id": 389,
           "template": "TORTERRA",
           "form": 0
+        },
+        {
+          "id": 389,
+          "template": "TORTERRA_NORMAL",
+          "form": 694
         }
       ]
     }
@@ -992,6 +1202,11 @@
           "form": 0
         },
         {
+          "id": 227,
+          "template": "SKARMORY_NORMAL",
+          "form": 1295
+        },
+        {
           "id": 597,
           "template": "FERROSEED",
           "form": 0
@@ -1002,6 +1217,11 @@
           "id": 227,
           "template": "SKARMORY",
           "form": 0
+        },
+        {
+          "id": 227,
+          "template": "SKARMORY_NORMAL",
+          "form": 1295
         },
         {
           "id": 305,
@@ -1070,8 +1290,23 @@
           "form": 0
         },
         {
+          "id": 216,
+          "template": "TEDDIURSA_NORMAL",
+          "form": 1265
+        },
+        {
           "id": 234,
           "template": "STANTLER",
+          "form": 0
+        },
+        {
+          "id": 234,
+          "template": "STANTLER_NORMAL",
+          "form": 941
+        },
+        {
+          "id": 431,
+          "template": "GLAMEOW",
           "form": 0
         }
       ],
@@ -1085,6 +1320,11 @@
           "id": 52,
           "template": "MEOWTH",
           "form": 0
+        },
+        {
+          "id": 52,
+          "template": "MEOWTH_NORMAL",
+          "form": 63
         },
         {
           "id": 432,
@@ -1102,6 +1342,11 @@
           "id": 234,
           "template": "STANTLER",
           "form": 0
+        },
+        {
+          "id": 234,
+          "template": "STANTLER_NORMAL",
+          "form": 941
         },
         {
           "id": 400,
@@ -1126,6 +1371,11 @@
           "id": 109,
           "template": "KOFFING",
           "form": 0
+        },
+        {
+          "id": 215,
+          "template": "SNEASEL_HISUIAN",
+          "form": 2794
         },
         {
           "id": 453,
@@ -1205,7 +1455,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1219,6 +1469,16 @@
           "id": 202,
           "template": "WOBBUFFET",
           "form": 0
+        },
+        {
+          "id": 574,
+          "template": "GOTHITA",
+          "form": 0
+        },
+        {
+          "id": 577,
+          "template": "SOLOSIS",
+          "form": 0
         }
       ],
       "second": [
@@ -1228,6 +1488,11 @@
           "form": 0
         },
         {
+          "id": 202,
+          "template": "WOBBUFFET_NORMAL",
+          "form": 602
+        },
+        {
           "id": 203,
           "template": "GIRAFARIG",
           "form": 0
@@ -1235,6 +1500,16 @@
         {
           "id": 280,
           "template": "RALTS",
+          "form": 0
+        },
+        {
+          "id": 280,
+          "template": "RALTS_NORMAL",
+          "form": 292
+        },
+        {
+          "id": 575,
+          "template": "GOTHORITA",
           "form": 0
         }
       ],
@@ -1250,8 +1525,23 @@
           "form": 0
         },
         {
+          "id": 376,
+          "template": "METAGROSS_NORMAL",
+          "form": 770
+        },
+        {
           "id": 475,
           "template": "GALLADE",
+          "form": 0
+        },
+        {
+          "id": 475,
+          "template": "GALLADE_NORMAL",
+          "form": 301
+        },
+        {
+          "id": 579,
+          "template": "REUNICLUS",
           "form": 0
         }
       ]
@@ -1287,6 +1577,11 @@
           "id": 95,
           "template": "ONIX",
           "form": 0
+        },
+        {
+          "id": 95,
+          "template": "ONIX_NORMAL",
+          "form": 902
         },
         {
           "id": 408,
@@ -1346,6 +1641,11 @@
     "thirdReward": false,
     "encounters": {
       "first": [
+        {
+          "id": 158,
+          "template": "TOTODILE_NORMAL",
+          "form": 1136
+        },
         {
           "id": 339,
           "template": "BARBOACH",
@@ -1726,7 +2026,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_GHOST_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1735,6 +2035,11 @@
           "id": 200,
           "template": "MISDREAVUS",
           "form": 0
+        },
+        {
+          "id": 200,
+          "template": "MISDREAVUS_NORMAL",
+          "form": 719
         },
         {
           "id": 425,
@@ -1771,6 +2076,16 @@
           "form": 0
         },
         {
+          "id": 94,
+          "template": "GENGAR_NORMAL",
+          "form": 1044
+        },
+        {
+          "id": 105,
+          "template": "MAROWAK_ALOLA",
+          "form": 80
+        },
+        {
           "id": 478,
           "template": "FROSLASS",
           "form": 0
@@ -1789,7 +2104,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1820,6 +2135,16 @@
           "id": 100,
           "template": "VOLTORB",
           "form": 0
+        },
+        {
+          "id": 100,
+          "template": "VOLTORB_NORMAL",
+          "form": 1047
+        },
+        {
+          "id": 125,
+          "template": "ELECTABUZZ_NORMAL",
+          "form": 640
         }
       ],
       "third": [
