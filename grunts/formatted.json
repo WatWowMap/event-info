@@ -1801,6 +1801,11 @@
           "form": 0
         },
         {
+          "id": 169,
+          "template": "CROBAT_NORMAL",
+          "form": 202
+        },
+        {
           "id": 248,
           "template": "TYRANITAR",
           "form": 0
@@ -1809,6 +1814,11 @@
           "id": 346,
           "template": "CRADILY",
           "form": 0
+        },
+        {
+          "id": 346,
+          "template": "CRADILY_NORMAL",
+          "form": 1571
         }
       ]
     }
@@ -1842,6 +1852,11 @@
           "form": 0
         },
         {
+          "id": 6,
+          "template": "CHARIZARD_NORMAL",
+          "form": 178
+        },
+        {
           "id": 97,
           "template": "HYPNO",
           "form": 0
@@ -1872,6 +1887,11 @@
           "id": 373,
           "template": "SALAMENCE",
           "form": 0
+        },
+        {
+          "id": 373,
+          "template": "SALAMENCE_NORMAL",
+          "form": 761
         }
       ]
     }
