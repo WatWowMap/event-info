@@ -1760,6 +1760,11 @@
           "id": 41,
           "template": "ZUBAT",
           "form": 0
+        },
+        {
+          "id": 66,
+          "template": "MACHOP_NORMAL",
+          "form": 809
         }
       ],
       "second": [
@@ -1769,9 +1774,19 @@
           "form": 0
         },
         {
+          "id": 142,
+          "template": "AERODACTYL_NORMAL",
+          "form": 1110
+        },
+        {
           "id": 230,
           "template": "KINGDRA",
           "form": 0
+        },
+        {
+          "id": 230,
+          "template": "KINGDRA_NORMAL",
+          "form": 1298
         },
         {
           "id": 475,
@@ -1810,6 +1825,11 @@
     "encounters": {
       "first": [
         {
+          "id": 331,
+          "template": "CACNEA_NORMAL",
+          "form": 610
+        },
+        {
           "id": 371,
           "template": "BAGON",
           "form": 0
@@ -1825,6 +1845,11 @@
           "id": 97,
           "template": "HYPNO",
           "form": 0
+        },
+        {
+          "id": 97,
+          "template": "HYPNO_NORMAL",
+          "form": 217
         },
         {
           "id": 623,
@@ -1866,6 +1891,11 @@
           "id": 72,
           "template": "TENTACOOL",
           "form": 0
+        },
+        {
+          "id": 328,
+          "template": "TRAPINCH_NORMAL",
+          "form": 746
         }
       ],
       "second": [
@@ -1873,6 +1903,11 @@
           "id": 302,
           "template": "SABLEYE",
           "form": 0
+        },
+        {
+          "id": 302,
+          "template": "SABLEYE_NORMAL",
+          "form": 923
         },
         {
           "id": 350,
@@ -1883,6 +1918,11 @@
           "id": 430,
           "template": "HONCHKROW",
           "form": 0
+        },
+        {
+          "id": 430,
+          "template": "HONCHKROW_NORMAL",
+          "form": 858
         }
       ],
       "third": [
@@ -1892,14 +1932,29 @@
           "form": 0
         },
         {
+          "id": 65,
+          "template": "ALAKAZAM_NORMAL",
+          "form": 310
+        },
+        {
           "id": 71,
           "template": "VICTREEBEL",
           "form": 0
         },
         {
+          "id": 71,
+          "template": "VICTREEBEL_NORMAL",
+          "form": 670
+        },
+        {
           "id": 229,
           "template": "HOUNDOOM",
           "form": 0
+        },
+        {
+          "id": 229,
+          "template": "HOUNDOOM_NORMAL",
+          "form": 232
         }
       ]
     }
@@ -1940,9 +1995,9 @@
       ],
       "third": [
         {
-          "id": 382,
+          "id": 383,
           "form": 0,
-          "template": "KYOGRE"
+          "template": "GROUDON"
         }
       ]
     }
