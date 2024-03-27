@@ -72,18 +72,8 @@
           },
           {
             "id": 255,
-            "template": "TORCHIC",
-            "form": 0
-          },
-          {
-            "id": 255,
             "template": "TORCHIC_NORMAL",
             "form": 1358
-          },
-          {
-            "id": 258,
-            "template": "MUDKIP",
-            "form": 0
           },
           {
             "id": 258,
@@ -99,18 +89,8 @@
           },
           {
             "id": 256,
-            "template": "COMBUSKEN",
-            "form": 0
-          },
-          {
-            "id": 256,
             "template": "COMBUSKEN_NORMAL",
             "form": 1361
-          },
-          {
-            "id": 259,
-            "template": "MARSHTOMP",
-            "form": 0
           },
           {
             "id": 259,
@@ -235,16 +215,6 @@
             "form": 247
           },
           {
-            "id": 204,
-            "template": "PINECO",
-            "form": 0
-          },
-          {
-            "id": 213,
-            "template": "SHUCKLE",
-            "form": 0
-          },
-          {
             "id": 213,
             "template": "SHUCKLE_NORMAL",
             "form": 827
@@ -263,18 +233,8 @@
           },
           {
             "id": 213,
-            "template": "SHUCKLE",
-            "form": 0
-          },
-          {
-            "id": 213,
             "template": "SHUCKLE_NORMAL",
             "form": 827
-          },
-          {
-            "id": 451,
-            "template": "SKORUPI",
-            "form": 0
           },
           {
             "id": 451,
@@ -352,18 +312,8 @@
           },
           {
             "id": 228,
-            "template": "HOUNDOUR",
-            "form": 0
-          },
-          {
-            "id": 228,
             "template": "HOUNDOUR_NORMAL",
             "form": 229
-          },
-          {
-            "id": 434,
-            "template": "STUNKY",
-            "form": 0
           },
           {
             "id": 434,
@@ -388,11 +338,6 @@
             "id": 89,
             "template": "MUK_ALOLA",
             "form": 76
-          },
-          {
-            "id": 435,
-            "template": "SKUNTANK",
-            "form": 0
           },
           {
             "id": 435,
@@ -437,16 +382,6 @@
       "team": [
         [
           {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
-          },
-          {
-            "id": 147,
-            "template": "DRATINI",
-            "form": 0
-          },
-          {
             "id": 147,
             "template": "DRATINI_NORMAL",
             "form": 190
@@ -475,11 +410,6 @@
           },
           {
             "id": 444,
-            "template": "GABITE",
-            "form": 0
-          },
-          {
-            "id": 444,
             "template": "GABITE_NORMAL",
             "form": 864
           }
@@ -492,18 +422,8 @@
           },
           {
             "id": 373,
-            "template": "SALAMENCE",
-            "form": 0
-          },
-          {
-            "id": 373,
             "template": "SALAMENCE_NORMAL",
             "form": 761
-          },
-          {
-            "id": 445,
-            "template": "GARCHOMP",
-            "form": 0
           },
           {
             "id": 445,
@@ -554,11 +474,6 @@
             "form": 56
           },
           {
-            "id": 209,
-            "template": "SNUBBULL",
-            "form": 0
-          },
-          {
             "id": 280,
             "template": "RALTS",
             "form": 0
@@ -595,11 +510,6 @@
           {
             "id": 210,
             "template": "GRANBULL",
-            "form": 0
-          },
-          {
-            "id": 282,
-            "template": "GARDEVOIR",
             "form": 0
           },
           {
@@ -647,11 +557,6 @@
         [
           {
             "id": 66,
-            "template": "MACHOP",
-            "form": 0
-          },
-          {
-            "id": 66,
             "template": "MACHOP_NORMAL",
             "form": 809
           },
@@ -659,11 +564,6 @@
             "id": 215,
             "template": "SNEASEL_HISUIAN",
             "form": 2794
-          },
-          {
-            "id": 296,
-            "template": "MAKUHITA",
-            "form": 0
           },
           {
             "id": 296,
@@ -691,18 +591,8 @@
         [
           {
             "id": 68,
-            "template": "MACHAMP",
-            "form": 0
-          },
-          {
-            "id": 68,
             "template": "MACHAMP_NORMAL",
             "form": 815
-          },
-          {
-            "id": 392,
-            "template": "INFERNAPE",
-            "form": 0
           },
           {
             "id": 392,
@@ -752,21 +642,6 @@
       "team": [
         [
           {
-            "id": 58,
-            "template": "GROWLITHE",
-            "form": 0
-          },
-          {
-            "id": 228,
-            "template": "HOUNDOUR",
-            "form": 0
-          },
-          {
-            "id": 390,
-            "template": "CHIMCHAR",
-            "form": 0
-          },
-          {
             "id": 390,
             "template": "CHIMCHAR_NORMAL",
             "form": 818
@@ -780,18 +655,8 @@
         [
           {
             "id": 229,
-            "template": "HOUNDOOM",
-            "form": 0
-          },
-          {
-            "id": 229,
             "template": "HOUNDOOM_NORMAL",
             "form": 232
-          },
-          {
-            "id": 391,
-            "template": "MONFERNO",
-            "form": 0
           },
           {
             "id": 391,
@@ -801,24 +666,9 @@
         ],
         [
           {
-            "id": 38,
-            "template": "NINETALES",
-            "form": 0
-          },
-          {
-            "id": 229,
-            "template": "HOUNDOOM",
-            "form": 0
-          },
-          {
             "id": 229,
             "template": "HOUNDOOM_NORMAL",
             "form": 232
-          },
-          {
-            "id": 392,
-            "template": "INFERNAPE",
-            "form": 0
           },
           {
             "id": 392,
@@ -863,7 +713,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -873,37 +724,12 @@
             "form": 0
           },
           {
-            "id": 198,
-            "template": "MURKROW",
-            "form": 0
-          },
-          {
-            "id": 207,
-            "template": "GLIGAR",
-            "form": 0
-          },
-          {
-            "id": 396,
-            "template": "STARLY",
-            "form": 0
-          },
-          {
             "id": 396,
             "template": "STARLY_NORMAL",
             "form": 1658
           }
         ],
         [
-          {
-            "id": 178,
-            "template": "XATU",
-            "form": 0
-          },
-          {
-            "id": 207,
-            "template": "GLIGAR",
-            "form": 0
-          },
           {
             "id": 207,
             "template": "GLIGAR_NORMAL",
@@ -928,18 +754,8 @@
           },
           {
             "id": 227,
-            "template": "SKARMORY",
-            "form": 0
-          },
-          {
-            "id": 227,
             "template": "SKARMORY_NORMAL",
             "form": 1295
-          },
-          {
-            "id": 398,
-            "template": "STARAPTOR",
-            "form": 0
           }
         ]
       ]
@@ -995,21 +811,6 @@
       "team": [
         [
           {
-            "id": 187,
-            "template": "HOPPIP",
-            "form": 0
-          },
-          {
-            "id": 273,
-            "template": "SEEDOT",
-            "form": 0
-          },
-          {
-            "id": 387,
-            "template": "TURTWIG",
-            "form": 0
-          },
-          {
             "id": 387,
             "template": "TURTWIG_NORMAL",
             "form": 688
@@ -1021,11 +822,6 @@
           }
         ],
         [
-          {
-            "id": 388,
-            "template": "GROTLE",
-            "form": 0
-          },
           {
             "id": 388,
             "template": "GROTLE_NORMAL",
@@ -1050,18 +846,8 @@
           },
           {
             "id": 389,
-            "template": "TORTERRA",
-            "form": 0
-          },
-          {
-            "id": 389,
             "template": "TORTERRA_NORMAL",
             "form": 694
-          },
-          {
-            "id": 591,
-            "template": "AMOONGUSS",
-            "form": 0
           }
         ]
       ]
@@ -1120,21 +906,11 @@
         [
           {
             "id": 111,
-            "template": "RHYHORN",
-            "form": 0
-          },
-          {
-            "id": 111,
             "template": "RHYHORN_NORMAL",
             "form": 846
           }
         ],
         [
-          {
-            "id": 195,
-            "template": "QUAGSIRE",
-            "form": 0
-          },
           {
             "id": 195,
             "template": "QUAGSIRE_NORMAL",
@@ -1143,11 +919,6 @@
           {
             "id": 340,
             "template": "WHISCASH",
-            "form": 0
-          },
-          {
-            "id": 389,
-            "template": "TORTERRA",
             "form": 0
           },
           {
@@ -1184,11 +955,6 @@
           {
             "id": 361,
             "template": "SNORUNT",
-            "form": 0
-          },
-          {
-            "id": 459,
-            "template": "SNOVER",
             "form": 0
           }
         ],
@@ -1268,8 +1034,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1
+        0
       ],
       "team": [
         [
@@ -1277,11 +1042,6 @@
             "id": 27,
             "template": "SANDSHREW_ALOLA",
             "form": 52
-          },
-          {
-            "id": 227,
-            "template": "SKARMORY",
-            "form": 0
           },
           {
             "id": 227,
@@ -1295,11 +1055,6 @@
           }
         ],
         [
-          {
-            "id": 227,
-            "template": "SKARMORY",
-            "form": 0
-          },
           {
             "id": 227,
             "template": "SKARMORY_NORMAL",
@@ -1370,24 +1125,9 @@
       "team": [
         [
           {
-            "id": 52,
-            "template": "MEOWTH",
-            "form": 0
-          },
-          {
-            "id": 216,
-            "template": "TEDDIURSA",
-            "form": 0
-          },
-          {
             "id": 216,
             "template": "TEDDIURSA_NORMAL",
             "form": 1265
-          },
-          {
-            "id": 234,
-            "template": "STANTLER",
-            "form": 0
           },
           {
             "id": 234,
@@ -1408,11 +1148,6 @@
           },
           {
             "id": 52,
-            "template": "MEOWTH",
-            "form": 0
-          },
-          {
-            "id": 52,
             "template": "MEOWTH_NORMAL",
             "form": 63
           },
@@ -1426,11 +1161,6 @@
           {
             "id": 217,
             "template": "URSARING",
-            "form": 0
-          },
-          {
-            "id": 234,
-            "template": "STANTLER",
             "form": 0
           },
           {
@@ -1460,25 +1190,14 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1
+        0
       ],
       "team": [
         [
           {
-            "id": 109,
-            "template": "KOFFING",
-            "form": 0
-          },
-          {
             "id": 215,
             "template": "SNEASEL_HISUIAN",
             "form": 2794
-          },
-          {
-            "id": 453,
-            "template": "CROAGUNK",
-            "form": 0
           },
           {
             "id": 590,
@@ -1568,16 +1287,6 @@
       "team": [
         [
           {
-            "id": 79,
-            "template": "SLOWPOKE",
-            "form": 0
-          },
-          {
-            "id": 202,
-            "template": "WOBBUFFET",
-            "form": 0
-          },
-          {
             "id": 574,
             "template": "GOTHITA",
             "form": 0
@@ -1591,23 +1300,8 @@
         [
           {
             "id": 202,
-            "template": "WOBBUFFET",
-            "form": 0
-          },
-          {
-            "id": 202,
             "template": "WOBBUFFET_NORMAL",
             "form": 602
-          },
-          {
-            "id": 203,
-            "template": "GIRAFARIG",
-            "form": 0
-          },
-          {
-            "id": 280,
-            "template": "RALTS",
-            "form": 0
           },
           {
             "id": 280,
@@ -1622,24 +1316,9 @@
         ],
         [
           {
-            "id": 65,
-            "template": "ALAKAZAM",
-            "form": 0
-          },
-          {
-            "id": 376,
-            "template": "METAGROSS",
-            "form": 0
-          },
-          {
             "id": 376,
             "template": "METAGROSS_NORMAL",
             "form": 770
-          },
-          {
-            "id": 475,
-            "template": "GALLADE",
-            "form": 0
           },
           {
             "id": 475,
@@ -1684,16 +1363,10 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1
+        0
       ],
       "team": [
         [
-          {
-            "id": 95,
-            "template": "ONIX",
-            "form": 0
-          },
           {
             "id": 95,
             "template": "ONIX_NORMAL",
@@ -1768,16 +1441,6 @@
             "id": 158,
             "template": "TOTODILE_NORMAL",
             "form": 1136
-          },
-          {
-            "id": 339,
-            "template": "BARBOACH",
-            "form": 0
-          },
-          {
-            "id": 341,
-            "template": "CORPHISH",
-            "form": 0
           },
           {
             "id": 393,
@@ -2264,11 +1927,6 @@
         [
           {
             "id": 200,
-            "template": "MISDREAVUS",
-            "form": 0
-          },
-          {
-            "id": 200,
             "template": "MISDREAVUS_NORMAL",
             "form": 719
           },
@@ -2303,11 +1961,6 @@
         [
           {
             "id": 94,
-            "template": "GENGAR",
-            "form": 0
-          },
-          {
-            "id": 94,
             "template": "GENGAR_NORMAL",
             "form": 1044
           },
@@ -2319,11 +1972,6 @@
           {
             "id": 478,
             "template": "FROSLASS",
-            "form": 0
-          },
-          {
-            "id": 623,
-            "template": "GOLURK",
             "form": 0
           }
         ]
@@ -2368,11 +2016,6 @@
             "id": 74,
             "template": "GEODUDE_ALOLA",
             "form": 68
-          },
-          {
-            "id": 100,
-            "template": "VOLTORB",
-            "form": 0
           },
           {
             "id": 100,
