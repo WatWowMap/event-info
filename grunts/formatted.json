@@ -1478,11 +1478,6 @@
           "id": 331,
           "template": "CACNEA_NORMAL",
           "form": 610
-        },
-        {
-          "id": 371,
-          "template": "BAGON",
-          "form": 0
         }
       ],
       "second": [
@@ -1490,11 +1485,6 @@
           "id": 6,
           "template": "CHARIZARD_NORMAL",
           "form": 178
-        },
-        {
-          "id": 97,
-          "template": "HYPNO",
-          "form": 0
         },
         {
           "id": 97,
@@ -1538,11 +1528,6 @@
     "encounters": {
       "first": [
         {
-          "id": 72,
-          "template": "TENTACOOL",
-          "form": 0
-        },
-        {
           "id": 328,
           "template": "TRAPINCH_NORMAL",
           "form": 746
@@ -1561,11 +1546,6 @@
         },
         {
           "id": 430,
-          "template": "HONCHKROW",
-          "form": 0
-        },
-        {
-          "id": 430,
           "template": "HONCHKROW_NORMAL",
           "form": 858
         }
@@ -1580,11 +1560,6 @@
           "id": 71,
           "template": "VICTREEBEL_NORMAL",
           "form": 670
-        },
-        {
-          "id": 229,
-          "template": "HOUNDOOM",
-          "form": 0
         },
         {
           "id": 229,
