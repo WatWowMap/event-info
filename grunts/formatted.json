@@ -1422,11 +1422,6 @@
     "encounters": {
       "first": [
         {
-          "id": 41,
-          "template": "ZUBAT",
-          "form": 0
-        },
-        {
           "id": 66,
           "template": "MACHOP_NORMAL",
           "form": 809
@@ -1437,11 +1432,6 @@
           "id": 142,
           "template": "AERODACTYL_NORMAL",
           "form": 1110
-        },
-        {
-          "id": 230,
-          "template": "KINGDRA",
-          "form": 0
         },
         {
           "id": 230,
@@ -1463,11 +1453,6 @@
         {
           "id": 248,
           "template": "TYRANITAR",
-          "form": 0
-        },
-        {
-          "id": 346,
-          "template": "CRADILY",
           "form": 0
         },
         {
@@ -1501,11 +1486,6 @@
         }
       ],
       "second": [
-        {
-          "id": 6,
-          "template": "CHARIZARD",
-          "form": 0
-        },
         {
           "id": 6,
           "template": "CHARIZARD_NORMAL",
@@ -1571,11 +1551,6 @@
       "second": [
         {
           "id": 302,
-          "template": "SABLEYE",
-          "form": 0
-        },
-        {
-          "id": 302,
           "template": "SABLEYE_NORMAL",
           "form": 923
         },
@@ -1598,18 +1573,8 @@
       "third": [
         {
           "id": 65,
-          "template": "ALAKAZAM",
-          "form": 0
-        },
-        {
-          "id": 65,
           "template": "ALAKAZAM_NORMAL",
           "form": 310
-        },
-        {
-          "id": 71,
-          "template": "VICTREEBEL",
-          "form": 0
         },
         {
           "id": 71,
