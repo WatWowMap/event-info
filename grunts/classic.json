@@ -1680,11 +1680,6 @@
           },
           {
             "id": 373,
-            "template": "SALAMENCE",
-            "form": 0
-          },
-          {
-            "id": 373,
             "template": "SALAMENCE_NORMAL",
             "form": 761
           }
