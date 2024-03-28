@@ -1435,11 +1435,6 @@
       "second": [
         {
           "id": 142,
-          "template": "AERODACTYL",
-          "form": 0
-        },
-        {
-          "id": 142,
           "template": "AERODACTYL_NORMAL",
           "form": 1110
         },
