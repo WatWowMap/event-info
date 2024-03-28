@@ -1593,11 +1593,6 @@
         [
           {
             "id": 169,
-            "template": "CROBAT",
-            "form": 0
-          },
-          {
-            "id": 169,
             "template": "CROBAT_NORMAL",
             "form": 202
           },
