@@ -1515,6 +1515,11 @@
             "id": 129,
             "template": "MAGIKARP",
             "form": 0
+          },
+          {
+            "id": 130,
+            "template": "GYARADOS",
+            "form": 0
           }
         ]
       ]
