@@ -145,6 +145,11 @@
             "form": 0
           },
           {
+            "id": 143,
+            "template": "SNORLAX",
+            "form": 0
+          },
+          {
             "id": 282,
             "template": "GARDEVOIR",
             "form": 0
@@ -1509,6 +1514,11 @@
           {
             "id": 129,
             "template": "MAGIKARP",
+            "form": 0
+          },
+          {
+            "id": 130,
+            "template": "GYARADOS",
             "form": 0
           }
         ]
