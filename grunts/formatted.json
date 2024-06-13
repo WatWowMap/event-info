@@ -1540,12 +1540,27 @@
           "form": 923
         },
         {
+          "id": 350,
+          "template": "MILOTIC",
+          "form": 0
+        },
+        {
           "id": 430,
           "template": "HONCHKROW_NORMAL",
           "form": 858
         }
       ],
       "third": [
+        {
+          "id": 65,
+          "template": "ALAKAZAM_NORMAL",
+          "form": 310
+        },
+        {
+          "id": 71,
+          "template": "VICTREEBEL_NORMAL",
+          "form": 670
+        },
         {
           "id": 229,
           "template": "HOUNDOOM_NORMAL",
