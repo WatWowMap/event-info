@@ -1,5 +1,7 @@
 {
-  "regionals": [],
+  "regionals": [
+    null
+  ],
   "dittos": [
     43,
     109,
