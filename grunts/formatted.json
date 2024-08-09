@@ -71,53 +71,53 @@
     "encounters": {
       "first": [
         {
-          "id": 252,
-          "template": "TREECKO",
-          "form": 0
+          "id": 152,
+          "form": 0,
+          "template": "CHIKORITA_NORMAL"
         },
         {
-          "id": 255,
-          "template": "TORCHIC_NORMAL",
-          "form": 1358
+          "id": 155,
+          "form": 0,
+          "template": "CYNDAQUIL_NORMAL"
         },
         {
-          "id": 258,
-          "template": "MUDKIP_NORMAL",
-          "form": 205
+          "id": 158,
+          "form": 0,
+          "template": "TOTODILE_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 253,
-          "template": "GROVYLE",
-          "form": 0
+          "id": 153,
+          "form": 0,
+          "template": "BAYLEEF_NORMAL"
         },
         {
-          "id": 256,
-          "template": "COMBUSKEN_NORMAL",
-          "form": 1361
+          "id": 156,
+          "form": 0,
+          "template": "QUILAVA_NORMAL"
         },
         {
-          "id": 259,
-          "template": "MARSHTOMP_NORMAL",
-          "form": 208
+          "id": 159,
+          "form": 0,
+          "template": "CROCONAW_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 254,
-          "template": "SCEPTILE",
-          "form": 0
+          "id": 154,
+          "form": 0,
+          "template": "MEGANIUM_NORMAL"
         },
         {
-          "id": 257,
-          "template": "BLAZIKEN",
-          "form": 0
+          "id": 157,
+          "form": 0,
+          "template": "TYPHLOSION_NORMAL"
         },
         {
-          "id": 260,
-          "template": "SWAMPERT",
-          "form": 0
+          "id": 160,
+          "form": 0,
+          "template": "FERALIGATR_NORMAL"
         }
       ]
     }
@@ -135,42 +135,42 @@
       "first": [
         {
           "id": 143,
-          "template": "SNORLAX",
-          "form": 0
+          "form": 0,
+          "template": "SNORLAX_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 62,
-          "template": "POLIWRATH",
-          "form": 0
+          "id": 143,
+          "form": 0,
+          "template": "SNORLAX_NORMAL"
         },
         {
-          "id": 143,
-          "template": "SNORLAX",
-          "form": 0
+          "id": 62,
+          "form": 0,
+          "template": "POLIWRATH_NORMAL"
         },
         {
           "id": 282,
-          "template": "GARDEVOIR",
-          "form": 0
+          "form": 0,
+          "template": "GARDEVOIR_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 130,
-          "template": "GYARADOS",
-          "form": 0
+          "id": 143,
+          "form": 0,
+          "template": "SNORLAX_NORMAL"
         },
         {
-          "id": 143,
-          "template": "SNORLAX",
-          "form": 0
+          "id": 130,
+          "form": 0,
+          "template": "GYARADOS_NORMAL"
         },
         {
           "id": 149,
-          "template": "DRAGONITE",
-          "form": 0
+          "form": 0,
+          "template": "DRAGONITE_NORMAL"
         }
       ]
     }
@@ -202,53 +202,53 @@
     "encounters": {
       "first": [
         {
-          "id": 123,
-          "template": "SCYTHER_NORMAL",
-          "form": 247
-        },
-        {
           "id": 213,
-          "template": "SHUCKLE_NORMAL",
-          "form": 827
+          "form": 0,
+          "template": "SHUCKLE_NORMAL"
         },
         {
           "id": 557,
-          "template": "DWEBBLE",
-          "form": 0
+          "form": 0,
+          "template": "DWEBBLE"
+        },
+        {
+          "id": 123,
+          "form": 0,
+          "template": "SCYTHER_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 13,
-          "template": "WEEDLE",
-          "form": 0
+          "id": 213,
+          "form": 0,
+          "template": "SHUCKLE_NORMAL"
         },
         {
-          "id": 213,
-          "template": "SHUCKLE_NORMAL",
-          "form": 827
+          "id": 347,
+          "form": 0,
+          "template": "ANORITH_NORMAL"
         },
         {
           "id": 451,
-          "template": "SKORUPI_NORMAL",
-          "form": 1796
+          "form": 0,
+          "template": "SKORUPI_NORMAL"
         }
       ],
       "third": [
         {
+          "id": 212,
+          "form": 0,
+          "template": "SCIZOR_NORMAL"
+        },
+        {
           "id": 15,
-          "template": "BEEDRILL",
-          "form": 0
+          "form": 0,
+          "template": "BEEDRILL_NORMAL"
         },
         {
           "id": 205,
-          "template": "FORRETRESS",
-          "form": 0
-        },
-        {
-          "id": 212,
-          "template": "SCIZOR",
-          "form": 0
+          "form": 0,
+          "template": "FORRETRESS_NORMAL"
         }
       ]
     }
@@ -296,42 +296,42 @@
       "first": [
         {
           "id": 19,
-          "template": "RATTATA_ALOLA",
-          "form": 46
+          "form": 46,
+          "template": "RATTATA_ALOLA"
         },
         {
           "id": 228,
-          "template": "HOUNDOUR_NORMAL",
-          "form": 229
+          "form": 0,
+          "template": "HOUNDOUR_NORMAL"
         },
         {
           "id": 434,
-          "template": "STUNKY_NORMAL",
-          "form": 791
+          "form": 0,
+          "template": "STUNKY_NORMAL"
         }
       ],
       "second": [
         {
           "id": 20,
-          "template": "RATICATE_ALOLA",
-          "form": 48
+          "form": 48,
+          "template": "RATICATE_ALOLA"
         },
         {
           "id": 89,
-          "template": "MUK_ALOLA",
-          "form": 76
+          "form": 76,
+          "template": "MUK_ALOLA"
         }
       ],
       "third": [
         {
           "id": 89,
-          "template": "MUK_ALOLA",
-          "form": 76
+          "form": 76,
+          "template": "MUK_ALOLA"
         },
         {
           "id": 435,
-          "template": "SKUNTANK_NORMAL",
-          "form": 794
+          "form": 0,
+          "template": "SKUNTANK_NORMAL"
         }
       ]
     }
@@ -364,52 +364,47 @@
       "first": [
         {
           "id": 147,
-          "template": "DRATINI_NORMAL",
-          "form": 190
-        },
-        {
-          "id": 371,
-          "template": "BAGON_NORMAL",
-          "form": 755
+          "form": 0,
+          "template": "DRATINI_NORMAL"
         },
         {
           "id": 443,
-          "template": "GIBLE",
-          "form": 0
+          "form": 0,
+          "template": "GIBLE_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 103,
-          "template": "EXEGGUTOR_ALOLA",
-          "form": 78
+          "id": 148,
+          "form": 0,
+          "template": "DRAGONAIR_NORMAL"
         },
         {
-          "id": 148,
-          "template": "DRAGONAIR",
-          "form": 0
+          "id": 103,
+          "form": 78,
+          "template": "EXEGGUTOR_ALOLA"
         },
         {
           "id": 444,
-          "template": "GABITE_NORMAL",
-          "form": 864
+          "form": 0,
+          "template": "GABITE_NORMAL"
         }
       ],
       "third": [
         {
           "id": 149,
-          "template": "DRAGONITE",
-          "form": 0
-        },
-        {
-          "id": 373,
-          "template": "SALAMENCE_NORMAL",
-          "form": 761
+          "form": 0,
+          "template": "DRAGONITE_NORMAL"
         },
         {
           "id": 445,
-          "template": "GARCHOMP_NORMAL",
-          "form": 867
+          "form": 0,
+          "template": "GARCHOMP_NORMAL"
+        },
+        {
+          "id": 373,
+          "form": 0,
+          "template": "SALAMENCE_NORMAL"
         }
       ]
     }
@@ -442,52 +437,52 @@
       "first": [
         {
           "id": 37,
-          "template": "VULPIX_ALOLA",
-          "form": 56
+          "form": 56,
+          "template": "VULPIX_ALOLA"
         },
         {
           "id": 280,
-          "template": "RALTS",
-          "form": 0
+          "form": 0,
+          "template": "RALTS_NORMAL"
         },
         {
           "id": 303,
-          "template": "MAWILE",
-          "form": 0
+          "form": 0,
+          "template": "MAWILE_NORMAL"
         }
       ],
       "second": [
         {
           "id": 209,
-          "template": "SNUBBULL",
-          "form": 0
-        },
-        {
-          "id": 210,
-          "template": "GRANBULL",
-          "form": 0
+          "form": 0,
+          "template": "SNUBBULL_NORMAL"
         },
         {
           "id": 281,
-          "template": "KIRLIA",
-          "form": 0
+          "form": 0,
+          "template": "KIRLIA_NORMAL"
+        },
+        {
+          "id": 210,
+          "form": 0,
+          "template": "GRANBULL_NORMAL"
         }
       ],
       "third": [
         {
           "id": 38,
-          "template": "NINETALES_ALOLA",
-          "form": 58
-        },
-        {
-          "id": 210,
-          "template": "GRANBULL",
-          "form": 0
+          "form": 58,
+          "template": "NINETALES_ALOLA"
         },
         {
           "id": 282,
-          "template": "GARDEVOIR_NORMAL",
-          "form": 298
+          "form": 0,
+          "template": "GARDEVOIR_NORMAL"
+        },
+        {
+          "id": 210,
+          "form": 0,
+          "template": "GRANBULL_NORMAL"
         }
       ]
     }
@@ -520,52 +515,52 @@
       "first": [
         {
           "id": 66,
-          "template": "MACHOP_NORMAL",
-          "form": 809
-        },
-        {
-          "id": 215,
-          "template": "SNEASEL_HISUIAN",
-          "form": 2794
+          "form": 0,
+          "template": "MACHOP_NORMAL"
         },
         {
           "id": 296,
-          "template": "MAKUHITA_NORMAL",
-          "form": 1451
+          "form": 0,
+          "template": "MAKUHITA_NORMAL"
+        },
+        {
+          "id": 532,
+          "form": 0,
+          "template": "TIMBURR"
         }
       ],
       "second": [
         {
           "id": 106,
-          "template": "HITMONLEE",
-          "form": 0
+          "form": 0,
+          "template": "HITMONLEE_NORMAL"
         },
         {
           "id": 107,
-          "template": "HITMONCHAN",
-          "form": 0
+          "form": 0,
+          "template": "HITMONCHAN_NORMAL"
         },
         {
-          "id": 237,
-          "template": "HITMONTOP",
-          "form": 0
+          "id": 533,
+          "form": 0,
+          "template": "GURDURR"
         }
       ],
       "third": [
         {
-          "id": 68,
-          "template": "MACHAMP_NORMAL",
-          "form": 815
+          "id": 454,
+          "form": 0,
+          "template": "TOXICROAK"
         },
         {
           "id": 392,
-          "template": "INFERNAPE_NORMAL",
-          "form": 824
+          "form": 0,
+          "template": "INFERNAPE_NORMAL"
         },
         {
-          "id": 454,
-          "template": "TOXICROAK",
-          "form": 0
+          "id": 534,
+          "form": 0,
+          "template": "CONKELDURR"
         }
       ]
     }
@@ -597,43 +592,43 @@
     "encounters": {
       "first": [
         {
-          "id": 390,
-          "template": "CHIMCHAR_NORMAL",
-          "form": 818
+          "id": 155,
+          "form": 0,
+          "template": "CYNDAQUIL_NORMAL"
         },
         {
           "id": 554,
-          "template": "DARUMAKA_NORMAL",
-          "form": 2063
+          "form": 0,
+          "template": "DARUMAKA_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 229,
-          "template": "HOUNDOOM_NORMAL",
-          "form": 232
+          "id": 156,
+          "form": 0,
+          "template": "QUILAVA_NORMAL"
         },
         {
-          "id": 391,
-          "template": "MONFERNO_NORMAL",
-          "form": 821
+          "id": 229,
+          "form": 0,
+          "template": "HOUNDOOM_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 229,
-          "template": "HOUNDOOM_NORMAL",
-          "form": 232
-        },
-        {
-          "id": 392,
-          "template": "INFERNAPE_NORMAL",
-          "form": 824
+          "id": 157,
+          "form": 0,
+          "template": "TYPHLOSION_NORMAL"
         },
         {
           "id": 555,
-          "template": "DARMANITAN_STANDARD",
-          "form": 138
+          "form": 138,
+          "template": "DARMANITAN_STANDARD"
+        },
+        {
+          "id": 229,
+          "form": 0,
+          "template": "HOUNDOOM_NORMAL"
         }
       ]
     }
@@ -666,42 +661,47 @@
       "first": [
         {
           "id": 16,
-          "template": "PIDGEY",
-          "form": 0
+          "form": 0,
+          "template": "PIDGEY"
         },
         {
           "id": 396,
-          "template": "STARLY_NORMAL",
-          "form": 1658
+          "form": 0,
+          "template": "STARLY_NORMAL"
+        },
+        {
+          "id": 566,
+          "form": 0,
+          "template": "ARCHEN"
         }
       ],
       "second": [
         {
           "id": 207,
-          "template": "GLIGAR_NORMAL",
-          "form": 803
+          "form": 0,
+          "template": "GLIGAR_NORMAL"
         },
         {
           "id": 397,
-          "template": "STARAVIA",
-          "form": 0
+          "form": 0,
+          "template": "STARAVIA_NORMAL"
         }
       ],
       "third": [
         {
           "id": 18,
-          "template": "PIDGEOT",
-          "form": 0
+          "form": 0,
+          "template": "PIDGEOT"
         },
         {
           "id": 149,
-          "template": "DRAGONITE",
-          "form": 0
+          "form": 0,
+          "template": "DRAGONITE_NORMAL"
         },
         {
-          "id": 227,
-          "template": "SKARMORY_NORMAL",
-          "form": 1295
+          "id": 567,
+          "form": 0,
+          "template": "ARCHEOPS"
         }
       ]
     }
@@ -748,43 +748,48 @@
     "encounters": {
       "first": [
         {
-          "id": 387,
-          "template": "TURTWIG_NORMAL",
-          "form": 688
+          "id": 152,
+          "form": 0,
+          "template": "CHIKORITA_NORMAL"
         },
         {
           "id": 459,
-          "template": "SNOVER_NORMAL",
-          "form": 932
+          "form": 0,
+          "template": "SNOVER_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 388,
-          "template": "GROTLE_NORMAL",
-          "form": 691
+          "id": 153,
+          "form": 0,
+          "template": "BAYLEEF_NORMAL"
         },
         {
           "id": 598,
-          "template": "FERROTHORN",
-          "form": 0
+          "form": 0,
+          "template": "FERROTHORN"
+        },
+        {
+          "id": 345,
+          "form": 0,
+          "template": "LILEEP_NORMAL"
         }
       ],
       "third": [
         {
           "id": 154,
-          "template": "MEGANIUM_NORMAL",
-          "form": 1124
+          "form": 0,
+          "template": "MEGANIUM_NORMAL"
         },
         {
           "id": 332,
-          "template": "CACTURNE",
-          "form": 0
+          "form": 0,
+          "template": "CACTURNE_NORMAL"
         },
         {
-          "id": 389,
-          "template": "TORTERRA_NORMAL",
-          "form": 694
+          "id": 45,
+          "form": 0,
+          "template": "VILEPLUME_NORMAL"
         }
       ]
     }
@@ -817,42 +822,47 @@
       "first": [
         {
           "id": 50,
-          "template": "DIGLETT_ALOLA",
-          "form": 60
+          "form": 60,
+          "template": "DIGLETT_ALOLA"
         },
         {
           "id": 194,
-          "template": "WOOPER",
-          "form": 0
+          "form": 0,
+          "template": "WOOPER_NORMAL"
         },
         {
           "id": 529,
-          "template": "DRILBUR",
-          "form": 0
+          "form": 0,
+          "template": "DRILBUR"
         }
       ],
       "second": [
         {
           "id": 111,
-          "template": "RHYHORN_NORMAL",
-          "form": 846
+          "form": 0,
+          "template": "RHYHORN_NORMAL"
+        },
+        {
+          "id": 329,
+          "form": 0,
+          "template": "VIBRAVA_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 195,
-          "template": "QUAGSIRE_NORMAL",
-          "form": 1229
+          "id": 389,
+          "form": 0,
+          "template": "TORTERRA_NORMAL"
+        },
+        {
+          "id": 330,
+          "form": 0,
+          "template": "FLYGON_NORMAL"
         },
         {
           "id": 340,
-          "template": "WHISCASH",
-          "form": 0
-        },
-        {
-          "id": 389,
-          "template": "TORTERRA_NORMAL",
-          "form": 694
+          "form": 0,
+          "template": "WHISCASH"
         }
       ]
     }
@@ -870,47 +880,52 @@
       "first": [
         {
           "id": 220,
-          "template": "SWINUB",
-          "form": 0
+          "form": 0,
+          "template": "SWINUB_NORMAL"
         },
         {
-          "id": 361,
-          "template": "SNORUNT",
-          "form": 0
+          "id": 27,
+          "form": 52,
+          "template": "SANDSHREW_ALOLA"
+        },
+        {
+          "id": 459,
+          "form": 0,
+          "template": "SNOVER_NORMAL"
         }
       ],
       "second": [
         {
           "id": 38,
-          "template": "NINETALES_ALOLA",
-          "form": 58
+          "form": 58,
+          "template": "NINETALES_ALOLA"
         },
         {
           "id": 362,
-          "template": "GLALIE",
-          "form": 0
+          "form": 0,
+          "template": "GLALIE"
         },
         {
           "id": 478,
-          "template": "FROSLASS",
-          "form": 0
+          "form": 0,
+          "template": "FROSLASS"
         }
       ],
       "third": [
         {
-          "id": 362,
-          "template": "GLALIE",
-          "form": 0
+          "id": 460,
+          "form": 0,
+          "template": "ABOMASNOW_NORMAL"
         },
         {
-          "id": 460,
-          "template": "ABOMASNOW",
-          "form": 0
+          "id": 362,
+          "form": 0,
+          "template": "GLALIE"
         },
         {
           "id": 478,
-          "template": "FROSLASS",
-          "form": 0
+          "form": 0,
+          "template": "FROSLASS"
         }
       ]
     }
@@ -958,52 +973,52 @@
       "first": [
         {
           "id": 27,
-          "template": "SANDSHREW_ALOLA",
-          "form": 52
+          "form": 52,
+          "template": "SANDSHREW_ALOLA"
         },
         {
           "id": 227,
-          "template": "SKARMORY_NORMAL",
-          "form": 1295
+          "form": 0,
+          "template": "SKARMORY_NORMAL"
         },
         {
           "id": 597,
-          "template": "FERROSEED",
-          "form": 0
+          "form": 0,
+          "template": "FERROSEED"
         }
       ],
       "second": [
         {
-          "id": 227,
-          "template": "SKARMORY_NORMAL",
-          "form": 1295
+          "id": 305,
+          "form": 0,
+          "template": "LAIRON_NORMAL"
         },
         {
-          "id": 305,
-          "template": "LAIRON",
-          "form": 0
+          "id": 227,
+          "form": 0,
+          "template": "SKARMORY_NORMAL"
         },
         {
           "id": 375,
-          "template": "METANG",
-          "form": 0
+          "form": 0,
+          "template": "METANG_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 28,
-          "template": "SANDSLASH_ALOLA",
-          "form": 54
+          "id": 212,
+          "form": 0,
+          "template": "SCIZOR_NORMAL"
         },
         {
-          "id": 212,
-          "template": "SCIZOR",
-          "form": 0
+          "id": 28,
+          "form": 54,
+          "template": "SANDSLASH_ALOLA"
         },
         {
           "id": 395,
-          "template": "EMPOLEON",
-          "form": 0
+          "form": 0,
+          "template": "EMPOLEON"
         }
       ]
     }
@@ -1029,59 +1044,59 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_NORMAL_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
         {
           "id": 216,
-          "template": "TEDDIURSA_NORMAL",
-          "form": 1265
+          "form": 0,
+          "template": "TEDDIURSA_NORMAL"
         },
         {
           "id": 234,
-          "template": "STANTLER_NORMAL",
-          "form": 941
+          "form": 0,
+          "template": "STANTLER_NORMAL"
         },
         {
           "id": 431,
-          "template": "GLAMEOW",
-          "form": 0
+          "form": 0,
+          "template": "GLAMEOW"
         }
       ],
       "second": [
         {
           "id": 19,
-          "template": "RATTATA",
-          "form": 0
+          "form": 0,
+          "template": "RATTATA_NORMAL"
         },
         {
           "id": 52,
-          "template": "MEOWTH_NORMAL",
-          "form": 63
+          "form": 0,
+          "template": "MEOWTH_NORMAL"
         },
         {
           "id": 432,
-          "template": "PURUGLY",
-          "form": 0
+          "form": 0,
+          "template": "PURUGLY"
         }
       ],
       "third": [
         {
           "id": 217,
-          "template": "URSARING",
-          "form": 0
+          "form": 0,
+          "template": "URSARING_NORMAL"
         },
         {
           "id": 234,
-          "template": "STANTLER_NORMAL",
-          "form": 941
+          "form": 0,
+          "template": "STANTLER_NORMAL"
         },
         {
-          "id": 400,
-          "template": "BIBAREL",
-          "form": 0
+          "id": 295,
+          "form": 0,
+          "template": "EXPLOUD_NORMAL"
         }
       ]
     }
@@ -1098,43 +1113,43 @@
     "encounters": {
       "first": [
         {
-          "id": 215,
-          "template": "SNEASEL_HISUIAN",
-          "form": 2794
+          "id": 453,
+          "form": 0,
+          "template": "CROAGUNK"
         },
         {
-          "id": 590,
-          "template": "FOONGUS",
-          "form": 0
+          "id": 215,
+          "form": 2794,
+          "template": "SNEASEL_HISUIAN"
         }
       ],
       "second": [
         {
           "id": 30,
-          "template": "NIDORINA",
-          "form": 0
+          "form": 0,
+          "template": "NIDORINA_NORMAL"
         },
         {
           "id": 33,
-          "template": "NIDORINO",
-          "form": 0
+          "form": 0,
+          "template": "NIDORINO_NORMAL"
         }
       ],
       "third": [
         {
           "id": 110,
-          "template": "WEEZING",
-          "form": 0
+          "form": 0,
+          "template": "WEEZING_NORMAL"
         },
         {
           "id": 454,
-          "template": "TOXICROAK",
-          "form": 0
+          "form": 0,
+          "template": "TOXICROAK"
         },
         {
           "id": 591,
-          "template": "AMOONGUSS",
-          "form": 0
+          "form": 0,
+          "template": "AMOONGUSS"
         }
       ]
     }
@@ -1182,47 +1197,47 @@
       "first": [
         {
           "id": 574,
-          "template": "GOTHITA",
-          "form": 0
+          "form": 0,
+          "template": "GOTHITA"
         },
         {
           "id": 577,
-          "template": "SOLOSIS",
-          "form": 0
+          "form": 0,
+          "template": "SOLOSIS"
         }
       ],
       "second": [
         {
-          "id": 202,
-          "template": "WOBBUFFET_NORMAL",
-          "form": 602
-        },
-        {
           "id": 280,
-          "template": "RALTS_NORMAL",
-          "form": 292
+          "form": 0,
+          "template": "RALTS_NORMAL"
         },
         {
-          "id": 575,
-          "template": "GOTHORITA",
-          "form": 0
+          "id": 574,
+          "form": 0,
+          "template": "GOTHITA"
+        },
+        {
+          "id": 202,
+          "form": 0,
+          "template": "WOBBUFFET_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 376,
-          "template": "METAGROSS_NORMAL",
-          "form": 770
-        },
-        {
           "id": 475,
-          "template": "GALLADE_NORMAL",
-          "form": 301
+          "form": 0,
+          "template": "GALLADE_NORMAL"
         },
         {
           "id": 579,
-          "template": "REUNICLUS",
-          "form": 0
+          "form": 0,
+          "template": "REUNICLUS"
+        },
+        {
+          "id": 376,
+          "form": 0,
+          "template": "METAGROSS_NORMAL"
         }
       ]
     }
@@ -1254,53 +1269,48 @@
     "encounters": {
       "first": [
         {
-          "id": 95,
-          "template": "ONIX_NORMAL",
-          "form": 902
+          "id": 566,
+          "form": 0,
+          "template": "ARCHEN"
         },
         {
-          "id": 408,
-          "template": "CRANIDOS",
-          "form": 0
-        },
-        {
-          "id": 410,
-          "template": "SHIELDON",
-          "form": 0
+          "id": 564,
+          "form": 0,
+          "template": "TIRTOUGA"
         }
       ],
       "second": [
         {
-          "id": 75,
-          "template": "GRAVELER",
-          "form": 0
+          "id": 347,
+          "form": 0,
+          "template": "ANORITH_NORMAL"
         },
         {
           "id": 345,
-          "template": "LILEEP",
-          "form": 0
+          "form": 0,
+          "template": "LILEEP_NORMAL"
         },
         {
-          "id": 347,
-          "template": "ANORITH",
-          "form": 0
+          "id": 75,
+          "form": 0,
+          "template": "GRAVELER_NORMAL"
         }
       ],
       "third": [
         {
+          "id": 567,
+          "form": 0,
+          "template": "ARCHEOPS"
+        },
+        {
+          "id": 565,
+          "form": 0,
+          "template": "CARRACOSTA"
+        },
+        {
           "id": 76,
-          "template": "GOLEM",
-          "form": 0
-        },
-        {
-          "id": 409,
-          "template": "RAMPARDOS",
-          "form": 0
-        },
-        {
-          "id": 411,
-          "template": "BASTIODON",
-          "form": 0
+          "form": 0,
+          "template": "GOLEM_NORMAL"
         }
       ]
     }
@@ -1318,42 +1328,47 @@
       "first": [
         {
           "id": 158,
-          "template": "TOTODILE_NORMAL",
-          "form": 1136
+          "form": 0,
+          "template": "TOTODILE_NORMAL"
         },
         {
-          "id": 393,
-          "template": "PIPLUP",
-          "form": 0
+          "id": 138,
+          "form": 0,
+          "template": "OMANYTE_NORMAL"
+        },
+        {
+          "id": 564,
+          "form": 0,
+          "template": "TIRTOUGA"
         }
       ],
       "second": [
         {
-          "id": 342,
-          "template": "CRAWDAUNT",
-          "form": 0
+          "id": 159,
+          "form": 0,
+          "template": "CROCONAW_NORMAL"
         },
         {
-          "id": 394,
-          "template": "PRINPLUP",
-          "form": 0
+          "id": 342,
+          "form": 0,
+          "template": "CRAWDAUNT"
         }
       ],
       "third": [
         {
-          "id": 321,
-          "template": "WAILORD",
-          "form": 0
+          "id": 160,
+          "form": 0,
+          "template": "FERALIGATR_NORMAL"
         },
         {
           "id": 340,
-          "template": "WHISCASH",
-          "form": 0
+          "form": 0,
+          "template": "WHISCASH"
         },
         {
-          "id": 395,
-          "template": "EMPOLEON",
-          "form": 0
+          "id": 565,
+          "form": 0,
+          "template": "CARRACOSTA"
         }
       ]
     }
@@ -1364,34 +1379,34 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_WATER_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
         {
           "id": 129,
-          "template": "MAGIKARP",
-          "form": 0
+          "form": 0,
+          "template": "MAGIKARP_NORMAL"
         }
       ],
       "second": [
         {
           "id": 129,
-          "template": "MAGIKARP",
-          "form": 0
+          "form": 0,
+          "template": "MAGIKARP_NORMAL"
         }
       ],
       "third": [
         {
           "id": 129,
-          "template": "MAGIKARP",
-          "form": 0
+          "form": 0,
+          "template": "MAGIKARP_NORMAL"
         },
         {
           "id": 130,
-          "template": "GYARADOS",
-          "form": 0
+          "form": 0,
+          "template": "GYARADOS_NORMAL"
         }
       ]
     }
@@ -1422,43 +1437,43 @@
     "encounters": {
       "first": [
         {
-          "id": 66,
-          "template": "MACHOP_NORMAL",
-          "form": 809
+          "id": 345,
+          "form": 0,
+          "template": "LILEEP_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 142,
-          "template": "AERODACTYL_NORMAL",
-          "form": 1110
+          "id": 105,
+          "form": 0,
+          "template": "MAROWAK_NORMAL"
         },
         {
           "id": 230,
-          "template": "KINGDRA_NORMAL",
-          "form": 1298
+          "form": 0,
+          "template": "KINGDRA_NORMAL"
         },
         {
-          "id": 475,
-          "template": "GALLADE",
-          "form": 0
+          "id": 142,
+          "form": 0,
+          "template": "AERODACTYL_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 169,
-          "template": "CROBAT_NORMAL",
-          "form": 202
-        },
-        {
           "id": 248,
-          "template": "TYRANITAR",
-          "form": 0
+          "form": 0,
+          "template": "TYRANITAR_NORMAL"
         },
         {
           "id": 346,
-          "template": "CRADILY_NORMAL",
-          "form": 1571
+          "form": 0,
+          "template": "CRADILY_NORMAL"
+        },
+        {
+          "id": 169,
+          "form": 0,
+          "template": "CROBAT_NORMAL"
         }
       ]
     }
@@ -1475,43 +1490,43 @@
     "encounters": {
       "first": [
         {
-          "id": 331,
-          "template": "CACNEA_NORMAL",
-          "form": 610
+          "id": 347,
+          "form": 0,
+          "template": "ANORITH_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 6,
-          "template": "CHARIZARD_NORMAL",
-          "form": 178
+          "id": 130,
+          "form": 0,
+          "template": "GYARADOS_NORMAL"
         },
         {
-          "id": 97,
-          "template": "HYPNO_NORMAL",
-          "form": 217
+          "id": 169,
+          "form": 0,
+          "template": "CROBAT_NORMAL"
         },
         {
-          "id": 623,
-          "template": "GOLURK",
-          "form": 0
+          "id": 208,
+          "form": 0,
+          "template": "STEELIX_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 149,
-          "template": "DRAGONITE",
-          "form": 0
+          "id": 282,
+          "form": 0,
+          "template": "GARDEVOIR_NORMAL"
         },
         {
           "id": 212,
-          "template": "SCIZOR",
-          "form": 0
+          "form": 0,
+          "template": "SCIZOR_NORMAL"
         },
         {
-          "id": 373,
-          "template": "SALAMENCE_NORMAL",
-          "form": 761
+          "id": 143,
+          "form": 0,
+          "template": "SNORLAX_NORMAL"
         }
       ]
     }
@@ -1528,43 +1543,43 @@
     "encounters": {
       "first": [
         {
-          "id": 328,
-          "template": "TRAPINCH_NORMAL",
-          "form": 746
+          "id": 318,
+          "form": 0,
+          "template": "CARVANHA_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 302,
-          "template": "SABLEYE_NORMAL",
-          "form": 923
-        },
-        {
           "id": 350,
-          "template": "MILOTIC",
-          "form": 0
+          "form": 0,
+          "template": "MILOTIC"
         },
         {
-          "id": 430,
-          "template": "HONCHKROW_NORMAL",
-          "form": 858
+          "id": 302,
+          "form": 0,
+          "template": "SABLEYE_NORMAL"
+        },
+        {
+          "id": 181,
+          "form": 0,
+          "template": "AMPHAROS_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 65,
-          "template": "ALAKAZAM_NORMAL",
-          "form": 310
-        },
-        {
-          "id": 71,
-          "template": "VICTREEBEL_NORMAL",
-          "form": 670
-        },
-        {
           "id": 229,
-          "template": "HOUNDOOM_NORMAL",
-          "form": 232
+          "form": 0,
+          "template": "HOUNDOOM_NORMAL"
+        },
+        {
+          "id": 31,
+          "form": 0,
+          "template": "NIDOQUEEN_NORMAL"
+        },
+        {
+          "id": 65,
+          "form": 0,
+          "template": "ALAKAZAM_NORMAL"
         }
       ]
     }
@@ -1574,7 +1589,7 @@
     "gender": 0,
     "grunt": "Giovanni",
     "proto": "CHARACTER_GIOVANNI",
-    "active": false,
+    "active": true,
     "secondReward": false,
     "firstReward": false,
     "thirdReward": true,
@@ -1588,26 +1603,26 @@
       ],
       "second": [
         {
+          "id": 430,
+          "form": 0,
+          "template": "HONCHKROW_NORMAL"
+        },
+        {
+          "id": 115,
+          "form": 0,
+          "template": "KANGASKHAN_NORMAL"
+        },
+        {
           "id": 230,
           "form": 0,
           "template": "KINGDRA_NORMAL"
-        },
-        {
-          "id": 445,
-          "form": 0,
-          "template": "GARCHOMP_NORMAL"
-        },
-        {
-          "id": 464,
-          "form": 0,
-          "template": "RHYPERIOR_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 383,
+          "id": 488,
           "form": 0,
-          "template": "GROUDON"
+          "template": "CRESSELIA"
         }
       ]
     }
@@ -1640,32 +1655,32 @@
       "first": [
         {
           "id": 69,
-          "template": "BELLSPROUT",
-          "form": 0
+          "form": 0,
+          "template": "BELLSPROUT_NORMAL"
         }
       ],
       "second": [
         {
           "id": 20,
-          "template": "RATICATE",
-          "form": 0
+          "form": 0,
+          "template": "RATICATE_NORMAL"
         },
         {
           "id": 70,
-          "template": "WEEPINBELL",
-          "form": 0
+          "form": 0,
+          "template": "WEEPINBELL_NORMAL"
         }
       ],
       "third": [
         {
           "id": 20,
-          "template": "RATICATE",
-          "form": 0
+          "form": 0,
+          "template": "RATICATE_NORMAL"
         },
         {
           "id": 143,
-          "template": "SNORLAX",
-          "form": 0
+          "form": 0,
+          "template": "SNORLAX_NORMAL"
         }
       ]
     }
@@ -1698,52 +1713,52 @@
       "first": [
         {
           "id": 200,
-          "template": "MISDREAVUS_NORMAL",
-          "form": 719
+          "form": 0,
+          "template": "MISDREAVUS_NORMAL"
         },
         {
           "id": 425,
-          "template": "DRIFLOON",
-          "form": 0
+          "form": 0,
+          "template": "DRIFLOON"
         },
         {
           "id": 622,
-          "template": "GOLETT",
-          "form": 0
+          "form": 0,
+          "template": "GOLETT"
         }
       ],
       "second": [
         {
-          "id": 354,
-          "template": "BANETTE",
-          "form": 0
+          "id": 356,
+          "form": 0,
+          "template": "DUSCLOPS_NORMAL"
         },
         {
-          "id": 356,
-          "template": "DUSCLOPS",
-          "form": 0
+          "id": 302,
+          "form": 0,
+          "template": "SABLEYE_NORMAL"
         },
         {
           "id": 622,
-          "template": "GOLETT",
-          "form": 0
+          "form": 0,
+          "template": "GOLETT"
         }
       ],
       "third": [
         {
+          "id": 478,
+          "form": 0,
+          "template": "FROSLASS"
+        },
+        {
           "id": 94,
-          "template": "GENGAR_NORMAL",
-          "form": 1044
+          "form": 0,
+          "template": "GENGAR_NORMAL"
         },
         {
           "id": 105,
-          "template": "MAROWAK_ALOLA",
-          "form": 80
-        },
-        {
-          "id": 478,
-          "template": "FROSLASS",
-          "form": 0
+          "form": 80,
+          "template": "MAROWAK_ALOLA"
         }
       ]
     }
@@ -1754,59 +1769,59 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
         {
-          "id": 179,
-          "template": "MAREEP",
-          "form": 0
-        },
-        {
-          "id": 522,
-          "template": "BLITZLE",
-          "form": 0
+          "id": 81,
+          "form": 0,
+          "template": "MAGNEMITE_NORMAL"
         },
         {
           "id": 595,
-          "template": "JOLTIK",
-          "form": 0
+          "form": 0,
+          "template": "JOLTIK"
+        },
+        {
+          "id": 522,
+          "form": 0,
+          "template": "BLITZLE"
         }
       ],
       "second": [
         {
-          "id": 74,
-          "template": "GEODUDE_ALOLA",
-          "form": 68
-        },
-        {
           "id": 100,
-          "template": "VOLTORB_NORMAL",
-          "form": 1047
+          "form": 0,
+          "template": "VOLTORB_NORMAL"
         },
         {
           "id": 125,
-          "template": "ELECTABUZZ_NORMAL",
-          "form": 640
+          "form": 0,
+          "template": "ELECTABUZZ_NORMAL"
+        },
+        {
+          "id": 74,
+          "form": 68,
+          "template": "GEODUDE_ALOLA"
         }
       ],
       "third": [
         {
           "id": 181,
-          "template": "AMPHAROS",
-          "form": 0
+          "form": 0,
+          "template": "AMPHAROS_NORMAL"
         },
         {
           "id": 405,
-          "template": "LUXRAY",
-          "form": 0
+          "form": 0,
+          "template": "LUXRAY"
         },
         {
           "id": 596,
-          "template": "GALVANTULA",
-          "form": 0
+          "form": 0,
+          "template": "GALVANTULA"
         }
       ]
     }
