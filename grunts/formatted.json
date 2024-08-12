@@ -371,6 +371,11 @@
           "id": 443,
           "form": 0,
           "template": "GIBLE_NORMAL"
+        },
+        {
+          "id": 371,
+          "form": 0,
+          "template": "BAGON_NORMAL"
         }
       ],
       "second": [
@@ -966,7 +971,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_METAL_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {

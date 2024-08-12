@@ -399,6 +399,11 @@
             "id": 443,
             "form": 0,
             "template": "GIBLE_NORMAL"
+          },
+          {
+            "id": 371,
+            "form": 0,
+            "template": "BAGON_NORMAL"
           }
         ],
         [
