@@ -851,14 +851,14 @@
           "template": "DRILBUR"
         },
         {
+          "id": 111,
+          "form": 0,
+          "template": "RHYHORN_NORMAL"
+        },
+        {
           "id": 194,
           "form": 0,
           "template": "WOOPER_NORMAL"
-        },
-        {
-          "id": 50,
-          "form": 60,
-          "template": "DIGLETT_ALOLA"
         }
       ],
       "second": [
@@ -909,9 +909,9 @@
     "encounters": {
       "first": [
         {
-          "id": 220,
+          "id": 361,
           "form": 0,
-          "template": "SWINUB_NORMAL"
+          "template": "SNORUNT"
         },
         {
           "id": 215,
