@@ -1298,7 +1298,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
