@@ -289,7 +289,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
