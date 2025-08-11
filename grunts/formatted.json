@@ -207,9 +207,9 @@
           "template": "PINECO_NORMAL"
         },
         {
-          "id": 165,
+          "id": 736,
           "form": 0,
-          "template": "LEDYBA"
+          "template": "GRUBBIN"
         },
         {
           "id": 123,
@@ -670,9 +670,9 @@
     "encounters": {
       "first": [
         {
-          "id": 16,
+          "id": 661,
           "form": 0,
-          "template": "PIDGEY"
+          "template": "FLETCHLING"
         },
         {
           "id": 276,
@@ -680,9 +680,9 @@
           "template": "TAILLOW"
         },
         {
-          "id": 41,
+          "id": 731,
           "form": 0,
-          "template": "ZUBAT_NORMAL"
+          "template": "PIKIPEK"
         }
       ],
       "second": [
@@ -1372,9 +1372,9 @@
           "template": "SPHEAL_NORMAL"
         },
         {
-          "id": 339,
+          "id": 120,
           "form": 0,
-          "template": "BARBOACH"
+          "template": "STARYU"
         }
       ],
       "second": [
@@ -1472,9 +1472,9 @@
     "encounters": {
       "first": [
         {
-          "id": 443,
+          "id": 155,
           "form": 0,
-          "template": "GIBLE_NORMAL"
+          "template": "CYNDAQUIL_NORMAL"
         }
       ],
       "second": [
@@ -1525,9 +1525,9 @@
     "encounters": {
       "first": [
         {
-          "id": 116,
+          "id": 152,
           "form": 0,
-          "template": "HORSEA_NORMAL"
+          "template": "CHIKORITA_NORMAL"
         }
       ],
       "second": [
@@ -1578,9 +1578,9 @@
     "encounters": {
       "first": [
         {
-          "id": 328,
+          "id": 158,
           "form": 0,
-          "template": "TRAPINCH_NORMAL"
+          "template": "TOTODILE_NORMAL"
         }
       ],
       "second": [
@@ -1655,9 +1655,9 @@
       ],
       "third": [
         {
-          "id": 483,
+          "id": 487,
           "form": 0,
-          "template": "DIALGA_NORMAL"
+          "template": "GIRATINA_ALTERED"
         }
       ]
     }
