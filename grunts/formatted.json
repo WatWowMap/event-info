@@ -1379,6 +1379,11 @@
       ],
       "second": [
         {
+          "id": 91,
+          "form": 879,
+          "template": "CLOYSTER_NORMAL"
+        },
+        {
           "id": 502,
           "form": 0,
           "template": "DEWOTT"
