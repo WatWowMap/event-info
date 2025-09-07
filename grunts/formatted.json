@@ -357,7 +357,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DRAGON_GRUNT_FEMALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -485,9 +485,9 @@
           "template": "WEEZING_GALARIAN"
         },
         {
-          "id": 282,
-          "form": 298,
-          "template": "GARDEVOIR_NORMAL"
+          "id": 210,
+          "form": 1256,
+          "template": "GRANBULL_NORMAL"
         }
       ]
     }
@@ -1168,6 +1168,11 @@
           "id": 30,
           "form": 779,
           "template": "NIDORINA_NORMAL"
+        },
+        {
+          "id": 110,
+          "form": 944,
+          "template": "WEEZING_GALARIAN"
         }
       ],
       "third": [
@@ -1298,7 +1303,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
