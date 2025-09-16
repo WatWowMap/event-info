@@ -363,9 +363,9 @@
     "encounters": {
       "first": [
         {
-          "id": 147,
-          "form": 190,
-          "template": "DRATINI_NORMAL"
+          "id": 633,
+          "form": 0,
+          "template": "DEINO"
         },
         {
           "id": 371,
@@ -1085,9 +1085,9 @@
           "template": "SLAKOTH"
         },
         {
-          "id": 399,
-          "form": 1667,
-          "template": "BIDOOF_NORMAL"
+          "id": 333,
+          "form": 0,
+          "template": "SWABLU"
         },
         {
           "id": 659,
@@ -1153,9 +1153,9 @@
           "template": "SKORUPI_NORMAL"
         },
         {
-          "id": 568,
-          "form": 0,
-          "template": "TRUBBISH"
+          "id": 211,
+          "form": 1259,
+          "template": "QWILFISH_NORMAL"
         }
       ],
       "second": [
@@ -1241,9 +1241,9 @@
           "template": "RALTS_NORMAL"
         },
         {
-          "id": 686,
+          "id": 343,
           "form": 0,
-          "template": "INKAY"
+          "template": "BALTOY"
         }
       ],
       "second": [
@@ -1487,9 +1487,9 @@
     "encounters": {
       "first": [
         {
-          "id": 155,
-          "form": 1127,
-          "template": "CYNDAQUIL_NORMAL"
+          "id": 246,
+          "form": 313,
+          "template": "LARVITAR_NORMAL"
         }
       ],
       "second": [
@@ -1540,9 +1540,9 @@
     "encounters": {
       "first": [
         {
-          "id": 152,
-          "form": 1118,
-          "template": "CHIKORITA_NORMAL"
+          "id": 202,
+          "form": 602,
+          "template": "WOBBUFFET_NORMAL"
         }
       ],
       "second": [
@@ -1593,9 +1593,9 @@
     "encounters": {
       "first": [
         {
-          "id": 158,
-          "form": 1136,
-          "template": "TOTODILE_NORMAL"
+          "id": 349,
+          "form": 0,
+          "template": "FEEBAS"
         }
       ],
       "second": [
@@ -1670,9 +1670,9 @@
       ],
       "third": [
         {
-          "id": 487,
-          "form": 90,
-          "template": "GIRATINA_ALTERED"
+          "id": 641,
+          "form": 140,
+          "template": "TORNADUS_INCARNATE"
         }
       ]
     }
