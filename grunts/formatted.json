@@ -857,8 +857,8 @@
         },
         {
           "id": 529,
-          "form": 0,
-          "template": "DRILBUR"
+          "form": 1991,
+          "template": "DRILBUR_NORMAL"
         }
       ],
       "second": [
@@ -1763,8 +1763,8 @@
       "first": [
         {
           "id": 92,
-          "form": 0,
-          "template": "GASTLY"
+          "form": 1038,
+          "template": "GASTLY_NORMAL"
         },
         {
           "id": 622,
@@ -1785,8 +1785,8 @@
         },
         {
           "id": 93,
-          "form": 0,
-          "template": "HAUNTER"
+          "form": 1041,
+          "template": "HAUNTER_NORMAL"
         },
         {
           "id": 302,
