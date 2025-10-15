@@ -233,13 +233,13 @@
         [
           {
             "id": 588,
-            "form": 0,
-            "template": "KARRABLAST"
+            "form": 2156,
+            "template": "KARRABLAST_NORMAL"
           },
           {
             "id": 616,
-            "form": 0,
-            "template": "SHELMET"
+            "form": 2240,
+            "template": "SHELMET_NORMAL"
           },
           {
             "id": 347,
@@ -392,8 +392,8 @@
         [
           {
             "id": 633,
-            "form": 0,
-            "template": "DEINO"
+            "form": 2291,
+            "template": "DEINO_NORMAL"
           },
           {
             "id": 371,
@@ -578,8 +578,8 @@
           },
           {
             "id": 56,
-            "form": 0,
-            "template": "MANKEY"
+            "form": 999,
+            "template": "MANKEY_NORMAL"
           }
         ],
         [
@@ -595,15 +595,15 @@
           },
           {
             "id": 533,
-            "form": 0,
-            "template": "GURDURR"
+            "form": 2003,
+            "template": "GURDURR_NORMAL"
           }
         ],
         [
           {
             "id": 454,
-            "form": 0,
-            "template": "TOXICROAK"
+            "form": 1805,
+            "template": "TOXICROAK_NORMAL"
           },
           {
             "id": 392,
@@ -661,13 +661,13 @@
           },
           {
             "id": 322,
-            "form": 0,
-            "template": "NUMEL"
+            "form": 1517,
+            "template": "NUMEL_NORMAL"
           },
           {
             "id": 498,
-            "form": 0,
-            "template": "TEPIG"
+            "form": 1898,
+            "template": "TEPIG_NORMAL"
           }
         ],
         [
@@ -683,8 +683,8 @@
           },
           {
             "id": 499,
-            "form": 0,
-            "template": "PIGNITE"
+            "form": 1901,
+            "template": "PIGNITE_NORMAL"
           }
         ],
         [
@@ -700,8 +700,8 @@
           },
           {
             "id": 500,
-            "form": 0,
-            "template": "EMBOAR"
+            "form": 1904,
+            "template": "EMBOAR_NORMAL"
           }
         ]
       ]
@@ -749,8 +749,8 @@
           },
           {
             "id": 276,
-            "form": 0,
-            "template": "TAILLOW"
+            "form": 1400,
+            "template": "TAILLOW_NORMAL"
           },
           {
             "id": 731,
@@ -766,8 +766,8 @@
           },
           {
             "id": 277,
-            "form": 0,
-            "template": "SWELLOW"
+            "form": 1403,
+            "template": "SWELLOW_NORMAL"
           },
           {
             "id": 207,
@@ -783,13 +783,13 @@
           },
           {
             "id": 18,
-            "form": 0,
-            "template": "PIDGEOT"
+            "form": 968,
+            "template": "PIDGEOT_NORMAL"
           },
           {
             "id": 567,
-            "form": 0,
-            "template": "ARCHEOPS"
+            "form": 2099,
+            "template": "ARCHEOPS_NORMAL"
           }
         ]
       ]
@@ -858,15 +858,15 @@
           },
           {
             "id": 495,
-            "form": 0,
-            "template": "SNIVY"
+            "form": 1889,
+            "template": "SNIVY_NORMAL"
           }
         ],
         [
           {
             "id": 598,
-            "form": 0,
-            "template": "FERROTHORN"
+            "form": 2186,
+            "template": "FERROTHORN_NORMAL"
           },
           {
             "id": 345,
@@ -875,8 +875,8 @@
           },
           {
             "id": 496,
-            "form": 0,
-            "template": "SERVINE"
+            "form": 1892,
+            "template": "SERVINE_NORMAL"
           }
         ],
         [
@@ -892,8 +892,8 @@
           },
           {
             "id": 497,
-            "form": 0,
-            "template": "SERPERIOR"
+            "form": 1895,
+            "template": "SERPERIOR_NORMAL"
           }
         ]
       ]
@@ -958,8 +958,8 @@
           },
           {
             "id": 232,
-            "form": 0,
-            "template": "DONPHAN"
+            "form": 1304,
+            "template": "DONPHAN_NORMAL"
           },
           {
             "id": 329,
@@ -970,8 +970,8 @@
         [
           {
             "id": 340,
-            "form": 0,
-            "template": "WHISCASH"
+            "form": 1553,
+            "template": "WHISCASH_NORMAL"
           },
           {
             "id": 330,
@@ -1030,8 +1030,8 @@
           },
           {
             "id": 478,
-            "form": 0,
-            "template": "FROSLASS"
+            "form": 1844,
+            "template": "FROSLASS_NORMAL"
           },
           {
             "id": 364,
@@ -1042,8 +1042,8 @@
         [
           {
             "id": 362,
-            "form": 0,
-            "template": "GLALIE"
+            "form": 929,
+            "template": "GLALIE_NORMAL"
           },
           {
             "id": 699,
@@ -1052,8 +1052,8 @@
           },
           {
             "id": 478,
-            "form": 0,
-            "template": "FROSLASS"
+            "form": 1844,
+            "template": "FROSLASS_NORMAL"
           }
         ]
       ]
@@ -1194,13 +1194,13 @@
         [
           {
             "id": 287,
-            "form": 0,
-            "template": "SLAKOTH"
+            "form": 1424,
+            "template": "SLAKOTH_NORMAL"
           },
           {
             "id": 333,
-            "form": 0,
-            "template": "SWABLU"
+            "form": 1532,
+            "template": "SWABLU_NORMAL"
           },
           {
             "id": 659,
@@ -1216,8 +1216,8 @@
           },
           {
             "id": 288,
-            "form": 0,
-            "template": "VIGOROTH"
+            "form": 1427,
+            "template": "VIGOROTH_NORMAL"
           },
           {
             "id": 660,
@@ -1238,8 +1238,8 @@
           },
           {
             "id": 289,
-            "form": 0,
-            "template": "SLAKING"
+            "form": 1430,
+            "template": "SLAKING_NORMAL"
           }
         ]
       ]
@@ -1266,8 +1266,8 @@
         [
           {
             "id": 72,
-            "form": 0,
-            "template": "TENTACOOL"
+            "form": 1005,
+            "template": "TENTACOOL_NORMAL"
           },
           {
             "id": 451,
@@ -1305,13 +1305,13 @@
           },
           {
             "id": 454,
-            "form": 0,
-            "template": "TOXICROAK"
+            "form": 1805,
+            "template": "TOXICROAK_NORMAL"
           },
           {
             "id": 591,
-            "form": 0,
-            "template": "AMOONGUSS"
+            "form": 2165,
+            "template": "AMOONGUSS_NORMAL"
           }
         ]
       ]
@@ -1375,8 +1375,8 @@
           },
           {
             "id": 343,
-            "form": 0,
-            "template": "BALTOY"
+            "form": 1562,
+            "template": "BALTOY_NORMAL"
           }
         ],
         [
@@ -1387,8 +1387,8 @@
           },
           {
             "id": 578,
-            "form": 0,
-            "template": "DUOSION"
+            "form": 2132,
+            "template": "DUOSION_NORMAL"
           },
           {
             "id": 202,
@@ -1404,8 +1404,8 @@
           },
           {
             "id": 579,
-            "form": 0,
-            "template": "REUNICLUS"
+            "form": 2135,
+            "template": "REUNICLUS_NORMAL"
           },
           {
             "id": 475,
@@ -1463,8 +1463,8 @@
           },
           {
             "id": 524,
-            "form": 0,
-            "template": "ROGGENROLA"
+            "form": 1976,
+            "template": "ROGGENROLA_NORMAL"
           }
         ],
         [
@@ -1475,13 +1475,13 @@
           },
           {
             "id": 410,
-            "form": 0,
-            "template": "SHIELDON"
+            "form": 1700,
+            "template": "SHIELDON_NORMAL"
           },
           {
             "id": 408,
-            "form": 0,
-            "template": "CRANIDOS"
+            "form": 1694,
+            "template": "CRANIDOS_NORMAL"
           }
         ],
         [
@@ -1525,8 +1525,8 @@
         [
           {
             "id": 501,
-            "form": 0,
-            "template": "OSHAWOTT"
+            "form": 1907,
+            "template": "OSHAWOTT_NORMAL"
           },
           {
             "id": 363,
@@ -1535,8 +1535,8 @@
           },
           {
             "id": 120,
-            "form": 0,
-            "template": "STARYU"
+            "form": 1074,
+            "template": "STARYU_NORMAL"
           }
         ],
         [
@@ -1547,8 +1547,8 @@
           },
           {
             "id": 502,
-            "form": 0,
-            "template": "DEWOTT"
+            "form": 1910,
+            "template": "DEWOTT_NORMAL"
           },
           {
             "id": 117,
@@ -1559,8 +1559,8 @@
         [
           {
             "id": 565,
-            "form": 0,
-            "template": "CARRACOSTA"
+            "form": 2093,
+            "template": "CARRACOSTA_NORMAL"
           },
           {
             "id": 503,
@@ -1569,8 +1569,8 @@
           },
           {
             "id": 340,
-            "form": 0,
-            "template": "WHISCASH"
+            "form": 1553,
+            "template": "WHISCASH_NORMAL"
           }
         ]
       ]
@@ -1688,8 +1688,8 @@
           },
           {
             "id": 405,
-            "form": 0,
-            "template": "LUXRAY"
+            "form": 1685,
+            "template": "LUXRAY_NORMAL"
           }
         ]
       ]
@@ -1772,8 +1772,8 @@
         [
           {
             "id": 349,
-            "form": 0,
-            "template": "FEEBAS"
+            "form": 1580,
+            "template": "FEEBAS_NORMAL"
           }
         ],
         [
@@ -1789,8 +1789,8 @@
           },
           {
             "id": 598,
-            "form": 0,
-            "template": "FERROTHORN"
+            "form": 2186,
+            "template": "FERROTHORN_NORMAL"
           }
         ],
         [
@@ -1801,8 +1801,8 @@
           },
           {
             "id": 323,
-            "form": 0,
-            "template": "CAMERUPT"
+            "form": 1520,
+            "template": "CAMERUPT_NORMAL"
           },
           {
             "id": 452,
@@ -1966,8 +1966,8 @@
           },
           {
             "id": 622,
-            "form": 0,
-            "template": "GOLETT"
+            "form": 2258,
+            "template": "GOLETT_NORMAL"
           },
           {
             "id": 355,
@@ -2000,8 +2000,8 @@
           },
           {
             "id": 478,
-            "form": 0,
-            "template": "FROSLASS"
+            "form": 1844,
+            "template": "FROSLASS_NORMAL"
           },
           {
             "id": 105,
@@ -2033,8 +2033,8 @@
         [
           {
             "id": 595,
-            "form": 0,
-            "template": "JOLTIK"
+            "form": 2177,
+            "template": "JOLTIK_NORMAL"
           },
           {
             "id": 179,
@@ -2067,8 +2067,8 @@
         [
           {
             "id": 405,
-            "form": 0,
-            "template": "LUXRAY"
+            "form": 1685,
+            "template": "LUXRAY_NORMAL"
           },
           {
             "id": 181,
@@ -2077,8 +2077,8 @@
           },
           {
             "id": 596,
-            "form": 0,
-            "template": "GALVANTULA"
+            "form": 2180,
+            "template": "GALVANTULA_NORMAL"
           }
         ]
       ]
