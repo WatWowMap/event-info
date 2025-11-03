@@ -847,9 +847,9 @@
       "team": [
         [
           {
-            "id": 187,
-            "form": 1205,
-            "template": "HOPPIP_NORMAL"
+            "id": 708,
+            "form": 0,
+            "template": "PHANTUMP"
           },
           {
             "id": 273,
@@ -1965,9 +1965,9 @@
             "template": "GASTLY_NORMAL"
           },
           {
-            "id": 622,
-            "form": 2258,
-            "template": "GOLETT_NORMAL"
+            "id": 562,
+            "form": 2084,
+            "template": "YAMASK_NORMAL"
           },
           {
             "id": 355,
