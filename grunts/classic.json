@@ -1457,11 +1457,6 @@
       "team": [
         [
           {
-            "id": 140,
-            "form": 1104,
-            "template": "KABUTO_NORMAL"
-          },
-          {
             "id": 213,
             "form": 827,
             "template": "SHUCKLE_NORMAL"
@@ -1470,6 +1465,11 @@
             "id": 138,
             "form": 740,
             "template": "OMANYTE_NORMAL"
+          },
+          {
+            "id": 408,
+            "form": 1694,
+            "template": "CRANIDOS_NORMAL"
           }
         ],
         [
@@ -1573,9 +1573,9 @@
             "template": "WALREIN_NORMAL"
           },
           {
-            "id": 141,
-            "form": 1107,
-            "template": "KABUTOPS_NORMAL"
+            "id": 73,
+            "form": 1008,
+            "template": "TENTACRUEL_NORMAL"
           }
         ]
       ]
