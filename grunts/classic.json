@@ -61,9 +61,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -130,9 +128,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -209,8 +205,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -250,8 +245,8 @@
         [
           {
             "id": 738,
-            "form": 0,
-            "template": "VIKAVOLT"
+            "form": 3091,
+            "template": "VIKAVOLT_NORMAL"
           },
           {
             "id": 212,
@@ -306,9 +301,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -384,9 +377,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -473,8 +464,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -561,8 +551,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -602,8 +591,8 @@
         [
           {
             "id": 979,
-            "form": 0,
-            "template": "ANNIHILAPE"
+            "form": 3290,
+            "template": "ANNIHILAPE_NORMAL"
           },
           {
             "id": 534,
@@ -648,9 +637,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -666,8 +653,8 @@
           },
           {
             "id": 653,
-            "form": 0,
-            "template": "FENNEKIN"
+            "form": 3025,
+            "template": "FENNEKIN_NORMAL"
           }
         ],
         [
@@ -683,8 +670,8 @@
           },
           {
             "id": 654,
-            "form": 0,
-            "template": "BRAIXEN"
+            "form": 3026,
+            "template": "BRAIXEN_NORMAL"
           }
         ],
         [
@@ -700,8 +687,8 @@
           },
           {
             "id": 655,
-            "form": 0,
-            "template": "DELPHOX"
+            "form": 3027,
+            "template": "DELPHOX_NORMAL"
           }
         ]
       ]
@@ -736,9 +723,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -788,8 +773,8 @@
           },
           {
             "id": 733,
-            "form": 0,
-            "template": "TOUCANNON"
+            "form": 3086,
+            "template": "TOUCANNON_NORMAL"
           }
         ]
       ]
@@ -840,21 +825,19 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
           {
             "id": 650,
-            "form": 0,
-            "template": "CHESPIN"
+            "form": 3022,
+            "template": "CHESPIN_NORMAL"
           },
           {
             "id": 708,
-            "form": 0,
-            "template": "PHANTUMP"
+            "form": 3067,
+            "template": "PHANTUMP_NORMAL"
           },
           {
             "id": 331,
@@ -875,15 +858,15 @@
           },
           {
             "id": 651,
-            "form": 0,
-            "template": "QUILLADIN"
+            "form": 3023,
+            "template": "QUILLADIN_NORMAL"
           }
         ],
         [
           {
             "id": 652,
-            "form": 0,
-            "template": "CHESNAUGHT"
+            "form": 3024,
+            "template": "CHESNAUGHT_NORMAL"
           },
           {
             "id": 346,
@@ -892,8 +875,8 @@
           },
           {
             "id": 709,
-            "form": 0,
-            "template": "TREVENANT"
+            "form": 3068,
+            "template": "TREVENANT_NORMAL"
           }
         ]
       ]
@@ -929,8 +912,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -1000,9 +982,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1047,8 +1027,8 @@
           },
           {
             "id": 699,
-            "form": 0,
-            "template": "AURORUS"
+            "form": 3061,
+            "template": "AURORUS_NORMAL"
           },
           {
             "id": 478,
@@ -1098,9 +1078,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1186,9 +1164,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1259,8 +1235,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -1362,9 +1337,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1414,8 +1387,8 @@
           },
           {
             "id": 687,
-            "form": 0,
-            "template": "MALAMAR"
+            "form": 3049,
+            "template": "MALAMAR_NORMAL"
           }
         ]
       ]
@@ -1450,9 +1423,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1492,13 +1463,13 @@
         [
           {
             "id": 699,
-            "form": 0,
-            "template": "AURORUS"
+            "form": 3061,
+            "template": "AURORUS_NORMAL"
           },
           {
             "id": 697,
-            "form": 0,
-            "template": "TYRANTRUM"
+            "form": 3059,
+            "template": "TYRANTRUM_NORMAL"
           },
           {
             "id": 76,
@@ -1522,16 +1493,14 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
           {
             "id": 656,
-            "form": 0,
-            "template": "FROAKIE"
+            "form": 3028,
+            "template": "FROAKIE_NORMAL"
           },
           {
             "id": 98,
@@ -1552,8 +1521,8 @@
           },
           {
             "id": 657,
-            "form": 0,
-            "template": "FROGADIER"
+            "form": 3029,
+            "template": "FROGADIER_NORMAL"
           },
           {
             "id": 73,
@@ -1564,8 +1533,8 @@
         [
           {
             "id": 658,
-            "form": 0,
-            "template": "GRENINJA"
+            "form": 3030,
+            "template": "GRENINJA_NORMAL"
           },
           {
             "id": 365,
@@ -1595,8 +1564,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -1656,9 +1624,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1676,8 +1642,8 @@
           },
           {
             "id": 979,
-            "form": 0,
-            "template": "ANNIHILAPE"
+            "form": 3290,
+            "template": "ANNIHILAPE_NORMAL"
           },
           {
             "id": 227,
@@ -1715,9 +1681,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1774,9 +1738,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1833,8 +1795,6 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
         2
       ],
       "team": [
@@ -1895,9 +1855,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
@@ -1964,8 +1922,7 @@
     "lineup": {
       "rewards": [
         0,
-        1,
-        2
+        1
       ],
       "team": [
         [
@@ -2035,9 +1992,7 @@
     },
     "lineup": {
       "rewards": [
-        0,
-        1,
-        2
+        0
       ],
       "team": [
         [
