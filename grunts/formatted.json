@@ -591,7 +591,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_FIRE_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -762,7 +762,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_GRASS_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1371,7 +1371,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_WATER_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1779,15 +1779,15 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
       "first": [
         {
-          "id": 695,
-          "form": 3057,
-          "template": "HELIOLISK_NORMAL"
+          "id": 694,
+          "form": 3056,
+          "template": "HELIOPTILE_NORMAL"
         },
         {
           "id": 100,

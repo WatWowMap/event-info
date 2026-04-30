@@ -637,7 +637,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -825,7 +826,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -1493,7 +1495,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -1942,14 +1945,15 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
           {
-            "id": 695,
-            "form": 3057,
-            "template": "HELIOLISK_NORMAL"
+            "id": 694,
+            "form": 3056,
+            "template": "HELIOPTILE_NORMAL"
           },
           {
             "id": 100,
