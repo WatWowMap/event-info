@@ -773,9 +773,9 @@
           "template": "CHESPIN_NORMAL"
         },
         {
-          "id": 708,
-          "form": 3067,
-          "template": "PHANTUMP_NORMAL"
+          "id": 755,
+          "form": 3104,
+          "template": "MORELULL_NORMAL"
         },
         {
           "id": 331,
@@ -1080,9 +1080,9 @@
     "encounters": {
       "first": [
         {
-          "id": 216,
-          "form": 1265,
-          "template": "TEDDIURSA_NORMAL"
+          "id": 759,
+          "form": 3108,
+          "template": "STUFFUL_NORMAL"
         },
         {
           "id": 52,
@@ -1387,9 +1387,9 @@
           "template": "KRABBY_NORMAL"
         },
         {
-          "id": 72,
-          "form": 1005,
-          "template": "TENTACOOL_NORMAL"
+          "id": 751,
+          "form": 3100,
+          "template": "DEWPIDER_NORMAL"
         }
       ],
       "second": [
@@ -1497,43 +1497,23 @@
     "encounters": {
       "first": [
         {
-          "id": 129,
-          "form": 253,
-          "template": "MAGIKARP_NORMAL"
+          "id": 143,
+          "form": 199,
+          "template": "SNORLAX_NORMAL"
         }
       ],
       "second": [
         {
-          "id": 346,
-          "form": 1571,
-          "template": "CRADILY_NORMAL"
-        },
-        {
-          "id": 979,
-          "form": 3290,
-          "template": "ANNIHILAPE_NORMAL"
-        },
-        {
-          "id": 227,
-          "form": 1295,
-          "template": "SKARMORY_NORMAL"
+          "id": 282,
+          "form": 298,
+          "template": "GARDEVOIR_NORMAL"
         }
       ],
       "third": [
         {
-          "id": 323,
-          "form": 1520,
-          "template": "CAMERUPT_NORMAL"
-        },
-        {
           "id": 248,
           "form": 319,
           "template": "TYRANITAR_NORMAL"
-        },
-        {
-          "id": 475,
-          "form": 301,
-          "template": "GALLADE_NORMAL"
         }
       ]
     }
@@ -1550,26 +1530,21 @@
     "encounters": {
       "first": [
         {
-          "id": 303,
-          "form": 833,
-          "template": "MAWILE_NORMAL"
+          "id": 204,
+          "form": 1244,
+          "template": "PINECO_NORMAL"
         }
       ],
       "second": [
-        {
-          "id": 80,
-          "form": 1020,
-          "template": "SLOWBRO_NORMAL"
-        },
         {
           "id": 208,
           "form": 905,
           "template": "STEELIX_NORMAL"
         },
         {
-          "id": 623,
-          "form": 2261,
-          "template": "GOLURK_NORMAL"
+          "id": 526,
+          "form": 1982,
+          "template": "GIGALITH_NORMAL"
         }
       ],
       "third": [
@@ -1577,16 +1552,6 @@
           "id": 212,
           "form": 250,
           "template": "SCIZOR_NORMAL"
-        },
-        {
-          "id": 65,
-          "form": 310,
-          "template": "ALAKAZAM_NORMAL"
-        },
-        {
-          "id": 6,
-          "form": 178,
-          "template": "CHARIZARD_NORMAL"
         }
       ]
     }
@@ -1603,9 +1568,9 @@
     "encounters": {
       "first": [
         {
-          "id": 187,
-          "form": 1205,
-          "template": "HOPPIP_NORMAL"
+          "id": 355,
+          "form": 914,
+          "template": "DUSKULL_NORMAL"
         }
       ],
       "second": [
@@ -1613,16 +1578,6 @@
           "id": 598,
           "form": 2186,
           "template": "FERROTHORN_NORMAL"
-        },
-        {
-          "id": 330,
-          "form": 752,
-          "template": "FLYGON_NORMAL"
-        },
-        {
-          "id": 9,
-          "form": 187,
-          "template": "BLASTOISE_NORMAL"
         }
       ],
       "third": [
@@ -1635,11 +1590,6 @@
           "id": 208,
           "form": 905,
           "template": "STEELIX_NORMAL"
-        },
-        {
-          "id": 350,
-          "form": 1583,
-          "template": "MILOTIC_NORMAL"
         }
       ]
     }
@@ -1663,14 +1613,14 @@
       ],
       "second": [
         {
-          "id": 68,
-          "form": 815,
-          "template": "MACHAMP_NORMAL"
-        },
-        {
           "id": 115,
           "form": 839,
           "template": "KANGASKHAN_NORMAL"
+        },
+        {
+          "id": 34,
+          "form": 788,
+          "template": "NIDOKING_NORMAL"
         },
         {
           "id": 464,
@@ -1680,9 +1630,9 @@
       ],
       "third": [
         {
-          "id": 642,
-          "form": 142,
-          "template": "THUNDURUS_INCARNATE"
+          "id": 645,
+          "form": 144,
+          "template": "LANDORUS_INCARNATE"
         }
       ]
     }
@@ -1835,9 +1785,9 @@
     "encounters": {
       "first": [
         {
-          "id": 81,
-          "form": 655,
-          "template": "MAGNEMITE_NORMAL"
+          "id": 695,
+          "form": 3057,
+          "template": "HELIOLISK_NORMAL"
         },
         {
           "id": 100,
