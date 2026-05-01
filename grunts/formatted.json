@@ -624,9 +624,9 @@
           "template": "MAGMAR_NORMAL"
         },
         {
-          "id": 323,
-          "form": 1520,
-          "template": "CAMERUPT_NORMAL"
+          "id": 322,
+          "form": 1517,
+          "template": "NUMEL_NORMAL"
         },
         {
           "id": 654,
@@ -1102,9 +1102,9 @@
       ],
       "second": [
         {
-          "id": 294,
-          "form": 1445,
-          "template": "LOUDRED_NORMAL"
+          "id": 216,
+          "form": 1265,
+          "template": "TEDDIURSA_NORMAL"
         },
         {
           "id": 396,
@@ -1399,9 +1399,9 @@
       ],
       "second": [
         {
-          "id": 319,
-          "form": 737,
-          "template": "SHARPEDO_NORMAL"
+          "id": 318,
+          "form": 734,
+          "template": "CARVANHA_NORMAL"
         },
         {
           "id": 657,
