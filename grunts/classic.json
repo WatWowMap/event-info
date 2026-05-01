@@ -136,6 +136,11 @@
             "id": 143,
             "form": 199,
             "template": "SNORLAX_NORMAL"
+          },
+          {
+            "id": 131,
+            "form": 322,
+            "template": "LAPRAS_NORMAL"
           }
         ],
         [
@@ -849,9 +854,9 @@
         ],
         [
           {
-            "id": 598,
-            "form": 2186,
-            "template": "FERROTHORN_NORMAL"
+            "id": 708,
+            "form": 3067,
+            "template": "PHANTUMP_NORMAL"
           },
           {
             "id": 345,
@@ -1721,6 +1726,16 @@
             "id": 598,
             "form": 2186,
             "template": "FERROTHORN_NORMAL"
+          },
+          {
+            "id": 9,
+            "form": 187,
+            "template": "BLASTOISE_NORMAL"
+          },
+          {
+            "id": 330,
+            "form": 752,
+            "template": "FLYGON_NORMAL"
           }
         ],
         [
@@ -1733,6 +1748,11 @@
             "id": 208,
             "form": 905,
             "template": "STEELIX_NORMAL"
+          },
+          {
+            "id": 350,
+            "form": 1583,
+            "template": "MILOTIC_NORMAL"
           }
         ]
       ]
