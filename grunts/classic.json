@@ -1689,6 +1689,11 @@
             "id": 526,
             "form": 1982,
             "template": "GIGALITH_NORMAL"
+          },
+          {
+            "id": 80,
+            "form": 1020,
+            "template": "SLOWBRO_NORMAL"
           }
         ],
         [
