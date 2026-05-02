@@ -1171,7 +1171,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -1203,9 +1204,9 @@
             "template": "STARLY_NORMAL"
           },
           {
-            "id": 19,
-            "form": 45,
-            "template": "RATTATA_NORMAL"
+            "id": 294,
+            "form": 1445,
+            "template": "LOUDRED_NORMAL"
           }
         ],
         [
@@ -1647,6 +1648,16 @@
             "id": 282,
             "form": 298,
             "template": "GARDEVOIR_NORMAL"
+          },
+          {
+            "id": 623,
+            "form": 2261,
+            "template": "GOLURK_NORMAL"
+          },
+          {
+            "id": 110,
+            "form": 944,
+            "template": "WEEZING_GALARIAN"
           }
         ],
         [
@@ -1654,6 +1665,11 @@
             "id": 248,
             "form": 319,
             "template": "TYRANITAR_NORMAL"
+          },
+          {
+            "id": 323,
+            "form": 1520,
+            "template": "CAMERUPT_NORMAL"
           }
         ]
       ]
@@ -1701,6 +1717,16 @@
             "id": 212,
             "form": 250,
             "template": "SCIZOR_NORMAL"
+          },
+          {
+            "id": 65,
+            "form": 310,
+            "template": "ALAKAZAM_NORMAL"
+          },
+          {
+            "id": 6,
+            "form": 178,
+            "template": "CHARIZARD_NORMAL"
           }
         ]
       ]
