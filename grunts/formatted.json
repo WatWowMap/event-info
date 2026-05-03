@@ -1534,6 +1534,11 @@
           "id": 323,
           "form": 1520,
           "template": "CAMERUPT_NORMAL"
+        },
+        {
+          "id": 475,
+          "form": 301,
+          "template": "GALLADE_NORMAL"
         }
       ]
     }
