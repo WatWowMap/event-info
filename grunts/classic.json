@@ -1534,9 +1534,9 @@
             "template": "FROGADIER_NORMAL"
           },
           {
-            "id": 73,
-            "form": 1008,
-            "template": "TENTACRUEL_NORMAL"
+            "id": 72,
+            "form": 1005,
+            "template": "TENTACOOL_NORMAL"
           }
         ],
         [
@@ -1581,11 +1581,6 @@
             "id": 129,
             "form": 253,
             "template": "MAGIKARP_NORMAL"
-          },
-          {
-            "id": 349,
-            "form": 1580,
-            "template": "FEEBAS_NORMAL"
           }
         ],
         [
