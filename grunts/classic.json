@@ -552,31 +552,36 @@
       "team": [
         [
           {
+            "id": 532,
+            "form": 2000,
+            "template": "TIMBURR_NORMAL"
+          },
+          {
+            "id": 56,
+            "form": 999,
+            "template": "MANKEY_NORMAL"
+          },
+          {
             "id": 66,
             "form": 809,
             "template": "MACHOP_NORMAL"
-          },
-          {
-            "id": null,
-            "form": 0
-          },
-          {
-            "id": null,
-            "form": 0
           }
         ],
         [
           {
-            "id": null,
-            "form": 0
+            "id": 237,
+            "form": 1313,
+            "template": "HITMONTOP_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 106,
+            "form": 713,
+            "template": "HITMONLEE_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 107,
+            "form": 277,
+            "template": "HITMONCHAN_NORMAL"
           }
         ],
         [
@@ -707,7 +712,8 @@
     },
     "lineup": {
       "rewards": [
-        0
+        0,
+        1
       ],
       "team": [
         [
@@ -729,14 +735,14 @@
         ],
         [
           {
-            "id": 41,
-            "form": 157,
-            "template": "ZUBAT_NORMAL"
-          },
-          {
             "id": 123,
             "form": 247,
             "template": "SCYTHER_NORMAL"
+          },
+          {
+            "id": 41,
+            "form": 157,
+            "template": "ZUBAT_NORMAL"
           },
           {
             "id": null,
@@ -750,8 +756,9 @@
             "template": "DRAGONITE_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 733,
+            "form": 3086,
+            "template": "TOUCANNON_NORMAL"
           },
           {
             "id": null,
@@ -833,8 +840,9 @@
             "template": "MORELULL_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 708,
+            "form": 3067,
+            "template": "PHANTUMP_NORMAL"
           },
           {
             "id": null,
@@ -843,9 +851,9 @@
         ],
         [
           {
-            "id": 652,
-            "form": 3024,
-            "template": "CHESNAUGHT_NORMAL"
+            "id": 254,
+            "form": 1355,
+            "template": "SCEPTILE_NORMAL"
           },
           {
             "id": 709,
@@ -853,8 +861,9 @@
             "template": "TREVENANT_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 652,
+            "form": 3024,
+            "template": "CHESNAUGHT_NORMAL"
           }
         ]
       ]
@@ -900,14 +909,14 @@
             "template": "RHYHORN_NORMAL"
           },
           {
-            "id": 328,
-            "form": 746,
-            "template": "TRAPINCH_NORMAL"
-          },
-          {
             "id": 207,
             "form": 803,
             "template": "GLIGAR_NORMAL"
+          },
+          {
+            "id": 623,
+            "form": 2261,
+            "template": "GOLURK_NORMAL"
           }
         ],
         [
@@ -1004,8 +1013,9 @@
             "template": "FROSLASS_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 362,
+            "form": 929,
+            "template": "GLALIE_NORMAL"
           }
         ]
       ]
@@ -1163,8 +1173,9 @@
             "template": "STUFFUL_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 396,
+            "form": 1658,
+            "template": "STARLY_NORMAL"
           }
         ],
         [
@@ -1179,8 +1190,9 @@
             "template": "SWELLOW_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 115,
+            "form": 839,
+            "template": "KANGASKHAN_NORMAL"
           }
         ]
       ]
@@ -1226,8 +1238,9 @@
             "template": "NIDORINO_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 30,
+            "form": 779,
+            "template": "NIDORINA_NORMAL"
           },
           {
             "id": null,
@@ -1302,6 +1315,11 @@
       "team": [
         [
           {
+            "id": 202,
+            "form": 602,
+            "template": "WOBBUFFET_NORMAL"
+          },
+          {
             "id": 280,
             "form": 292,
             "template": "RALTS_NORMAL"
@@ -1310,10 +1328,6 @@
             "id": 96,
             "form": 214,
             "template": "DROWZEE_NORMAL"
-          },
-          {
-            "id": null,
-            "form": 0
           }
         ],
         [
@@ -1333,17 +1347,19 @@
         ],
         [
           {
+            "id": 475,
+            "form": 301,
+            "template": "GALLADE_NORMAL"
+          },
+          {
+            "id": 687,
+            "form": 3049,
+            "template": "MALAMAR_NORMAL"
+          },
+          {
             "id": 579,
             "form": 2135,
             "template": "REUNICLUS_NORMAL"
-          },
-          {
-            "id": null,
-            "form": 0
-          },
-          {
-            "id": null,
-            "form": 0
           }
         ]
       ]
@@ -1383,46 +1399,53 @@
       "team": [
         [
           {
-            "id": 140,
-            "form": 1104,
-            "template": "KABUTO_NORMAL"
-          },
-          {
             "id": 95,
             "form": 902,
             "template": "ONIX_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 140,
+            "form": 1104,
+            "template": "KABUTO_NORMAL"
+          },
+          {
+            "id": 408,
+            "form": 1694,
+            "template": "CRANIDOS_NORMAL"
           }
         ],
         [
           {
-            "id": null,
-            "form": 0
+            "id": 410,
+            "form": 1700,
+            "template": "SHIELDON_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 75,
+            "form": 69,
+            "template": "GRAVELER_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 408,
+            "form": 1694,
+            "template": "CRANIDOS_NORMAL"
           }
         ],
         [
           {
-            "id": null,
-            "form": 0
+            "id": 697,
+            "form": 3059,
+            "template": "TYRANTRUM_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 76,
+            "form": 71,
+            "template": "GOLEM_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 699,
+            "form": 3061,
+            "template": "AURORUS_NORMAL"
           }
         ]
       ]
@@ -1452,8 +1475,9 @@
             "template": "MUDKIP_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 98,
+            "form": 870,
+            "template": "KRABBY_NORMAL"
           },
           {
             "id": null,
@@ -1594,12 +1618,14 @@
             "template": "TYRANITAR_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 323,
+            "form": 1520,
+            "template": "CAMERUPT_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 475,
+            "form": 301,
+            "template": "GALLADE_NORMAL"
           }
         ]
       ]
@@ -1627,14 +1653,14 @@
         ],
         [
           {
-            "id": 623,
-            "form": 2261,
-            "template": "GOLURK_NORMAL"
-          },
-          {
             "id": 208,
             "form": 905,
             "template": "STEELIX_NORMAL"
+          },
+          {
+            "id": 623,
+            "form": 2261,
+            "template": "GOLURK_NORMAL"
           },
           {
             "id": 80,
@@ -1684,9 +1710,9 @@
         ],
         [
           {
-            "id": 598,
-            "form": 2186,
-            "template": "FERROTHORN_NORMAL"
+            "id": 9,
+            "form": 187,
+            "template": "BLASTOISE_NORMAL"
           },
           {
             "id": 330,
@@ -1694,19 +1720,21 @@
             "template": "FLYGON_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 598,
+            "form": 2186,
+            "template": "FERROTHORN_NORMAL"
           }
         ],
         [
           {
+            "id": 350,
+            "form": 1583,
+            "template": "MILOTIC_NORMAL"
+          },
+          {
             "id": 229,
             "form": 232,
             "template": "HOUNDOOM_NORMAL"
-          },
-          {
-            "id": null,
-            "form": 0
           },
           {
             "id": null,
@@ -1738,12 +1766,14 @@
         ],
         [
           {
-            "id": null,
-            "form": 0
+            "id": 115,
+            "form": 839,
+            "template": "KANGASKHAN_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 464,
+            "form": 852,
+            "template": "RHYPERIOR_NORMAL"
           },
           {
             "id": null,
@@ -1865,8 +1895,9 @@
             "template": "GASTLY_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 562,
+            "form": 2084,
+            "template": "YAMASK_NORMAL"
           }
         ],
         [
@@ -1876,8 +1907,9 @@
             "template": "SABLEYE_NORMAL"
           },
           {
-            "id": null,
-            "form": 0
+            "id": 563,
+            "form": 2087,
+            "template": "COFAGRIGUS_NORMAL"
           },
           {
             "id": null,
