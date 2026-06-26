@@ -316,6 +316,11 @@
       ],
       "second": [
         {
+          "id": 228,
+          "form": 229,
+          "template": "HOUNDOUR_NORMAL"
+        },
+        {
           "id": 20,
           "form": 48,
           "template": "RATICATE_ALOLA"
@@ -324,10 +329,6 @@
           "id": 359,
           "form": 830,
           "template": "ABSOL_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ],
       "third": [
@@ -337,8 +338,9 @@
           "template": "LIEPARD_NORMAL"
         },
         {
-          "id": null,
-          "form": 0
+          "id": 635,
+          "form": 2297,
+          "template": "HYDREIGON_NORMAL"
         },
         {
           "id": null,
@@ -608,6 +610,11 @@
     "encounters": {
       "first": [
         {
+          "id": 607,
+          "form": 2213,
+          "template": "LITWICK_NORMAL"
+        },
+        {
           "id": 77,
           "form": 1011,
           "template": "PONYTA_NORMAL"
@@ -616,10 +623,6 @@
           "id": 255,
           "form": 1358,
           "template": "TORCHIC_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ],
       "second": [
@@ -1758,7 +1761,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_GHOST_GRUNT_MALE",
     "active": true,
-    "secondReward": true,
+    "secondReward": false,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1781,6 +1784,11 @@
       ],
       "second": [
         {
+          "id": 356,
+          "form": 917,
+          "template": "DUSCLOPS_NORMAL"
+        },
+        {
           "id": 302,
           "form": 923,
           "template": "SABLEYE_NORMAL"
@@ -1789,10 +1797,6 @@
           "id": 563,
           "form": 2087,
           "template": "COFAGRIGUS_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ],
       "third": [
