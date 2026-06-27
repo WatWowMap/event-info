@@ -207,6 +207,11 @@
     "encounters": {
       "first": [
         {
+          "id": 48,
+          "form": 259,
+          "template": "VENONAT_NORMAL"
+        },
+        {
           "id": 13,
           "form": 616,
           "template": "WEEDLE_NORMAL"
@@ -215,10 +220,6 @@
           "id": 736,
           "form": 3089,
           "template": "GRUBBIN_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ],
       "second": [
@@ -293,7 +294,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -316,14 +317,14 @@
       ],
       "second": [
         {
+          "id": 215,
+          "form": 797,
+          "template": "SNEASEL_NORMAL"
+        },
+        {
           "id": 228,
           "form": 229,
           "template": "HOUNDOUR_NORMAL"
-        },
-        {
-          "id": 20,
-          "form": 48,
-          "template": "RATICATE_ALOLA"
         },
         {
           "id": 359,
@@ -341,10 +342,6 @@
           "id": 635,
           "form": 2297,
           "template": "HYDREIGON_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ]
     }
@@ -637,8 +634,9 @@
           "template": "BLAZIKEN_NORMAL"
         },
         {
-          "id": null,
-          "form": 0
+          "id": 323,
+          "form": 1520,
+          "template": "CAMERUPT_NORMAL"
         }
       ],
       "third": [
@@ -797,6 +795,11 @@
       ],
       "second": [
         {
+          "id": 345,
+          "form": 1568,
+          "template": "LILEEP_NORMAL"
+        },
+        {
           "id": 254,
           "form": 1355,
           "template": "SCEPTILE_NORMAL"
@@ -805,10 +808,6 @@
           "id": 755,
           "form": 3104,
           "template": "MORELULL_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ],
       "third": [
@@ -1319,7 +1318,7 @@
     "grunt": "Grunt",
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
-    "secondReward": false,
+    "secondReward": true,
     "firstReward": true,
     "thirdReward": false,
     "encounters": {
@@ -1405,6 +1404,11 @@
       ],
       "second": [
         {
+          "id": 751,
+          "form": 3100,
+          "template": "DEWPIDER_NORMAL"
+        },
+        {
           "id": 260,
           "form": 211,
           "template": "SWAMPERT_NORMAL"
@@ -1413,10 +1417,6 @@
           "id": 319,
           "form": 737,
           "template": "SHARPEDO_NORMAL"
-        },
-        {
-          "id": null,
-          "form": 0
         }
       ],
       "third": [
@@ -1453,6 +1453,11 @@
           "id": 129,
           "form": 253,
           "template": "MAGIKARP_NORMAL"
+        },
+        {
+          "id": 349,
+          "form": 1580,
+          "template": "FEEBAS_NORMAL"
         }
       ],
       "second": [
