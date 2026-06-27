@@ -1517,6 +1517,16 @@
           "id": 143,
           "form": 199,
           "template": "SNORLAX_NORMAL"
+        },
+        {
+          "id": 623,
+          "form": 2261,
+          "template": "GOLURK_NORMAL"
+        },
+        {
+          "id": 110,
+          "form": 944,
+          "template": "WEEZING_GALARIAN"
         }
       ],
       "third": [
