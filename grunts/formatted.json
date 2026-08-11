@@ -71,53 +71,35 @@
     "encounters": {
       "first": [
         {
-          "id": 1,
-          "form": 163,
-          "template": "BULBASAUR_NORMAL"
+          "id": 1
         },
         {
-          "id": 4,
-          "form": 172,
-          "template": "CHARMANDER_NORMAL"
+          "id": 4
         },
         {
-          "id": 7,
-          "form": 181,
-          "template": "SQUIRTLE_NORMAL"
+          "id": 7
         }
       ],
       "second": [
         {
-          "id": 2,
-          "form": 166,
-          "template": "IVYSAUR_NORMAL"
+          "id": 2
         },
         {
-          "id": 5,
-          "form": 175,
-          "template": "CHARMELEON_NORMAL"
+          "id": 5
         },
         {
-          "id": 8,
-          "form": 184,
-          "template": "WARTORTLE_NORMAL"
+          "id": 8
         }
       ],
       "third": [
         {
-          "id": 3,
-          "form": 169,
-          "template": "VENUSAUR_NORMAL"
+          "id": 3
         },
         {
-          "id": 6,
-          "form": 178,
-          "template": "CHARIZARD_NORMAL"
+          "id": 6
         },
         {
-          "id": 9,
-          "form": 187,
-          "template": "BLASTOISE_NORMAL"
+          "id": 9
         }
       ]
     }
@@ -134,48 +116,32 @@
     "encounters": {
       "first": [
         {
-          "id": 143,
-          "form": 199,
-          "template": "SNORLAX_NORMAL"
+          "id": 143
         },
         {
-          "id": 131,
-          "form": 322,
-          "template": "LAPRAS_NORMAL"
+          "id": 131
         }
       ],
       "second": [
         {
-          "id": 62,
-          "form": 241,
-          "template": "POLIWRATH_NORMAL"
+          "id": 62
         },
         {
-          "id": 282,
-          "form": 298,
-          "template": "GARDEVOIR_NORMAL"
+          "id": 282
         },
         {
-          "id": 143,
-          "form": 199,
-          "template": "SNORLAX_NORMAL"
+          "id": 143
         }
       ],
       "third": [
         {
-          "id": 130,
-          "form": 256,
-          "template": "GYARADOS_NORMAL"
+          "id": 130
         },
         {
-          "id": 149,
-          "form": 196,
-          "template": "DRAGONITE_NORMAL"
+          "id": 149
         },
         {
-          "id": 143,
-          "form": 199,
-          "template": "SNORLAX_NORMAL"
+          "id": 143
         }
       ]
     }
@@ -207,53 +173,35 @@
     "encounters": {
       "first": [
         {
-          "id": 48,
-          "form": 259,
-          "template": "VENONAT_NORMAL"
+          "id": 48
         },
         {
-          "id": 13,
-          "form": 616,
-          "template": "WEEDLE_NORMAL"
+          "id": 13
         },
         {
-          "id": 736,
-          "form": 3089,
-          "template": "GRUBBIN_NORMAL"
+          "id": 736
         }
       ],
       "second": [
         {
-          "id": 127,
-          "form": 898,
-          "template": "PINSIR_NORMAL"
+          "id": 127
         },
         {
-          "id": 347,
-          "form": 1574,
-          "template": "ANORITH_NORMAL"
+          "id": 347
         },
         {
-          "id": 751,
-          "form": 3100,
-          "template": "DEWPIDER_NORMAL"
+          "id": 751
         }
       ],
       "third": [
         {
-          "id": 212,
-          "form": 250,
-          "template": "SCIZOR_NORMAL"
+          "id": 212
         },
         {
-          "id": 545,
-          "form": 2039,
-          "template": "SCOLIPEDE_NORMAL"
+          "id": 545
         },
         {
-          "id": 738,
-          "form": 3091,
-          "template": "VIKAVOLT_NORMAL"
+          "id": 738
         }
       ]
     }
@@ -300,14 +248,10 @@
     "encounters": {
       "first": [
         {
-          "id": 318,
-          "form": 734,
-          "template": "CARVANHA_NORMAL"
+          "id": 318
         },
         {
-          "id": 261,
-          "form": 1367,
-          "template": "POOCHYENA_NORMAL"
+          "id": 261
         },
         {
           "id": 19,
@@ -317,31 +261,21 @@
       ],
       "second": [
         {
-          "id": 215,
-          "form": 797,
-          "template": "SNEASEL_NORMAL"
+          "id": 215
         },
         {
-          "id": 228,
-          "form": 229,
-          "template": "HOUNDOUR_NORMAL"
+          "id": 228
         },
         {
-          "id": 359,
-          "form": 830,
-          "template": "ABSOL_NORMAL"
+          "id": 359
         }
       ],
       "third": [
         {
-          "id": 510,
-          "form": 1934,
-          "template": "LIEPARD_NORMAL"
+          "id": 510
         },
         {
-          "id": 635,
-          "form": 2297,
-          "template": "HYDREIGON_NORMAL"
+          "id": 635
         }
       ]
     }
@@ -373,19 +307,13 @@
     "encounters": {
       "first": [
         {
-          "id": 714,
-          "form": 3070,
-          "template": "NOIBAT_NORMAL"
+          "id": 714
         },
         {
-          "id": 633,
-          "form": 2291,
-          "template": "DEINO_NORMAL"
+          "id": 633
         },
         {
-          "id": 147,
-          "form": 190,
-          "template": "DRATINI_NORMAL"
+          "id": 147
         }
       ],
       "second": [
@@ -395,31 +323,21 @@
           "template": "EXEGGUTOR_ALOLA"
         },
         {
-          "id": 148,
-          "form": 193,
-          "template": "DRAGONAIR_NORMAL"
+          "id": 148
         },
         {
-          "id": 444,
-          "form": 864,
-          "template": "GABITE_NORMAL"
+          "id": 444
         }
       ],
       "third": [
         {
-          "id": 149,
-          "form": 196,
-          "template": "DRAGONITE_NORMAL"
+          "id": 149
         },
         {
-          "id": 445,
-          "form": 867,
-          "template": "GARCHOMP_NORMAL"
+          "id": 445
         },
         {
-          "id": 373,
-          "form": 761,
-          "template": "SALAMENCE_NORMAL"
+          "id": 373
         }
       ]
     }
@@ -451,14 +369,10 @@
     "encounters": {
       "first": [
         {
-          "id": 280,
-          "form": 292,
-          "template": "RALTS_NORMAL"
+          "id": 280
         },
         {
-          "id": 209,
-          "form": 1253,
-          "template": "SNUBBULL_NORMAL"
+          "id": 209
         },
         {
           "id": 37,
@@ -468,9 +382,7 @@
       ],
       "second": [
         {
-          "id": 209,
-          "form": 1253,
-          "template": "SNUBBULL_NORMAL"
+          "id": 209
         },
         {
           "id": 110,
@@ -478,9 +390,7 @@
           "template": "WEEZING_GALARIAN"
         },
         {
-          "id": 281,
-          "form": 295,
-          "template": "KIRLIA_NORMAL"
+          "id": 281
         }
       ],
       "third": [
@@ -495,9 +405,7 @@
           "template": "WEEZING_GALARIAN"
         },
         {
-          "id": 210,
-          "form": 1256,
-          "template": "GRANBULL_NORMAL"
+          "id": 210
         }
       ]
     }
@@ -529,53 +437,35 @@
     "encounters": {
       "first": [
         {
-          "id": 532,
-          "form": 2000,
-          "template": "TIMBURR_NORMAL"
+          "id": 532
         },
         {
-          "id": 56,
-          "form": 999,
-          "template": "MANKEY_NORMAL"
+          "id": 56
         },
         {
-          "id": 66,
-          "form": 809,
-          "template": "MACHOP_NORMAL"
+          "id": 66
         }
       ],
       "second": [
         {
-          "id": 237,
-          "form": 1313,
-          "template": "HITMONTOP_NORMAL"
+          "id": 237
         },
         {
-          "id": 106,
-          "form": 713,
-          "template": "HITMONLEE_NORMAL"
+          "id": 106
         },
         {
-          "id": 107,
-          "form": 277,
-          "template": "HITMONCHAN_NORMAL"
+          "id": 107
         }
       ],
       "third": [
         {
-          "id": 534,
-          "form": 2006,
-          "template": "CONKELDURR_NORMAL"
+          "id": 534
         },
         {
-          "id": 979,
-          "form": 3290,
-          "template": "ANNIHILAPE_NORMAL"
+          "id": 979
         },
         {
-          "id": 392,
-          "form": 824,
-          "template": "INFERNAPE_NORMAL"
+          "id": 392
         }
       ]
     }
@@ -607,36 +497,24 @@
     "encounters": {
       "first": [
         {
-          "id": 607,
-          "form": 2213,
-          "template": "LITWICK_NORMAL"
+          "id": 607
         },
         {
-          "id": 77,
-          "form": 1011,
-          "template": "PONYTA_NORMAL"
+          "id": 77
         },
         {
-          "id": 255,
-          "form": 1358,
-          "template": "TORCHIC_NORMAL"
+          "id": 255
         }
       ],
       "second": [
         {
-          "id": 126,
-          "form": 634,
-          "template": "MAGMAR_NORMAL"
+          "id": 126
         },
         {
-          "id": 257,
-          "form": 1364,
-          "template": "BLAZIKEN_NORMAL"
+          "id": 257
         },
         {
-          "id": 323,
-          "form": 1520,
-          "template": "CAMERUPT_NORMAL"
+          "id": 323
         }
       ],
       "third": [
@@ -646,14 +524,10 @@
           "template": "DARMANITAN_STANDARD"
         },
         {
-          "id": 655,
-          "form": 3027,
-          "template": "DELPHOX_NORMAL"
+          "id": 655
         },
         {
-          "id": 467,
-          "form": 637,
-          "template": "MAGMORTAR_NORMAL"
+          "id": 467
         }
       ]
     }
@@ -685,53 +559,35 @@
     "encounters": {
       "first": [
         {
-          "id": 276,
-          "form": 1400,
-          "template": "TAILLOW_NORMAL"
+          "id": 276
         },
         {
-          "id": 821,
-          "form": 3160,
-          "template": "ROOKIDEE_NORMAL"
+          "id": 821
         },
         {
-          "id": 333,
-          "form": 1532,
-          "template": "SWABLU_NORMAL"
+          "id": 333
         }
       ],
       "second": [
         {
-          "id": 123,
-          "form": 247,
-          "template": "SCYTHER_NORMAL"
+          "id": 123
         },
         {
-          "id": 41,
-          "form": 157,
-          "template": "ZUBAT_NORMAL"
+          "id": 41
         },
         {
-          "id": 207,
-          "form": 803,
-          "template": "GLIGAR_NORMAL"
+          "id": 207
         }
       ],
       "third": [
         {
-          "id": 149,
-          "form": 196,
-          "template": "DRAGONITE_NORMAL"
+          "id": 149
         },
         {
-          "id": 733,
-          "form": 3086,
-          "template": "TOUCANNON_NORMAL"
+          "id": 733
         },
         {
-          "id": 581,
-          "form": 2141,
-          "template": "SWANNA_NORMAL"
+          "id": 581
         }
       ]
     }
@@ -778,53 +634,35 @@
     "encounters": {
       "first": [
         {
-          "id": 708,
-          "form": 3067,
-          "template": "PHANTUMP_NORMAL"
+          "id": 708
         },
         {
-          "id": 252,
-          "form": 1349,
-          "template": "TREECKO_NORMAL"
+          "id": 252
         },
         {
-          "id": 114,
-          "form": 1059,
-          "template": "TANGELA_NORMAL"
+          "id": 114
         }
       ],
       "second": [
         {
-          "id": 345,
-          "form": 1568,
-          "template": "LILEEP_NORMAL"
+          "id": 345
         },
         {
-          "id": 254,
-          "form": 1355,
-          "template": "SCEPTILE_NORMAL"
+          "id": 254
         },
         {
-          "id": 755,
-          "form": 3104,
-          "template": "MORELULL_NORMAL"
+          "id": 755
         }
       ],
       "third": [
         {
-          "id": 652,
-          "form": 3024,
-          "template": "CHESNAUGHT_NORMAL"
+          "id": 652
         },
         {
-          "id": 709,
-          "form": 3068,
-          "template": "TREVENANT_NORMAL"
+          "id": 709
         },
         {
-          "id": 346,
-          "form": 1571,
-          "template": "CRADILY_NORMAL"
+          "id": 346
         }
       ]
     }
@@ -856,53 +694,35 @@
     "encounters": {
       "first": [
         {
-          "id": 111,
-          "form": 846,
-          "template": "RHYHORN_NORMAL"
+          "id": 111
         },
         {
-          "id": 207,
-          "form": 803,
-          "template": "GLIGAR_NORMAL"
+          "id": 207
         },
         {
-          "id": 328,
-          "form": 746,
-          "template": "TRAPINCH_NORMAL"
+          "id": 328
         }
       ],
       "second": [
         {
-          "id": 207,
-          "form": 803,
-          "template": "GLIGAR_NORMAL"
+          "id": 207
         },
         {
-          "id": 344,
-          "form": 1565,
-          "template": "CLAYDOL_NORMAL"
+          "id": 344
         },
         {
-          "id": 329,
-          "form": 749,
-          "template": "VIBRAVA_NORMAL"
+          "id": 329
         }
       ],
       "third": [
         {
-          "id": 623,
-          "form": 2261,
-          "template": "GOLURK_NORMAL"
+          "id": 623
         },
         {
-          "id": 450,
-          "form": 891,
-          "template": "HIPPOWDON_NORMAL"
+          "id": 450
         },
         {
-          "id": 330,
-          "form": 752,
-          "template": "FLYGON_NORMAL"
+          "id": 330
         }
       ]
     }
@@ -919,31 +739,21 @@
     "encounters": {
       "first": [
         {
-          "id": 86,
-          "form": 1032,
-          "template": "SEEL_NORMAL"
+          "id": 86
         },
         {
-          "id": 225,
-          "form": 938,
-          "template": "DELIBIRD_NORMAL"
+          "id": 225
         },
         {
-          "id": 363,
-          "form": 1598,
-          "template": "SPHEAL_NORMAL"
+          "id": 363
         }
       ],
       "second": [
         {
-          "id": 364,
-          "form": 1601,
-          "template": "SEALEO_NORMAL"
+          "id": 364
         },
         {
-          "id": 478,
-          "form": 1844,
-          "template": "FROSLASS_NORMAL"
+          "id": 478
         },
         {
           "id": 38,
@@ -953,19 +763,13 @@
       ],
       "third": [
         {
-          "id": 699,
-          "form": 3061,
-          "template": "AURORUS_NORMAL"
+          "id": 699
         },
         {
-          "id": 478,
-          "form": 1844,
-          "template": "FROSLASS_NORMAL"
+          "id": 478
         },
         {
-          "id": 362,
-          "form": 929,
-          "template": "GLALIE_NORMAL"
+          "id": 362
         }
       ]
     }
@@ -1017,38 +821,26 @@
           "template": "SANDSHREW_ALOLA"
         },
         {
-          "id": 304,
-          "form": 1469,
-          "template": "ARON_NORMAL"
+          "id": 304
         },
         {
-          "id": 374,
-          "form": 764,
-          "template": "BELDUM_NORMAL"
+          "id": 374
         }
       ],
       "second": [
         {
-          "id": 305,
-          "form": 1472,
-          "template": "LAIRON_NORMAL"
+          "id": 305
         },
         {
-          "id": 227,
-          "form": 1295,
-          "template": "SKARMORY_NORMAL"
+          "id": 227
         },
         {
-          "id": 375,
-          "form": 767,
-          "template": "METANG_NORMAL"
+          "id": 375
         }
       ],
       "third": [
         {
-          "id": 306,
-          "form": 1475,
-          "template": "AGGRON_NORMAL"
+          "id": 306
         },
         {
           "id": 28,
@@ -1056,9 +848,7 @@
           "template": "SANDSLASH_ALOLA"
         },
         {
-          "id": 476,
-          "form": 1841,
-          "template": "PROBOPASS_NORMAL"
+          "id": 476
         }
       ]
     }
@@ -1090,53 +880,35 @@
     "encounters": {
       "first": [
         {
-          "id": 216,
-          "form": 1265,
-          "template": "TEDDIURSA_NORMAL"
+          "id": 216
         },
         {
-          "id": 163,
-          "form": 1151,
-          "template": "HOOTHOOT_NORMAL"
+          "id": 163
         },
         {
-          "id": 137,
-          "form": 677,
-          "template": "PORYGON_NORMAL"
+          "id": 137
         }
       ],
       "second": [
         {
-          "id": 294,
-          "form": 1445,
-          "template": "LOUDRED_NORMAL"
+          "id": 294
         },
         {
-          "id": 759,
-          "form": 3108,
-          "template": "STUFFUL_NORMAL"
+          "id": 759
         },
         {
-          "id": 396,
-          "form": 1658,
-          "template": "STARLY_NORMAL"
+          "id": 396
         }
       ],
       "third": [
         {
-          "id": 217,
-          "form": 1268,
-          "template": "URSARING_NORMAL"
+          "id": 217
         },
         {
-          "id": 277,
-          "form": 1403,
-          "template": "SWELLOW_NORMAL"
+          "id": 277
         },
         {
-          "id": 115,
-          "form": 839,
-          "template": "KANGASKHAN_NORMAL"
+          "id": 115
         }
       ]
     }
@@ -1153,19 +925,13 @@
     "encounters": {
       "first": [
         {
-          "id": 43,
-          "form": 265,
-          "template": "ODDISH_NORMAL"
+          "id": 43
         },
         {
-          "id": 41,
-          "form": 157,
-          "template": "ZUBAT_NORMAL"
+          "id": 41
         },
         {
-          "id": 211,
-          "form": 1259,
-          "template": "QWILFISH_NORMAL"
+          "id": 211
         }
       ],
       "second": [
@@ -1175,31 +941,21 @@
           "template": "WEEZING_GALARIAN"
         },
         {
-          "id": 33,
-          "form": 785,
-          "template": "NIDORINO_NORMAL"
+          "id": 33
         },
         {
-          "id": 30,
-          "form": 779,
-          "template": "NIDORINA_NORMAL"
+          "id": 30
         }
       ],
       "third": [
         {
-          "id": 110,
-          "form": 706,
-          "template": "WEEZING_NORMAL"
+          "id": 110
         },
         {
-          "id": 454,
-          "form": 1805,
-          "template": "TOXICROAK_NORMAL"
+          "id": 454
         },
         {
-          "id": 591,
-          "form": 2165,
-          "template": "AMOONGUSS_NORMAL"
+          "id": 591
         }
       ]
     }
@@ -1246,53 +1002,35 @@
     "encounters": {
       "first": [
         {
-          "id": 202,
-          "form": 602,
-          "template": "WOBBUFFET_NORMAL"
+          "id": 202
         },
         {
-          "id": 280,
-          "form": 292,
-          "template": "RALTS_NORMAL"
+          "id": 280
         },
         {
-          "id": 96,
-          "form": 214,
-          "template": "DROWZEE_NORMAL"
+          "id": 96
         }
       ],
       "second": [
         {
-          "id": 96,
-          "form": 214,
-          "template": "DROWZEE_NORMAL"
+          "id": 96
         },
         {
-          "id": 578,
-          "form": 2132,
-          "template": "DUOSION_NORMAL"
+          "id": 578
         },
         {
-          "id": 202,
-          "form": 602,
-          "template": "WOBBUFFET_NORMAL"
+          "id": 202
         }
       ],
       "third": [
         {
-          "id": 475,
-          "form": 301,
-          "template": "GALLADE_NORMAL"
+          "id": 475
         },
         {
-          "id": 687,
-          "form": 3049,
-          "template": "MALAMAR_NORMAL"
+          "id": 687
         },
         {
-          "id": 579,
-          "form": 2135,
-          "template": "REUNICLUS_NORMAL"
+          "id": 579
         }
       ]
     }
@@ -1324,53 +1062,35 @@
     "encounters": {
       "first": [
         {
-          "id": 95,
-          "form": 902,
-          "template": "ONIX_NORMAL"
+          "id": 95
         },
         {
-          "id": 140,
-          "form": 1104,
-          "template": "KABUTO_NORMAL"
+          "id": 140
         },
         {
-          "id": 408,
-          "form": 1694,
-          "template": "CRANIDOS_NORMAL"
+          "id": 408
         }
       ],
       "second": [
         {
-          "id": 410,
-          "form": 1700,
-          "template": "SHIELDON_NORMAL"
+          "id": 410
         },
         {
-          "id": 75,
-          "form": 69,
-          "template": "GRAVELER_NORMAL"
+          "id": 75
         },
         {
-          "id": 408,
-          "form": 1694,
-          "template": "CRANIDOS_NORMAL"
+          "id": 408
         }
       ],
       "third": [
         {
-          "id": 697,
-          "form": 3059,
-          "template": "TYRANTRUM_NORMAL"
+          "id": 697
         },
         {
-          "id": 76,
-          "form": 71,
-          "template": "GOLEM_NORMAL"
+          "id": 76
         },
         {
-          "id": 699,
-          "form": 3061,
-          "template": "AURORUS_NORMAL"
+          "id": 699
         }
       ]
     }
@@ -1387,53 +1107,35 @@
     "encounters": {
       "first": [
         {
-          "id": 258,
-          "form": 205,
-          "template": "MUDKIP_NORMAL"
+          "id": 258
         },
         {
-          "id": 72,
-          "form": 1005,
-          "template": "TENTACOOL_NORMAL"
+          "id": 72
         },
         {
-          "id": 98,
-          "form": 870,
-          "template": "KRABBY_NORMAL"
+          "id": 98
         }
       ],
       "second": [
         {
-          "id": 751,
-          "form": 3100,
-          "template": "DEWPIDER_NORMAL"
+          "id": 751
         },
         {
-          "id": 260,
-          "form": 211,
-          "template": "SWAMPERT_NORMAL"
+          "id": 260
         },
         {
-          "id": 319,
-          "form": 737,
-          "template": "SHARPEDO_NORMAL"
+          "id": 319
         }
       ],
       "third": [
         {
-          "id": 365,
-          "form": 1604,
-          "template": "WALREIN_NORMAL"
+          "id": 365
         },
         {
-          "id": 658,
-          "form": 3030,
-          "template": "GRENINJA_NORMAL"
+          "id": 658
         },
         {
-          "id": 73,
-          "form": 1008,
-          "template": "TENTACRUEL_NORMAL"
+          "id": 73
         }
       ]
     }
@@ -1450,33 +1152,23 @@
     "encounters": {
       "first": [
         {
-          "id": 129,
-          "form": 253,
-          "template": "MAGIKARP_NORMAL"
+          "id": 129
         },
         {
-          "id": 349,
-          "form": 1580,
-          "template": "FEEBAS_NORMAL"
+          "id": 349
         }
       ],
       "second": [
         {
-          "id": 129,
-          "form": 253,
-          "template": "MAGIKARP_NORMAL"
+          "id": 129
         }
       ],
       "third": [
         {
-          "id": 129,
-          "form": 253,
-          "template": "MAGIKARP_NORMAL"
+          "id": 129
         },
         {
-          "id": 130,
-          "form": 256,
-          "template": "GYARADOS_NORMAL"
+          "id": 130
         }
       ]
     }
@@ -1507,21 +1199,15 @@
     "encounters": {
       "first": [
         {
-          "id": 610,
-          "form": 2222,
-          "template": "AXEW_NORMAL"
+          "id": 610
         }
       ],
       "second": [
         {
-          "id": 143,
-          "form": 199,
-          "template": "SNORLAX_NORMAL"
+          "id": 143
         },
         {
-          "id": 623,
-          "form": 2261,
-          "template": "GOLURK_NORMAL"
+          "id": 623
         },
         {
           "id": 110,
@@ -1531,19 +1217,13 @@
       ],
       "third": [
         {
-          "id": 248,
-          "form": 319,
-          "template": "TYRANITAR_NORMAL"
+          "id": 248
         },
         {
-          "id": 323,
-          "form": 1520,
-          "template": "CAMERUPT_NORMAL"
+          "id": 323
         },
         {
-          "id": 475,
-          "form": 301,
-          "template": "GALLADE_NORMAL"
+          "id": 475
         }
       ]
     }
@@ -1560,43 +1240,29 @@
     "encounters": {
       "first": [
         {
-          "id": 696,
-          "form": 3058,
-          "template": "TYRUNT_NORMAL"
+          "id": 696
         }
       ],
       "second": [
         {
-          "id": 208,
-          "form": 905,
-          "template": "STEELIX_NORMAL"
+          "id": 208
         },
         {
-          "id": 623,
-          "form": 2261,
-          "template": "GOLURK_NORMAL"
+          "id": 623
         },
         {
-          "id": 80,
-          "form": 1020,
-          "template": "SLOWBRO_NORMAL"
+          "id": 80
         }
       ],
       "third": [
         {
-          "id": 65,
-          "form": 310,
-          "template": "ALAKAZAM_NORMAL"
+          "id": 65
         },
         {
-          "id": 6,
-          "form": 178,
-          "template": "CHARIZARD_NORMAL"
+          "id": 6
         },
         {
-          "id": 212,
-          "form": 250,
-          "template": "SCIZOR_NORMAL"
+          "id": 212
         }
       ]
     }
@@ -1613,43 +1279,29 @@
     "encounters": {
       "first": [
         {
-          "id": 698,
-          "form": 3060,
-          "template": "AMAURA_NORMAL"
+          "id": 698
         }
       ],
       "second": [
         {
-          "id": 9,
-          "form": 187,
-          "template": "BLASTOISE_NORMAL"
+          "id": 9
         },
         {
-          "id": 330,
-          "form": 752,
-          "template": "FLYGON_NORMAL"
+          "id": 330
         },
         {
-          "id": 598,
-          "form": 2186,
-          "template": "FERROTHORN_NORMAL"
+          "id": 598
         }
       ],
       "third": [
         {
-          "id": 350,
-          "form": 1583,
-          "template": "MILOTIC_NORMAL"
+          "id": 350
         },
         {
-          "id": 229,
-          "form": 232,
-          "template": "HOUNDOOM_NORMAL"
+          "id": 229
         },
         {
-          "id": 208,
-          "form": 905,
-          "template": "STEELIX_NORMAL"
+          "id": 208
         }
       ]
     }
@@ -1666,33 +1318,23 @@
     "encounters": {
       "first": [
         {
-          "id": 53,
-          "form": 65,
-          "template": "PERSIAN_NORMAL"
+          "id": 53
         }
       ],
       "second": [
         {
-          "id": 115,
-          "form": 839,
-          "template": "KANGASKHAN_NORMAL"
+          "id": 115
         },
         {
-          "id": 464,
-          "form": 852,
-          "template": "RHYPERIOR_NORMAL"
+          "id": 464
         },
         {
-          "id": 68,
-          "form": 815,
-          "template": "MACHAMP_NORMAL"
+          "id": 68
         }
       ],
       "third": [
         {
-          "id": 643,
-          "form": 2315,
-          "template": "RESHIRAM_NORMAL"
+          "id": 643
         }
       ]
     }
@@ -1724,33 +1366,23 @@
     "encounters": {
       "first": [
         {
-          "id": 69,
-          "form": 664,
-          "template": "BELLSPROUT_NORMAL"
+          "id": 69
         }
       ],
       "second": [
         {
-          "id": 20,
-          "form": 47,
-          "template": "RATICATE_NORMAL"
+          "id": 20
         },
         {
-          "id": 70,
-          "form": 667,
-          "template": "WEEPINBELL_NORMAL"
+          "id": 70
         }
       ],
       "third": [
         {
-          "id": 20,
-          "form": 47,
-          "template": "RATICATE_NORMAL"
+          "id": 20
         },
         {
-          "id": 143,
-          "form": 199,
-          "template": "SNORLAX_NORMAL"
+          "id": 143
         }
       ]
     }
@@ -1782,53 +1414,35 @@
     "encounters": {
       "first": [
         {
-          "id": 355,
-          "form": 914,
-          "template": "DUSKULL_NORMAL"
+          "id": 355
         },
         {
-          "id": 92,
-          "form": 1038,
-          "template": "GASTLY_NORMAL"
+          "id": 92
         },
         {
-          "id": 562,
-          "form": 2084,
-          "template": "YAMASK_NORMAL"
+          "id": 562
         }
       ],
       "second": [
         {
-          "id": 356,
-          "form": 917,
-          "template": "DUSCLOPS_NORMAL"
+          "id": 356
         },
         {
-          "id": 302,
-          "form": 923,
-          "template": "SABLEYE_NORMAL"
+          "id": 302
         },
         {
-          "id": 563,
-          "form": 2087,
-          "template": "COFAGRIGUS_NORMAL"
+          "id": 563
         }
       ],
       "third": [
         {
-          "id": 94,
-          "form": 1044,
-          "template": "GENGAR_NORMAL"
+          "id": 94
         },
         {
-          "id": 478,
-          "form": 1844,
-          "template": "FROSLASS_NORMAL"
+          "id": 478
         },
         {
-          "id": 563,
-          "form": 2087,
-          "template": "COFAGRIGUS_NORMAL"
+          "id": 563
         }
       ]
     }
@@ -1845,31 +1459,21 @@
     "encounters": {
       "first": [
         {
-          "id": 100,
-          "form": 1047,
-          "template": "VOLTORB_NORMAL"
+          "id": 100
         },
         {
-          "id": 403,
-          "form": 1679,
-          "template": "SHINX_NORMAL"
+          "id": 403
         },
         {
-          "id": 694,
-          "form": 3056,
-          "template": "HELIOPTILE_NORMAL"
+          "id": 694
         }
       ],
       "second": [
         {
-          "id": 125,
-          "form": 640,
-          "template": "ELECTABUZZ_NORMAL"
+          "id": 125
         },
         {
-          "id": 100,
-          "form": 1047,
-          "template": "VOLTORB_NORMAL"
+          "id": 100
         },
         {
           "id": 74,
@@ -1879,19 +1483,13 @@
       ],
       "third": [
         {
-          "id": 405,
-          "form": 1685,
-          "template": "LUXRAY_NORMAL"
+          "id": 405
         },
         {
-          "id": 181,
-          "form": 652,
-          "template": "AMPHAROS_NORMAL"
+          "id": 181
         },
         {
-          "id": 596,
-          "form": 2180,
-          "template": "GALVANTULA_NORMAL"
+          "id": 596
         }
       ]
     }
